@@ -1,0 +1,9786 @@
+[
+  {
+    "ID": 0,
+    "Rank": 1,
+    "Site Name": "Galapagos Islands",
+    "Nomination Year": 1978,
+    "Country": "Ecuador",
+    "Rating": 4.8
+  },
+  {
+    "ID": 1,
+    "Rank": 2,
+    "Site Name": "Quito",
+    "Nomination Year": 1978,
+    "Country": "Ecuador",
+    "Rating": 3.4
+  },
+  {
+    "ID": 2,
+    "Rank": 3,
+    "Site Name": "Aachen Cathedral",
+    "Nomination Year": 1978,
+    "Country": "Germany",
+    "Rating": 3.71
+  },
+  {
+    "ID": 3,
+    "Rank": 4,
+    "Site Name": "L'Anse aux Meadows",
+    "Nomination Year": 1978,
+    "Country": "Canada",
+    "Rating": 3.39
+  },
+  {
+    "ID": 4,
+    "Rank": 8,
+    "Site Name": "Ichkeul National Park",
+    "Nomination Year": 1980,
+    "Country": "Tunisia",
+    "Rating": 2.3
+  },
+  {
+    "ID": 5,
+    "Rank": 9,
+    "Site Name": "Simien National Park",
+    "Nomination Year": 1978,
+    "Country": "Ethiopia",
+    "Rating": 3.75
+  },
+  {
+    "ID": 6,
+    "Rank": 10,
+    "Site Name": "Lower Valley of the Awash",
+    "Nomination Year": 1980,
+    "Country": "Ethiopia",
+    "Rating": 3.14
+  },
+  {
+    "ID": 7,
+    "Rank": 12,
+    "Site Name": "Tiya",
+    "Nomination Year": 1980,
+    "Country": "Ethiopia",
+    "Rating": 2.28
+  },
+  {
+    "ID": 8,
+    "Rank": 13,
+    "Site Name": "Melka Kunture and Balchit",
+    "Nomination Year": 2024,
+    "Country": "Ethiopia",
+    "Rating": 1.61
+  },
+  {
+    "ID": 9,
+    "Rank": 15,
+    "Site Name": "Aksum",
+    "Nomination Year": 1980,
+    "Country": "Ethiopia",
+    "Rating": 3.42
+  },
+  {
+    "ID": 10,
+    "Rank": 17,
+    "Site Name": "Lower Valley of the Omo",
+    "Nomination Year": 1980,
+    "Country": "Ethiopia",
+    "Rating": 3.57
+  },
+  {
+    "ID": 11,
+    "Rank": 18,
+    "Site Name": "Lalibela",
+    "Nomination Year": 1978,
+    "Country": "Ethiopia",
+    "Rating": 4.41
+  },
+  {
+    "ID": 12,
+    "Rank": 19,
+    "Site Name": "Fasil Ghebbi",
+    "Nomination Year": 1979,
+    "Country": "Ethiopia",
+    "Rating": 3.31
+  },
+  {
+    "ID": 13,
+    "Rank": 20,
+    "Site Name": "Damascus",
+    "Nomination Year": 1979,
+    "Country": "Syria",
+    "Rating": 4.15
+  },
+  {
+    "ID": 14,
+    "Rank": 21,
+    "Site Name": "Aleppo",
+    "Nomination Year": 1986,
+    "Country": "Syria",
+    "Rating": 3.82
+  },
+  {
+    "ID": 15,
+    "Rank": 22,
+    "Site Name": "Bosra",
+    "Nomination Year": 1980,
+    "Country": "Syria",
+    "Rating": 3.31
+  },
+  {
+    "ID": 16,
+    "Rank": 23,
+    "Site Name": "Palmyra",
+    "Nomination Year": 1980,
+    "Country": "Syria",
+    "Rating": 4.27
+  },
+  {
+    "ID": 17,
+    "Rank": 24,
+    "Site Name": "Nahanni National Park",
+    "Nomination Year": 1978,
+    "Country": "Canada",
+    "Rating": 4.37
+  },
+  {
+    "ID": 18,
+    "Rank": 25,
+    "Site Name": "Djoudj",
+    "Nomination Year": 1981,
+    "Country": "Senegal",
+    "Rating": 3.08
+  },
+  {
+    "ID": 19,
+    "Rank": 26,
+    "Site Name": "Island of Gorée",
+    "Nomination Year": 1978,
+    "Country": "Senegal",
+    "Rating": 3.07
+  },
+  {
+    "ID": 20,
+    "Rank": 27,
+    "Site Name": "Mesa Verde",
+    "Nomination Year": 1978,
+    "Country": "United States of America",
+    "Rating": 4.12
+  },
+  {
+    "ID": 21,
+    "Rank": 28,
+    "Site Name": "Yellowstone",
+    "Nomination Year": 1978,
+    "Country": "United States of America",
+    "Rating": 4.81
+  },
+  {
+    "ID": 22,
+    "Rank": 29,
+    "Site Name": "Kraków",
+    "Nomination Year": 1978,
+    "Country": "Poland",
+    "Rating": 4.09
+  },
+  {
+    "ID": 23,
+    "Rank": 30,
+    "Site Name": "Warsaw",
+    "Nomination Year": 1980,
+    "Country": "Poland",
+    "Rating": 3.27
+  },
+  {
+    "ID": 24,
+    "Rank": 31,
+    "Site Name": "Auschwitz Birkenau",
+    "Nomination Year": 1979,
+    "Country": "Poland",
+    "Rating": 4.1
+  },
+  {
+    "ID": 25,
+    "Rank": 32,
+    "Site Name": "Wieliczka and Bochnia Royal Salt Mines",
+    "Nomination Year": 1978,
+    "Country": "Poland",
+    "Rating": 3.71
+  },
+  {
+    "ID": 26,
+    "Rank": 33,
+    "Site Name": "Białowieża Forest",
+    "Nomination Year": 1979,
+    "Country": "Poland",
+    "Rating": 2.87
+  },
+  {
+    "ID": 27,
+    "Rank": 34,
+    "Site Name": "Forts and Castles Gold Coast",
+    "Nomination Year": 1979,
+    "Country": "Ghana",
+    "Rating": 3.13
+  },
+  {
+    "ID": 28,
+    "Rank": 35,
+    "Site Name": "Asante Traditional Buildings",
+    "Nomination Year": 1980,
+    "Country": "Ghana",
+    "Rating": 2.04
+  },
+  {
+    "ID": 29,
+    "Rank": 36,
+    "Site Name": "Medina of Tunis",
+    "Nomination Year": 1979,
+    "Country": "Tunisia",
+    "Rating": 3.13
+  },
+  {
+    "ID": 30,
+    "Rank": 37,
+    "Site Name": "Carthage",
+    "Nomination Year": 1979,
+    "Country": "Tunisia",
+    "Rating": 3.26
+  },
+  {
+    "ID": 31,
+    "Rank": 38,
+    "Site Name": "Amphitheater of El Jem",
+    "Nomination Year": 1979,
+    "Country": "Tunisia",
+    "Rating": 3.59
+  },
+  {
+    "ID": 32,
+    "Rank": 39,
+    "Site Name": "Ngorongoro",
+    "Nomination Year": 1979,
+    "Country": "Tanzania",
+    "Rating": 4.5
+  },
+  {
+    "ID": 33,
+    "Rank": 42,
+    "Site Name": "Boyana Church",
+    "Nomination Year": 1979,
+    "Country": "Bulgaria",
+    "Rating": 2.97
+  },
+  {
+    "ID": 34,
+    "Rank": 43,
+    "Site Name": "Madara Rider",
+    "Nomination Year": 1979,
+    "Country": "Bulgaria",
+    "Rating": 2.19
+  },
+  {
+    "ID": 35,
+    "Rank": 44,
+    "Site Name": "Thracian tomb of Kazanlak",
+    "Nomination Year": 1979,
+    "Country": "Bulgaria",
+    "Rating": 2.4
+  },
+  {
+    "ID": 36,
+    "Rank": 45,
+    "Site Name": "Rock-hewn Churches of Ivanovo",
+    "Nomination Year": 1979,
+    "Country": "Bulgaria",
+    "Rating": 2.9
+  },
+  {
+    "ID": 37,
+    "Rank": 55,
+    "Site Name": "Røros",
+    "Nomination Year": 1980,
+    "Country": "Norway",
+    "Rating": 3.14
+  },
+  {
+    "ID": 38,
+    "Rank": 58,
+    "Site Name": "Urnes Stave Church",
+    "Nomination Year": 1979,
+    "Country": "Norway",
+    "Rating": 3.59
+  },
+  {
+    "ID": 39,
+    "Rank": 59,
+    "Site Name": "Bryggen",
+    "Nomination Year": 1979,
+    "Country": "Norway",
+    "Rating": 3.29
+  },
+  {
+    "ID": 40,
+    "Rank": 63,
+    "Site Name": "Virunga National Park",
+    "Nomination Year": 1979,
+    "Country": "Congo (Democratic Republic)",
+    "Rating": 4.54
+  },
+  {
+    "ID": 41,
+    "Rank": 64,
+    "Site Name": "Tikal National Park",
+    "Nomination Year": 1979,
+    "Country": "Guatemala",
+    "Rating": 4.61
+  },
+  {
+    "ID": 42,
+    "Rank": 65,
+    "Site Name": "Antigua Guatemala",
+    "Nomination Year": 1979,
+    "Country": "Guatemala",
+    "Rating": 3.82
+  },
+  {
+    "ID": 43,
+    "Rank": 71,
+    "Site Name": "Dinosaur Provincial Park",
+    "Nomination Year": 1979,
+    "Country": "Canada",
+    "Rating": 3.63
+  },
+  {
+    "ID": 44,
+    "Rank": 72,
+    "Site Name": "Glacier parks",
+    "Nomination Year": 1979,
+    "Country": "Canada",
+    "Rating": 4.23
+  },
+  {
+    "ID": 45,
+    "Rank": 75,
+    "Site Name": "Grand Canyon",
+    "Nomination Year": 1979,
+    "Country": "United States of America",
+    "Rating": 4.5
+  },
+  {
+    "ID": 46,
+    "Rank": 76,
+    "Site Name": "Everglades",
+    "Nomination Year": 1979,
+    "Country": "United States of America",
+    "Rating": 3.68
+  },
+  {
+    "ID": 47,
+    "Rank": 78,
+    "Site Name": "Independence Hall",
+    "Nomination Year": 1979,
+    "Country": "United States of America",
+    "Rating": 2.96
+  },
+  {
+    "ID": 48,
+    "Rank": 79,
+    "Site Name": "Paphos",
+    "Nomination Year": 1980,
+    "Country": "Cyprus",
+    "Rating": 3.42
+  },
+  {
+    "ID": 49,
+    "Rank": 80,
+    "Site Name": "Mont-Saint-Michel",
+    "Nomination Year": 1979,
+    "Country": "France",
+    "Rating": 4.23
+  },
+  {
+    "ID": 50,
+    "Rank": 81,
+    "Site Name": "Chartres Cathedral",
+    "Nomination Year": 1979,
+    "Country": "France",
+    "Rating": 3.5
+  },
+  {
+    "ID": 51,
+    "Rank": 83,
+    "Site Name": "Versailles",
+    "Nomination Year": 1979,
+    "Country": "France",
+    "Rating": 4.04
+  },
+  {
+    "ID": 52,
+    "Rank": 84,
+    "Site Name": "Vézelay",
+    "Nomination Year": 1979,
+    "Country": "France",
+    "Rating": 3.18
+  },
+  {
+    "ID": 53,
+    "Rank": 85,
+    "Site Name": "Vézère Valley",
+    "Nomination Year": 1979,
+    "Country": "France",
+    "Rating": 3.64
+  },
+  {
+    "ID": 54,
+    "Rank": 86,
+    "Site Name": "Pyramids (Memphis)",
+    "Nomination Year": 1979,
+    "Country": "Egypt",
+    "Rating": 4.58
+  },
+  {
+    "ID": 55,
+    "Rank": 87,
+    "Site Name": "Ancient Thebes",
+    "Nomination Year": 1979,
+    "Country": "Egypt",
+    "Rating": 4.58
+  },
+  {
+    "ID": 56,
+    "Rank": 88,
+    "Site Name": "Nubian Monuments",
+    "Nomination Year": 1979,
+    "Country": "Egypt",
+    "Rating": 4.37
+  },
+  {
+    "ID": 57,
+    "Rank": 89,
+    "Site Name": "Historic Cairo",
+    "Nomination Year": 1979,
+    "Country": "Egypt",
+    "Rating": 3.7
+  },
+  {
+    "ID": 58,
+    "Rank": 90,
+    "Site Name": "Abu Mena",
+    "Nomination Year": 1979,
+    "Country": "Egypt",
+    "Rating": 1.71
+  },
+  {
+    "ID": 59,
+    "Rank": 91,
+    "Site Name": "Rome",
+    "Nomination Year": 1980,
+    "Country": "Holy See",
+    "Rating": 4.68
+  },
+  {
+    "ID": 60,
+    "Rank": 93,
+    "Site Name": "Santa Maria delle Grazie",
+    "Nomination Year": 1980,
+    "Country": "Italy",
+    "Rating": 3.39
+  },
+  {
+    "ID": 61,
+    "Rank": 94,
+    "Site Name": "Rock Drawings in Valcamonica",
+    "Nomination Year": 1979,
+    "Country": "Italy",
+    "Rating": 3.21
+  },
+  {
+    "ID": 62,
+    "Rank": 95,
+    "Site Name": "Dubrovnik",
+    "Nomination Year": 1979,
+    "Country": "Croatia",
+    "Rating": 4.15
+  },
+  {
+    "ID": 63,
+    "Rank": 96,
+    "Site Name": "Stari Ras and Sopocani",
+    "Nomination Year": 1979,
+    "Country": "Serbia",
+    "Rating": 2.92
+  },
+  {
+    "ID": 64,
+    "Rank": 97,
+    "Site Name": "Split",
+    "Nomination Year": 1979,
+    "Country": "Croatia",
+    "Rating": 3.55
+  },
+  {
+    "ID": 65,
+    "Rank": 98,
+    "Site Name": "Plitvice Lakes",
+    "Nomination Year": 1979,
+    "Country": "Croatia",
+    "Rating": 4.18
+  },
+  {
+    "ID": 66,
+    "Rank": 99,
+    "Site Name": "Ohrid Region",
+    "Nomination Year": 1979,
+    "Country": "North Macedonia",
+    "Rating": 3.52
+  },
+  {
+    "ID": 67,
+    "Rank": 100,
+    "Site Name": "Durmitor National Park",
+    "Nomination Year": 1980,
+    "Country": "Montenegro",
+    "Rating": 3.53
+  },
+  {
+    "ID": 68,
+    "Rank": 102,
+    "Site Name": "Al Qal'a of Beni Hammad",
+    "Nomination Year": 1980,
+    "Country": "Algeria",
+    "Rating": 2.54
+  },
+  {
+    "ID": 69,
+    "Rank": 111,
+    "Site Name": "Bale Mountains National Park",
+    "Nomination Year": 2023,
+    "Country": "Ethiopia",
+    "Rating": 3.95
+  },
+  {
+    "ID": 70,
+    "Rank": 113,
+    "Site Name": "Tchogha Zanbil",
+    "Nomination Year": 1979,
+    "Country": "Iran",
+    "Rating": 3.72
+  },
+  {
+    "ID": 71,
+    "Rank": 114,
+    "Site Name": "Persepolis",
+    "Nomination Year": 1979,
+    "Country": "Iran",
+    "Rating": 4.56
+  },
+  {
+    "ID": 72,
+    "Rank": 115,
+    "Site Name": "Meidan Emam, Esfahan",
+    "Nomination Year": 1979,
+    "Country": "Iran",
+    "Rating": 4.12
+  },
+  {
+    "ID": 73,
+    "Rank": 116,
+    "Site Name": "Djenné",
+    "Nomination Year": 1988,
+    "Country": "Mali",
+    "Rating": 3.99
+  },
+  {
+    "ID": 74,
+    "Rank": 119,
+    "Site Name": "Timbuktu",
+    "Nomination Year": 1988,
+    "Country": "Mali",
+    "Rating": 3.78
+  },
+  {
+    "ID": 75,
+    "Rank": 120,
+    "Site Name": "Sagarmatha National Park",
+    "Nomination Year": 1979,
+    "Country": "Nepal",
+    "Rating": 4.08
+  },
+  {
+    "ID": 76,
+    "Rank": 121,
+    "Site Name": "Kathmandu Valley",
+    "Nomination Year": 1979,
+    "Country": "Nepal",
+    "Rating": 3.94
+  },
+  {
+    "ID": 77,
+    "Rank": 124,
+    "Site Name": "Ouro Preto",
+    "Nomination Year": 1980,
+    "Country": "Brazil",
+    "Rating": 3.69
+  },
+  {
+    "ID": 78,
+    "Rank": 125,
+    "Site Name": "Kotor",
+    "Nomination Year": 1979,
+    "Country": "Montenegro",
+    "Rating": 3.86
+  },
+  {
+    "ID": 79,
+    "Rank": 129,
+    "Site Name": "Copán",
+    "Nomination Year": 1980,
+    "Country": "Honduras",
+    "Rating": 4.04
+  },
+  {
+    "ID": 80,
+    "Rank": 130,
+    "Site Name": "Hal Saflieni Hypogeum",
+    "Nomination Year": 1980,
+    "Country": "Malta",
+    "Rating": 3.91
+  },
+  {
+    "ID": 81,
+    "Rank": 131,
+    "Site Name": "Valletta",
+    "Nomination Year": 1980,
+    "Country": "Malta",
+    "Rating": 3.79
+  },
+  {
+    "ID": 82,
+    "Rank": 132,
+    "Site Name": "Megalithic Temples of Malta",
+    "Nomination Year": 1980,
+    "Country": "Malta",
+    "Rating": 3.62
+  },
+  {
+    "ID": 83,
+    "Rank": 134,
+    "Site Name": "Redwood",
+    "Nomination Year": 1980,
+    "Country": "United States of America",
+    "Rating": 4.17
+  },
+  {
+    "ID": 84,
+    "Rank": 135,
+    "Site Name": "Portobelo-San Lorenzo",
+    "Nomination Year": 1980,
+    "Country": "Panama",
+    "Rating": 2.76
+  },
+  {
+    "ID": 85,
+    "Rank": 136,
+    "Site Name": "Garamba National Park",
+    "Nomination Year": 1980,
+    "Country": "Congo (Democratic Republic)",
+    "Rating": 0
+  },
+  {
+    "ID": 86,
+    "Rank": 137,
+    "Site Name": "Kahuzi-Biega National Park",
+    "Nomination Year": 1980,
+    "Country": "Congo (Democratic Republic)",
+    "Rating": 4.07
+  },
+  {
+    "ID": 87,
+    "Rank": 138,
+    "Site Name": "Moenjodaro",
+    "Nomination Year": 1980,
+    "Country": "Pakistan",
+    "Rating": 3.92
+  },
+  {
+    "ID": 88,
+    "Rank": 139,
+    "Site Name": "Taxila",
+    "Nomination Year": 1980,
+    "Country": "Pakistan",
+    "Rating": 3.41
+  },
+  {
+    "ID": 89,
+    "Rank": 140,
+    "Site Name": "Takht-i-Bahi",
+    "Nomination Year": 1980,
+    "Country": "Pakistan",
+    "Rating": 3.34
+  },
+  {
+    "ID": 90,
+    "Rank": 143,
+    "Site Name": "Makli, Thatta",
+    "Nomination Year": 1981,
+    "Country": "Pakistan",
+    "Rating": 3.41
+  },
+  {
+    "ID": 91,
+    "Rank": 144,
+    "Site Name": "Ruins of Kilwa Kisiwani and Songo Mnara",
+    "Nomination Year": 1981,
+    "Country": "Tanzania",
+    "Rating": 3.57
+  },
+  {
+    "ID": 92,
+    "Rank": 145,
+    "Site Name": "Los Glaciares",
+    "Nomination Year": 1981,
+    "Country": "Argentina",
+    "Rating": 4.58
+  },
+  {
+    "ID": 93,
+    "Rank": 147,
+    "Site Name": "Kakadu National Park",
+    "Nomination Year": 1981,
+    "Country": "Australia",
+    "Rating": 4.15
+  },
+  {
+    "ID": 94,
+    "Rank": 148,
+    "Site Name": "Old City of Jerusalem",
+    "Nomination Year": 1981,
+    "Country": "Israel",
+    "Rating": 4.45
+  },
+  {
+    "ID": 95,
+    "Rank": 149,
+    "Site Name": "Quirigua",
+    "Nomination Year": 1981,
+    "Country": "Guatemala",
+    "Rating": 3.37
+  },
+  {
+    "ID": 96,
+    "Rank": 150,
+    "Site Name": "Mammoth Cave",
+    "Nomination Year": 1981,
+    "Country": "United States of America",
+    "Rating": 3.38
+  },
+  {
+    "ID": 97,
+    "Rank": 151,
+    "Site Name": "Olympic National Park",
+    "Nomination Year": 1981,
+    "Country": "United States of America",
+    "Rating": 3.99
+  },
+  {
+    "ID": 98,
+    "Rank": 153,
+    "Site Name": "Niokolo-Koba National Park",
+    "Nomination Year": 1981,
+    "Country": "Senegal",
+    "Rating": 2.35
+  },
+  {
+    "ID": 99,
+    "Rank": 154,
+    "Site Name": "Great Barrier Reef",
+    "Nomination Year": 1981,
+    "Country": "Australia",
+    "Rating": 4.43
+  },
+  {
+    "ID": 100,
+    "Rank": 155,
+    "Site Name": "Mount Nimba",
+    "Nomination Year": 1981,
+    "Country": "Côte d'Ivoire",
+    "Rating": 3.5
+  },
+  {
+    "ID": 101,
+    "Rank": 156,
+    "Site Name": "Serengeti",
+    "Nomination Year": 1981,
+    "Country": "Tanzania",
+    "Rating": 4.56
+  },
+  {
+    "ID": 102,
+    "Rank": 157,
+    "Site Name": "SGang Gwaay",
+    "Nomination Year": 1981,
+    "Country": "Canada",
+    "Rating": 3.06
+  },
+  {
+    "ID": 103,
+    "Rank": 158,
+    "Site Name": "Head-Smashed-In Buffalo Jump",
+    "Nomination Year": 1981,
+    "Country": "Canada",
+    "Rating": 3.19
+  },
+  {
+    "ID": 104,
+    "Rank": 159,
+    "Site Name": "Darien National Park",
+    "Nomination Year": 1981,
+    "Country": "Panama",
+    "Rating": 3.74
+  },
+  {
+    "ID": 105,
+    "Rank": 160,
+    "Site Name": "Fontainebleau",
+    "Nomination Year": 1981,
+    "Country": "France",
+    "Rating": 3.61
+  },
+  {
+    "ID": 106,
+    "Rank": 162,
+    "Site Name": "Amiens Cathedral",
+    "Nomination Year": 1981,
+    "Country": "France",
+    "Rating": 3.6
+  },
+  {
+    "ID": 107,
+    "Rank": 163,
+    "Site Name": "Orange",
+    "Nomination Year": 1981,
+    "Country": "France",
+    "Rating": 2.86
+  },
+  {
+    "ID": 108,
+    "Rank": 164,
+    "Site Name": "Arles",
+    "Nomination Year": 1981,
+    "Country": "France",
+    "Rating": 3.42
+  },
+  {
+    "ID": 109,
+    "Rank": 165,
+    "Site Name": "Cistercian Abbey of Fontenay",
+    "Nomination Year": 1981,
+    "Country": "France",
+    "Rating": 3.13
+  },
+  {
+    "ID": 110,
+    "Rank": 166,
+    "Site Name": "Sydney Opera House",
+    "Nomination Year": 2007,
+    "Country": "Australia",
+    "Rating": 3.47
+  },
+  {
+    "ID": 111,
+    "Rank": 167,
+    "Site Name": "Willandra Lakes",
+    "Nomination Year": 1981,
+    "Country": "Australia",
+    "Rating": 3.51
+  },
+  {
+    "ID": 112,
+    "Rank": 168,
+    "Site Name": "Speyer Cathedral",
+    "Nomination Year": 1981,
+    "Country": "Germany",
+    "Rating": 2.99
+  },
+  {
+    "ID": 113,
+    "Rank": 169,
+    "Site Name": "Würzburg Residence",
+    "Nomination Year": 1981,
+    "Country": "Germany",
+    "Rating": 3.36
+  },
+  {
+    "ID": 114,
+    "Rank": 170,
+    "Site Name": "Medina of Fez",
+    "Nomination Year": 1981,
+    "Country": "Morocco",
+    "Rating": 3.8
+  },
+  {
+    "ID": 115,
+    "Rank": 171,
+    "Site Name": "Fort and Shalamar Gardens",
+    "Nomination Year": 1981,
+    "Country": "Pakistan",
+    "Rating": 3.22
+  },
+  {
+    "ID": 116,
+    "Rank": 173,
+    "Site Name": "Stone Town of Zanzibar",
+    "Nomination Year": 2000,
+    "Country": "Tanzania",
+    "Rating": 3.63
+  },
+  {
+    "ID": 117,
+    "Rank": 174,
+    "Site Name": "Florence",
+    "Nomination Year": 1982,
+    "Country": "Italy",
+    "Rating": 4.57
+  },
+  {
+    "ID": 118,
+    "Rank": 175,
+    "Site Name": "Medici Villas and Gardens",
+    "Nomination Year": 2013,
+    "Country": "Italy",
+    "Rating": 3.12
+  },
+  {
+    "ID": 119,
+    "Rank": 179,
+    "Site Name": "Tassili n'Ajjer",
+    "Nomination Year": 1982,
+    "Country": "Algeria",
+    "Rating": 3.83
+  },
+  {
+    "ID": 120,
+    "Rank": 180,
+    "Site Name": "National History Park",
+    "Nomination Year": 1982,
+    "Country": "Haiti",
+    "Rating": 4.17
+  },
+  {
+    "ID": 121,
+    "Rank": 181,
+    "Site Name": "Tasmanian Wilderness",
+    "Nomination Year": 1982,
+    "Country": "Australia",
+    "Rating": 4.23
+  },
+  {
+    "ID": 122,
+    "Rank": 183,
+    "Site Name": "Leptis Magna",
+    "Nomination Year": 1982,
+    "Country": "Libya",
+    "Rating": 4.32
+  },
+  {
+    "ID": 123,
+    "Rank": 184,
+    "Site Name": "Sabratha",
+    "Nomination Year": 1982,
+    "Country": "Libya",
+    "Rating": 3.78
+  },
+  {
+    "ID": 124,
+    "Rank": 185,
+    "Site Name": "Aldabra Atoll",
+    "Nomination Year": 1982,
+    "Country": "Seychelles",
+    "Rating": 3.62
+  },
+  {
+    "ID": 125,
+    "Rank": 186,
+    "Site Name": "Lord Howe Island",
+    "Nomination Year": 1982,
+    "Country": "Australia",
+    "Rating": 3.87
+  },
+  {
+    "ID": 126,
+    "Rank": 187,
+    "Site Name": "Hildesheim Cathedral and Church",
+    "Nomination Year": 1985,
+    "Country": "Germany",
+    "Rating": 2.67
+  },
+  {
+    "ID": 127,
+    "Rank": 188,
+    "Site Name": "M'Zab Valley",
+    "Nomination Year": 1982,
+    "Country": "Algeria",
+    "Rating": 3.84
+  },
+  {
+    "ID": 128,
+    "Rank": 189,
+    "Site Name": "Olinda",
+    "Nomination Year": 1982,
+    "Country": "Brazil",
+    "Rating": 3.36
+  },
+  {
+    "ID": 129,
+    "Rank": 190,
+    "Site Name": "Cyrene",
+    "Nomination Year": 1982,
+    "Country": "Libya",
+    "Rating": 3.26
+  },
+  {
+    "ID": 130,
+    "Rank": 191,
+    "Site Name": "Djémila",
+    "Nomination Year": 1982,
+    "Country": "Algeria",
+    "Rating": 3.72
+  },
+  {
+    "ID": 131,
+    "Rank": 192,
+    "Site Name": "Shibam",
+    "Nomination Year": 1982,
+    "Country": "Yemen",
+    "Rating": 4.33
+  },
+  {
+    "ID": 132,
+    "Rank": 193,
+    "Site Name": "Tipasa",
+    "Nomination Year": 1982,
+    "Country": "Algeria",
+    "Rating": 3.12
+  },
+  {
+    "ID": 133,
+    "Rank": 194,
+    "Site Name": "Timgad",
+    "Nomination Year": 1982,
+    "Country": "Algeria",
+    "Rating": 3.61
+  },
+  {
+    "ID": 134,
+    "Rank": 195,
+    "Site Name": "Taï National Park",
+    "Nomination Year": 1982,
+    "Country": "Côte d'Ivoire",
+    "Rating": 3.5
+  },
+  {
+    "ID": 135,
+    "Rank": 196,
+    "Site Name": "Rio Platano Biosphere Reserve",
+    "Nomination Year": 1982,
+    "Country": "Honduras",
+    "Rating": 3.57
+  },
+  {
+    "ID": 136,
+    "Rank": 198,
+    "Site Name": "Cahokia Mounds",
+    "Nomination Year": 1982,
+    "Country": "United States of America",
+    "Rating": 2.66
+  },
+  {
+    "ID": 137,
+    "Rank": 199,
+    "Site Name": "Selous Game Reserve",
+    "Nomination Year": 1982,
+    "Country": "Tanzania",
+    "Rating": 3.72
+  },
+  {
+    "ID": 138,
+    "Rank": 200,
+    "Site Name": "Anuradhapura",
+    "Nomination Year": 1982,
+    "Country": "Sri Lanka",
+    "Rating": 3.52
+  },
+  {
+    "ID": 139,
+    "Rank": 201,
+    "Site Name": "Polonnaruva",
+    "Nomination Year": 1982,
+    "Country": "Sri Lanka",
+    "Rating": 3.5
+  },
+  {
+    "ID": 140,
+    "Rank": 202,
+    "Site Name": "Sigiriya",
+    "Nomination Year": 1982,
+    "Country": "Sri Lanka",
+    "Rating": 3.81
+  },
+  {
+    "ID": 141,
+    "Rank": 203,
+    "Site Name": "Royal Saltworks of Arc-et-Senans",
+    "Nomination Year": 1982,
+    "Country": "France",
+    "Rating": 2.86
+  },
+  {
+    "ID": 142,
+    "Rank": 204,
+    "Site Name": "Old Havana",
+    "Nomination Year": 1982,
+    "Country": "Cuba",
+    "Rating": 3.98
+  },
+  {
+    "ID": 143,
+    "Rank": 205,
+    "Site Name": "Talamanca Range-La Amistad Reserves",
+    "Nomination Year": 1983,
+    "Country": "Costa Rica",
+    "Rating": 3.15
+  },
+  {
+    "ID": 144,
+    "Rank": 206,
+    "Site Name": "Angra do Heroismo",
+    "Nomination Year": 1983,
+    "Country": "Portugal",
+    "Rating": 3.19
+  },
+  {
+    "ID": 145,
+    "Rank": 208,
+    "Site Name": "Bamiyan Valley",
+    "Nomination Year": 2003,
+    "Country": "Afghanistan",
+    "Rating": 4.27
+  },
+  {
+    "ID": 146,
+    "Rank": 211,
+    "Site Name": "Minaret of Jam",
+    "Nomination Year": 2002,
+    "Country": "Afghanistan",
+    "Rating": 4.26
+  },
+  {
+    "ID": 147,
+    "Rank": 216,
+    "Site Name": "Rila Monastery",
+    "Nomination Year": 1983,
+    "Country": "Bulgaria",
+    "Rating": 3.74
+  },
+  {
+    "ID": 148,
+    "Rank": 217,
+    "Site Name": "Nessebar",
+    "Nomination Year": 1983,
+    "Country": "Bulgaria",
+    "Rating": 3
+  },
+  {
+    "ID": 149,
+    "Rank": 219,
+    "Site Name": "Srebarna Nature Reserve",
+    "Nomination Year": 1983,
+    "Country": "Bulgaria",
+    "Rating": 1.36
+  },
+  {
+    "ID": 150,
+    "Rank": 225,
+    "Site Name": "Pirin National Park",
+    "Nomination Year": 1983,
+    "Country": "Bulgaria",
+    "Rating": 2.94
+  },
+  {
+    "ID": 151,
+    "Rank": 227,
+    "Site Name": "Comoé National Park",
+    "Nomination Year": 1983,
+    "Country": "Côte d'Ivoire",
+    "Rating": 2.06
+  },
+  {
+    "ID": 152,
+    "Rank": 228,
+    "Site Name": "Avignon",
+    "Nomination Year": 1995,
+    "Country": "France",
+    "Rating": 3.65
+  },
+  {
+    "ID": 153,
+    "Rank": 229,
+    "Site Name": "Nancy",
+    "Nomination Year": 1983,
+    "Country": "France",
+    "Rating": 2.99
+  },
+  {
+    "ID": 154,
+    "Rank": 230,
+    "Site Name": "Saint-Savin sur Gartempe",
+    "Nomination Year": 1983,
+    "Country": "France",
+    "Rating": 3.2
+  },
+  {
+    "ID": 155,
+    "Rank": 231,
+    "Site Name": "Red Fort",
+    "Nomination Year": 2007,
+    "Country": "India",
+    "Rating": 3.2
+  },
+  {
+    "ID": 156,
+    "Rank": 232,
+    "Site Name": "Humayun's Tomb",
+    "Nomination Year": 1993,
+    "Country": "India",
+    "Rating": 3.4
+  },
+  {
+    "ID": 157,
+    "Rank": 233,
+    "Site Name": "Qutb Minar",
+    "Nomination Year": 1993,
+    "Country": "India",
+    "Rating": 3.56
+  },
+  {
+    "ID": 158,
+    "Rank": 234,
+    "Site Name": "Churches and Convents of Goa",
+    "Nomination Year": 1986,
+    "Country": "India",
+    "Rating": 3.42
+  },
+  {
+    "ID": 159,
+    "Rank": 239,
+    "Site Name": "Pattadakal",
+    "Nomination Year": 1987,
+    "Country": "India",
+    "Rating": 3.42
+  },
+  {
+    "ID": 160,
+    "Rank": 240,
+    "Site Name": "Khajuraho Group of Monuments",
+    "Nomination Year": 1986,
+    "Country": "India",
+    "Rating": 4.15
+  },
+  {
+    "ID": 161,
+    "Rank": 241,
+    "Site Name": "Hampi",
+    "Nomination Year": 1986,
+    "Country": "India",
+    "Rating": 4.28
+  },
+  {
+    "ID": 162,
+    "Rank": 242,
+    "Site Name": "Ajanta Caves",
+    "Nomination Year": 1983,
+    "Country": "India",
+    "Rating": 4.01
+  },
+  {
+    "ID": 163,
+    "Rank": 243,
+    "Site Name": "Ellora Caves",
+    "Nomination Year": 1983,
+    "Country": "India",
+    "Rating": 4.32
+  },
+  {
+    "ID": 164,
+    "Rank": 244,
+    "Site Name": "Elephanta Caves",
+    "Nomination Year": 1987,
+    "Country": "India",
+    "Rating": 3.13
+  },
+  {
+    "ID": 165,
+    "Rank": 246,
+    "Site Name": "Sun Temple, Konarak",
+    "Nomination Year": 1984,
+    "Country": "India",
+    "Rating": 3.84
+  },
+  {
+    "ID": 166,
+    "Rank": 247,
+    "Site Name": "Hill Forts of Rajasthan",
+    "Nomination Year": 2013,
+    "Country": "India",
+    "Rating": 3.82
+  },
+  {
+    "ID": 167,
+    "Rank": 249,
+    "Site Name": "Mahabalipuram",
+    "Nomination Year": 1984,
+    "Country": "India",
+    "Rating": 4.04
+  },
+  {
+    "ID": 168,
+    "Rank": 250,
+    "Site Name": "Chola Temples",
+    "Nomination Year": 1987,
+    "Country": "India",
+    "Rating": 4.23
+  },
+  {
+    "ID": 169,
+    "Rank": 251,
+    "Site Name": "Agra Fort",
+    "Nomination Year": 1983,
+    "Country": "India",
+    "Rating": 3.68
+  },
+  {
+    "ID": 170,
+    "Rank": 252,
+    "Site Name": "Taj Mahal",
+    "Nomination Year": 1983,
+    "Country": "India",
+    "Rating": 4.42
+  },
+  {
+    "ID": 171,
+    "Rank": 255,
+    "Site Name": "Fatehpur Sikri",
+    "Nomination Year": 1986,
+    "Country": "India",
+    "Rating": 3.43
+  },
+  {
+    "ID": 172,
+    "Rank": 256,
+    "Site Name": "Wood Buffalo National Park",
+    "Nomination Year": 1983,
+    "Country": "Canada",
+    "Rating": 3.01
+  },
+  {
+    "ID": 173,
+    "Rank": 258,
+    "Site Name": "Gulf of Porto",
+    "Nomination Year": 1983,
+    "Country": "France",
+    "Rating": 3.39
+  },
+  {
+    "ID": 174,
+    "Rank": 259,
+    "Site Name": "Great Smoky Mountains",
+    "Nomination Year": 1983,
+    "Country": "United States of America",
+    "Rating": 3.44
+  },
+  {
+    "ID": 175,
+    "Rank": 260,
+    "Site Name": "Sangay National Park",
+    "Nomination Year": 1983,
+    "Country": "Ecuador",
+    "Rating": 2.77
+  },
+  {
+    "ID": 176,
+    "Rank": 261,
+    "Site Name": "Vallée de Mai",
+    "Nomination Year": 1983,
+    "Country": "Seychelles",
+    "Rating": 2.95
+  },
+  {
+    "ID": 177,
+    "Rank": 262,
+    "Site Name": "Sanganeb",
+    "Nomination Year": 2016,
+    "Country": "Sudan",
+    "Rating": 3.78
+  },
+  {
+    "ID": 178,
+    "Rank": 263,
+    "Site Name": "Belem",
+    "Nomination Year": 1983,
+    "Country": "Portugal",
+    "Rating": 3.52
+  },
+  {
+    "ID": 179,
+    "Rank": 264,
+    "Site Name": "Monastery of Batalha",
+    "Nomination Year": 1983,
+    "Country": "Portugal",
+    "Rating": 3.65
+  },
+  {
+    "ID": 180,
+    "Rank": 265,
+    "Site Name": "Convent of Christ in Tomar",
+    "Nomination Year": 1983,
+    "Country": "Portugal",
+    "Rating": 3.75
+  },
+  {
+    "ID": 181,
+    "Rank": 266,
+    "Site Name": "La Fortaleza and San Juan",
+    "Nomination Year": 1983,
+    "Country": "United States of America",
+    "Rating": 3.42
+  },
+  {
+    "ID": 182,
+    "Rank": 267,
+    "Site Name": "Old City of Berne",
+    "Nomination Year": 1983,
+    "Country": "Switzerland",
+    "Rating": 3.33
+  },
+  {
+    "ID": 183,
+    "Rank": 268,
+    "Site Name": "Abbey of St Gall",
+    "Nomination Year": 1983,
+    "Country": "Switzerland",
+    "Rating": 3.24
+  },
+  {
+    "ID": 184,
+    "Rank": 269,
+    "Site Name": "Benedictine Convent of St. John",
+    "Nomination Year": 1983,
+    "Country": "Switzerland",
+    "Rating": 3.11
+  },
+  {
+    "ID": 185,
+    "Rank": 271,
+    "Site Name": "Pilgrimage Church of Wies",
+    "Nomination Year": 1983,
+    "Country": "Germany",
+    "Rating": 3.21
+  },
+  {
+    "ID": 186,
+    "Rank": 272,
+    "Site Name": "Lübeck",
+    "Nomination Year": 1987,
+    "Country": "Germany",
+    "Rating": 3.22
+  },
+  {
+    "ID": 187,
+    "Rank": 273,
+    "Site Name": "Cuzco",
+    "Nomination Year": 1983,
+    "Country": "Peru",
+    "Rating": 3.84
+  },
+  {
+    "ID": 188,
+    "Rank": 274,
+    "Site Name": "Machu Picchu",
+    "Nomination Year": 1983,
+    "Country": "Peru",
+    "Rating": 4.76
+  },
+  {
+    "ID": 189,
+    "Rank": 275,
+    "Site Name": "Jesuit Missions of the Guaranis",
+    "Nomination Year": 1983,
+    "Country": "Brazil",
+    "Rating": 3.03
+  },
+  {
+    "ID": 190,
+    "Rank": 276,
+    "Site Name": "Samarra",
+    "Nomination Year": 2007,
+    "Country": "Iraq",
+    "Rating": 3.18
+  },
+  {
+    "ID": 191,
+    "Rank": 277,
+    "Site Name": "Hatra",
+    "Nomination Year": 1985,
+    "Country": "Iraq",
+    "Rating": 3.69
+  },
+  {
+    "ID": 192,
+    "Rank": 278,
+    "Site Name": "Babylon",
+    "Nomination Year": 2019,
+    "Country": "Iraq",
+    "Rating": 3.41
+  },
+  {
+    "ID": 193,
+    "Rank": 280,
+    "Site Name": "Salonga National Park",
+    "Nomination Year": 1984,
+    "Country": "Congo (Democratic Republic)",
+    "Rating": 0
+  },
+  {
+    "ID": 194,
+    "Rank": 284,
+    "Site Name": "Chitwan National Park",
+    "Nomination Year": 1984,
+    "Country": "Nepal",
+    "Rating": 3.44
+  },
+  {
+    "ID": 195,
+    "Rank": 285,
+    "Site Name": "Cartagena",
+    "Nomination Year": 1984,
+    "Country": "Colombia",
+    "Rating": 3.51
+  },
+  {
+    "ID": 196,
+    "Rank": 286,
+    "Site Name": "Vatican City",
+    "Nomination Year": 1984,
+    "Country": "Holy See",
+    "Rating": 4.35
+  },
+  {
+    "ID": 197,
+    "Rank": 287,
+    "Site Name": "Tadrart Acacus",
+    "Nomination Year": 1985,
+    "Country": "Libya",
+    "Rating": 4.2
+  },
+  {
+    "ID": 198,
+    "Rank": 288,
+    "Site Name": "Castles of Augustusburg and Falkenlust",
+    "Nomination Year": 1984,
+    "Country": "Germany",
+    "Rating": 2.78
+  },
+  {
+    "ID": 199,
+    "Rank": 289,
+    "Site Name": "Lake Malawi",
+    "Nomination Year": 1984,
+    "Country": "Malawi",
+    "Rating": 3.51
+  },
+  {
+    "ID": 200,
+    "Rank": 292,
+    "Site Name": "Cologne Cathedral",
+    "Nomination Year": 1996,
+    "Country": "Germany",
+    "Rating": 3.53
+  },
+  {
+    "ID": 201,
+    "Rank": 293,
+    "Site Name": "Anjar",
+    "Nomination Year": 1984,
+    "Country": "Lebanon",
+    "Rating": 3.37
+  },
+  {
+    "ID": 202,
+    "Rank": 294,
+    "Site Name": "Baalbek",
+    "Nomination Year": 1984,
+    "Country": "Lebanon",
+    "Rating": 4.31
+  },
+  {
+    "ID": 203,
+    "Rank": 295,
+    "Site Name": "Byblos",
+    "Nomination Year": 1984,
+    "Country": "Lebanon",
+    "Rating": 3.39
+  },
+  {
+    "ID": 204,
+    "Rank": 299,
+    "Site Name": "Tyre",
+    "Nomination Year": 1984,
+    "Country": "Lebanon",
+    "Rating": 2.95
+  },
+  {
+    "ID": 205,
+    "Rank": 300,
+    "Site Name": "Québec",
+    "Nomination Year": 1985,
+    "Country": "Canada",
+    "Rating": 3.69
+  },
+  {
+    "ID": 206,
+    "Rank": 302,
+    "Site Name": "Mana Pools",
+    "Nomination Year": 1984,
+    "Country": "Zimbabwe",
+    "Rating": 4
+  },
+  {
+    "ID": 207,
+    "Rank": 303,
+    "Site Name": "Iguazu National Park",
+    "Nomination Year": 1984,
+    "Country": "Argentina",
+    "Rating": 4.56
+  },
+  {
+    "ID": 208,
+    "Rank": 304,
+    "Site Name": "Canadian Rocky Mountain Parks",
+    "Nomination Year": 1984,
+    "Country": "Canada",
+    "Rating": 4.6
+  },
+  {
+    "ID": 209,
+    "Rank": 306,
+    "Site Name": "Matobo Hills",
+    "Nomination Year": 2003,
+    "Country": "Zimbabwe",
+    "Rating": 3.57
+  },
+  {
+    "ID": 210,
+    "Rank": 307,
+    "Site Name": "Statue of Liberty",
+    "Nomination Year": 1984,
+    "Country": "United States of America",
+    "Rating": 3.35
+  },
+  {
+    "ID": 211,
+    "Rank": 308,
+    "Site Name": "Yosemite National Park",
+    "Nomination Year": 1984,
+    "Country": "United States of America",
+    "Rating": 4.33
+  },
+  {
+    "ID": 212,
+    "Rank": 309,
+    "Site Name": "Salvador de Bahia",
+    "Nomination Year": 1985,
+    "Country": "Brazil",
+    "Rating": 3.6
+  },
+  {
+    "ID": 213,
+    "Rank": 310,
+    "Site Name": "Altamira Cave",
+    "Nomination Year": 1985,
+    "Country": "Spain",
+    "Rating": 3.44
+  },
+  {
+    "ID": 214,
+    "Rank": 311,
+    "Site Name": "Segovia",
+    "Nomination Year": 1985,
+    "Country": "Spain",
+    "Rating": 3.9
+  },
+  {
+    "ID": 215,
+    "Rank": 312,
+    "Site Name": "Asturian Monuments",
+    "Nomination Year": 1985,
+    "Country": "Spain",
+    "Rating": 3.21
+  },
+  {
+    "ID": 216,
+    "Rank": 313,
+    "Site Name": "Cordoba",
+    "Nomination Year": 1984,
+    "Country": "Spain",
+    "Rating": 4.24
+  },
+  {
+    "ID": 217,
+    "Rank": 314,
+    "Site Name": "Granada",
+    "Nomination Year": 1984,
+    "Country": "Spain",
+    "Rating": 4.46
+  },
+  {
+    "ID": 218,
+    "Rank": 316,
+    "Site Name": "Burgos Cathedral",
+    "Nomination Year": 1984,
+    "Country": "Spain",
+    "Rating": 3.53
+  },
+  {
+    "ID": 219,
+    "Rank": 318,
+    "Site Name": "El Escurial",
+    "Nomination Year": 1984,
+    "Country": "Spain",
+    "Rating": 3.31
+  },
+  {
+    "ID": 220,
+    "Rank": 320,
+    "Site Name": "Works of Antoni Gaudí",
+    "Nomination Year": 1984,
+    "Country": "Spain",
+    "Rating": 4.15
+  },
+  {
+    "ID": 221,
+    "Rank": 321,
+    "Site Name": "Bagerhat",
+    "Nomination Year": 1985,
+    "Country": "Bangladesh",
+    "Rating": 2.43
+  },
+  {
+    "ID": 222,
+    "Rank": 322,
+    "Site Name": "Buddhist Vihara at Paharpur",
+    "Nomination Year": 1985,
+    "Country": "Bangladesh",
+    "Rating": 2.84
+  },
+  {
+    "ID": 223,
+    "Rank": 323,
+    "Site Name": "Royal Palaces of Abomey",
+    "Nomination Year": 1985,
+    "Country": "Benin",
+    "Rating": 2.85
+  },
+  {
+    "ID": 224,
+    "Rank": 326,
+    "Site Name": "Petra",
+    "Nomination Year": 1985,
+    "Country": "Jordan",
+    "Rating": 4.75
+  },
+  {
+    "ID": 225,
+    "Rank": 327,
+    "Site Name": "Quseir Amra",
+    "Nomination Year": 1985,
+    "Country": "Jordan",
+    "Rating": 3.08
+  },
+  {
+    "ID": 226,
+    "Rank": 330,
+    "Site Name": "Chavin",
+    "Nomination Year": 1985,
+    "Country": "Peru",
+    "Rating": 3.25
+  },
+  {
+    "ID": 227,
+    "Rank": 331,
+    "Site Name": "Medina of Marrakesh",
+    "Nomination Year": 1985,
+    "Country": "Morocco",
+    "Rating": 3.84
+  },
+  {
+    "ID": 228,
+    "Rank": 332,
+    "Site Name": "Kerkuane",
+    "Nomination Year": 1985,
+    "Country": "Tunisia",
+    "Rating": 3.01
+  },
+  {
+    "ID": 229,
+    "Rank": 333,
+    "Site Name": "Huascaran National Park",
+    "Nomination Year": 1985,
+    "Country": "Peru",
+    "Rating": 4.02
+  },
+  {
+    "ID": 230,
+    "Rank": 334,
+    "Site Name": "Congonhas",
+    "Nomination Year": 1985,
+    "Country": "Brazil",
+    "Rating": 2.98
+  },
+  {
+    "ID": 231,
+    "Rank": 335,
+    "Site Name": "Nanda Devi and Valley of Flowers",
+    "Nomination Year": 1988,
+    "Country": "India",
+    "Rating": 3.54
+  },
+  {
+    "ID": 232,
+    "Rank": 337,
+    "Site Name": "Kaziranga National Park",
+    "Nomination Year": 1985,
+    "Country": "India",
+    "Rating": 3.88
+  },
+  {
+    "ID": 233,
+    "Rank": 338,
+    "Site Name": "Manas Wildlife Sanctuary",
+    "Nomination Year": 1985,
+    "Country": "India",
+    "Rating": 2.35
+  },
+  {
+    "ID": 234,
+    "Rank": 340,
+    "Site Name": "Keoladeo National Park",
+    "Nomination Year": 1985,
+    "Country": "India",
+    "Rating": 2.94
+  },
+  {
+    "ID": 235,
+    "Rank": 344,
+    "Site Name": "Pont du Gard",
+    "Nomination Year": 1985,
+    "Country": "France",
+    "Rating": 3.71
+  },
+  {
+    "ID": 236,
+    "Rank": 345,
+    "Site Name": "Fortified City of Carcassonne",
+    "Nomination Year": 1997,
+    "Country": "France",
+    "Rating": 3.91
+  },
+  {
+    "ID": 237,
+    "Rank": 347,
+    "Site Name": "Santiago de Compostela",
+    "Nomination Year": 1985,
+    "Country": "Spain",
+    "Rating": 3.63
+  },
+  {
+    "ID": 238,
+    "Rank": 348,
+    "Site Name": "Avila",
+    "Nomination Year": 1985,
+    "Country": "Spain",
+    "Rating": 3.34
+  },
+  {
+    "ID": 239,
+    "Rank": 351,
+    "Site Name": "Painted Churches in the Troödos Region",
+    "Nomination Year": 1985,
+    "Country": "Cyprus",
+    "Rating": 3.58
+  },
+  {
+    "ID": 240,
+    "Rank": 352,
+    "Site Name": "Rock Art of Alta",
+    "Nomination Year": 1985,
+    "Country": "Norway",
+    "Rating": 3.34
+  },
+  {
+    "ID": 241,
+    "Rank": 353,
+    "Site Name": "Chaco Culture",
+    "Nomination Year": 1987,
+    "Country": "United States of America",
+    "Rating": 3.54
+  },
+  {
+    "ID": 242,
+    "Rank": 354,
+    "Site Name": "Waterton Glacier International Peace Park",
+    "Nomination Year": 1995,
+    "Country": "Canada",
+    "Rating": 4.05
+  },
+  {
+    "ID": 243,
+    "Rank": 355,
+    "Site Name": "Iguacu",
+    "Nomination Year": 1986,
+    "Country": "Brazil",
+    "Rating": 4.48
+  },
+  {
+    "ID": 244,
+    "Rank": 356,
+    "Site Name": "Istanbul",
+    "Nomination Year": 1985,
+    "Country": "Turkiye",
+    "Rating": 4.48
+  },
+  {
+    "ID": 245,
+    "Rank": 357,
+    "Site Name": "Göreme NP",
+    "Nomination Year": 1985,
+    "Country": "Turkiye",
+    "Rating": 4.47
+  },
+  {
+    "ID": 246,
+    "Rank": 358,
+    "Site Name": "Divrigi",
+    "Nomination Year": 1985,
+    "Country": "Turkiye",
+    "Rating": 3.04
+  },
+  {
+    "ID": 247,
+    "Rank": 359,
+    "Site Name": "Thracian tomb of Sveshtari",
+    "Nomination Year": 1985,
+    "Country": "Bulgaria",
+    "Rating": 2.99
+  },
+  {
+    "ID": 248,
+    "Rank": 361,
+    "Site Name": "Evora",
+    "Nomination Year": 1986,
+    "Country": "Portugal",
+    "Rating": 3.16
+  },
+  {
+    "ID": 249,
+    "Rank": 362,
+    "Site Name": "Ghadames",
+    "Nomination Year": 1986,
+    "Country": "Libya",
+    "Rating": 3.82
+  },
+  {
+    "ID": 250,
+    "Rank": 364,
+    "Site Name": "Great Zimbabwe",
+    "Nomination Year": 1986,
+    "Country": "Zimbabwe",
+    "Rating": 4.06
+  },
+  {
+    "ID": 251,
+    "Rank": 365,
+    "Site Name": "Khami Ruins",
+    "Nomination Year": 1986,
+    "Country": "Zimbabwe",
+    "Rating": 3.03
+  },
+  {
+    "ID": 252,
+    "Rank": 366,
+    "Site Name": "Chan Chan",
+    "Nomination Year": 1986,
+    "Country": "Peru",
+    "Rating": 3.61
+  },
+  {
+    "ID": 253,
+    "Rank": 367,
+    "Site Name": "Trier",
+    "Nomination Year": 1986,
+    "Country": "Germany",
+    "Rating": 3.47
+  },
+  {
+    "ID": 254,
+    "Rank": 368,
+    "Site Name": "Gondwana Rainforests",
+    "Nomination Year": 1986,
+    "Country": "Australia",
+    "Rating": 3.51
+  },
+  {
+    "ID": 255,
+    "Rank": 369,
+    "Site Name": "Giant's Causeway",
+    "Nomination Year": 1986,
+    "Country": "United Kingdom",
+    "Rating": 3.78
+  },
+  {
+    "ID": 256,
+    "Rank": 370,
+    "Site Name": "Durham Castle and Cathedral",
+    "Nomination Year": 1986,
+    "Country": "United Kingdom",
+    "Rating": 3.19
+  },
+  {
+    "ID": 257,
+    "Rank": 371,
+    "Site Name": "Ironbridge Gorge",
+    "Nomination Year": 1986,
+    "Country": "United Kingdom",
+    "Rating": 3.07
+  },
+  {
+    "ID": 258,
+    "Rank": 372,
+    "Site Name": "Studley Royal Park",
+    "Nomination Year": 1986,
+    "Country": "United Kingdom",
+    "Rating": 3.22
+  },
+  {
+    "ID": 259,
+    "Rank": 373,
+    "Site Name": "Stonehenge",
+    "Nomination Year": 1986,
+    "Country": "United Kingdom",
+    "Rating": 3.86
+  },
+  {
+    "ID": 260,
+    "Rank": 374,
+    "Site Name": "Gwynedd Castles",
+    "Nomination Year": 1986,
+    "Country": "United Kingdom",
+    "Rating": 3.42
+  },
+  {
+    "ID": 261,
+    "Rank": 377,
+    "Site Name": "Hattusha",
+    "Nomination Year": 1986,
+    "Country": "Turkiye",
+    "Rating": 3.72
+  },
+  {
+    "ID": 262,
+    "Rank": 378,
+    "Site Name": "Mudejar Architecture of Aragon",
+    "Nomination Year": 1986,
+    "Country": "Spain",
+    "Rating": 3.29
+  },
+  {
+    "ID": 263,
+    "Rank": 379,
+    "Site Name": "Toledo",
+    "Nomination Year": 1986,
+    "Country": "Spain",
+    "Rating": 4.01
+  },
+  {
+    "ID": 264,
+    "Rank": 380,
+    "Site Name": "Garajonay",
+    "Nomination Year": 1986,
+    "Country": "Spain",
+    "Rating": 3.39
+  },
+  {
+    "ID": 265,
+    "Rank": 381,
+    "Site Name": "Salamanca",
+    "Nomination Year": 1988,
+    "Country": "Spain",
+    "Rating": 3.67
+  },
+  {
+    "ID": 266,
+    "Rank": 383,
+    "Site Name": "Seville",
+    "Nomination Year": 1987,
+    "Country": "Spain",
+    "Rating": 4.04
+  },
+  {
+    "ID": 267,
+    "Rank": 384,
+    "Site Name": "Caceres",
+    "Nomination Year": 1986,
+    "Country": "Spain",
+    "Rating": 3.23
+  },
+  {
+    "ID": 268,
+    "Rank": 385,
+    "Site Name": "Sana'a",
+    "Nomination Year": 1986,
+    "Country": "Yemen",
+    "Rating": 4.2
+  },
+  {
+    "ID": 269,
+    "Rank": 387,
+    "Site Name": "St. Kilda",
+    "Nomination Year": 1986,
+    "Country": "United Kingdom",
+    "Rating": 3.8
+  },
+  {
+    "ID": 270,
+    "Rank": 389,
+    "Site Name": "Studenica Monastery",
+    "Nomination Year": 1986,
+    "Country": "Serbia",
+    "Rating": 3.18
+  },
+  {
+    "ID": 271,
+    "Rank": 390,
+    "Site Name": "Skocjan Caves",
+    "Nomination Year": 1986,
+    "Country": "Slovenia",
+    "Rating": 3.7
+  },
+  {
+    "ID": 272,
+    "Rank": 392,
+    "Site Name": "Temple of Apollo Epicurius at Bassae",
+    "Nomination Year": 1986,
+    "Country": "Greece",
+    "Rating": 3.1
+  },
+  {
+    "ID": 273,
+    "Rank": 393,
+    "Site Name": "Archaeological Site of Delphi",
+    "Nomination Year": 1987,
+    "Country": "Greece",
+    "Rating": 3.99
+  },
+  {
+    "ID": 274,
+    "Rank": 394,
+    "Site Name": "Venice and its Lagoon",
+    "Nomination Year": 1987,
+    "Country": "Italy",
+    "Rating": 4.59
+  },
+  {
+    "ID": 275,
+    "Rank": 395,
+    "Site Name": "Piazza del Duomo (Pisa)",
+    "Nomination Year": 1987,
+    "Country": "Italy",
+    "Rating": 3.82
+  },
+  {
+    "ID": 276,
+    "Rank": 398,
+    "Site Name": "Castel del Monte",
+    "Nomination Year": 1996,
+    "Country": "Italy",
+    "Rating": 3.25
+  },
+  {
+    "ID": 277,
+    "Rank": 400,
+    "Site Name": "Budapest",
+    "Nomination Year": 1987,
+    "Country": "Hungary",
+    "Rating": 3.9
+  },
+  {
+    "ID": 278,
+    "Rank": 401,
+    "Site Name": "Hollókö",
+    "Nomination Year": 1987,
+    "Country": "Hungary",
+    "Rating": 2.66
+  },
+  {
+    "ID": 279,
+    "Rank": 402,
+    "Site Name": "Manu National Park",
+    "Nomination Year": 1987,
+    "Country": "Peru",
+    "Rating": 4.14
+  },
+  {
+    "ID": 280,
+    "Rank": 403,
+    "Site Name": "Kilimanjaro National Park",
+    "Nomination Year": 1987,
+    "Country": "Tanzania",
+    "Rating": 4.3
+  },
+  {
+    "ID": 281,
+    "Rank": 404,
+    "Site Name": "Acropolis",
+    "Nomination Year": 1987,
+    "Country": "Greece",
+    "Rating": 4.33
+  },
+  {
+    "ID": 282,
+    "Rank": 405,
+    "Site Name": "Sinharaja Forest",
+    "Nomination Year": 1988,
+    "Country": "Sri Lanka",
+    "Rating": 3
+  },
+  {
+    "ID": 283,
+    "Rank": 407,
+    "Site Name": "Dja Faunal Reserve",
+    "Nomination Year": 1987,
+    "Country": "Cameroon",
+    "Rating": 2.61
+  },
+  {
+    "ID": 284,
+    "Rank": 409,
+    "Site Name": "Hawaii Volcanoes",
+    "Nomination Year": 1987,
+    "Country": "United States of America",
+    "Rating": 4.23
+  },
+  {
+    "ID": 285,
+    "Rank": 410,
+    "Site Name": "Sian Ka'an",
+    "Nomination Year": 1987,
+    "Country": "Mexico",
+    "Rating": 2.91
+  },
+  {
+    "ID": 286,
+    "Rank": 411,
+    "Site Name": "Palenque",
+    "Nomination Year": 1987,
+    "Country": "Mexico",
+    "Rating": 4.29
+  },
+  {
+    "ID": 287,
+    "Rank": 412,
+    "Site Name": "Mexico City and Xochimilco",
+    "Nomination Year": 1987,
+    "Country": "Mexico",
+    "Rating": 3.85
+  },
+  {
+    "ID": 288,
+    "Rank": 414,
+    "Site Name": "Teotihuacan",
+    "Nomination Year": 1987,
+    "Country": "Mexico",
+    "Rating": 4.35
+  },
+  {
+    "ID": 289,
+    "Rank": 415,
+    "Site Name": "Oaxaca and Monte Alban",
+    "Nomination Year": 1987,
+    "Country": "Mexico",
+    "Rating": 3.87
+  },
+  {
+    "ID": 290,
+    "Rank": 416,
+    "Site Name": "Puebla",
+    "Nomination Year": 1987,
+    "Country": "Mexico",
+    "Rating": 3.48
+  },
+  {
+    "ID": 291,
+    "Rank": 417,
+    "Site Name": "Ibiza",
+    "Nomination Year": 1999,
+    "Country": "Spain",
+    "Rating": 2.84
+  },
+  {
+    "ID": 292,
+    "Rank": 419,
+    "Site Name": "Gros Morne National Park",
+    "Nomination Year": 1987,
+    "Country": "Canada",
+    "Rating": 4.21
+  },
+  {
+    "ID": 293,
+    "Rank": 420,
+    "Site Name": "Potosi",
+    "Nomination Year": 1987,
+    "Country": "Bolivia",
+    "Rating": 3.31
+  },
+  {
+    "ID": 294,
+    "Rank": 421,
+    "Site Name": "Tongariro National Park",
+    "Nomination Year": 1990,
+    "Country": "New Zealand",
+    "Rating": 3.85
+  },
+  {
+    "ID": 295,
+    "Rank": 422,
+    "Site Name": "Lake District",
+    "Nomination Year": 2017,
+    "Country": "United Kingdom",
+    "Rating": 3.67
+  },
+  {
+    "ID": 296,
+    "Rank": 425,
+    "Site Name": "Blenheim Palace",
+    "Nomination Year": 1987,
+    "Country": "United Kingdom",
+    "Rating": 3.16
+  },
+  {
+    "ID": 297,
+    "Rank": 426,
+    "Site Name": "Westminster",
+    "Nomination Year": 1987,
+    "Country": "United Kingdom",
+    "Rating": 3.67
+  },
+  {
+    "ID": 298,
+    "Rank": 428,
+    "Site Name": "City of Bath",
+    "Nomination Year": 1987,
+    "Country": "United Kingdom",
+    "Rating": 3.61
+  },
+  {
+    "ID": 299,
+    "Rank": 429,
+    "Site Name": "New Lanark",
+    "Nomination Year": 2001,
+    "Country": "United Kingdom",
+    "Rating": 2.77
+  },
+  {
+    "ID": 300,
+    "Rank": 430,
+    "Site Name": "Frontiers of the Roman Empire",
+    "Nomination Year": 1987,
+    "Country": "United Kingdom",
+    "Rating": 2.83
+  },
+  {
+    "ID": 301,
+    "Rank": 433,
+    "Site Name": "Bahla Fort",
+    "Nomination Year": 1987,
+    "Country": "Oman",
+    "Rating": 2.72
+  },
+  {
+    "ID": 302,
+    "Rank": 434,
+    "Site Name": "Bat, Al-Khutm and Al-Ayn",
+    "Nomination Year": 1988,
+    "Country": "Oman",
+    "Rating": 2.92
+  },
+  {
+    "ID": 303,
+    "Rank": 437,
+    "Site Name": "Mount Taishan",
+    "Nomination Year": 1987,
+    "Country": "China",
+    "Rating": 3.94
+  },
+  {
+    "ID": 304,
+    "Rank": 438,
+    "Site Name": "Great Wall",
+    "Nomination Year": 1987,
+    "Country": "China",
+    "Rating": 4.51
+  },
+  {
+    "ID": 305,
+    "Rank": 439,
+    "Site Name": "Imperial Palace",
+    "Nomination Year": 1987,
+    "Country": "China",
+    "Rating": 4.27
+  },
+  {
+    "ID": 306,
+    "Rank": 440,
+    "Site Name": "Mogao Caves",
+    "Nomination Year": 1987,
+    "Country": "China",
+    "Rating": 4.21
+  },
+  {
+    "ID": 307,
+    "Rank": 441,
+    "Site Name": "Mausoleum of the First Qin Emperor",
+    "Nomination Year": 1987,
+    "Country": "China",
+    "Rating": 4.16
+  },
+  {
+    "ID": 308,
+    "Rank": 442,
+    "Site Name": "Monticello",
+    "Nomination Year": 1987,
+    "Country": "United States of America",
+    "Rating": 3.35
+  },
+  {
+    "ID": 309,
+    "Rank": 444,
+    "Site Name": "Ksar of Aït Ben Haddou",
+    "Nomination Year": 1987,
+    "Country": "Morocco",
+    "Rating": 3.62
+  },
+  {
+    "ID": 310,
+    "Rank": 445,
+    "Site Name": "Brasilia",
+    "Nomination Year": 1987,
+    "Country": "Brazil",
+    "Rating": 3.55
+  },
+  {
+    "ID": 311,
+    "Rank": 447,
+    "Site Name": "Uluru",
+    "Nomination Year": 1987,
+    "Country": "Australia",
+    "Rating": 4.57
+  },
+  {
+    "ID": 312,
+    "Rank": 448,
+    "Site Name": "Nemrut Dag",
+    "Nomination Year": 1987,
+    "Country": "Turkiye",
+    "Rating": 4.43
+  },
+  {
+    "ID": 313,
+    "Rank": 449,
+    "Site Name": "Peking Man Site",
+    "Nomination Year": 1987,
+    "Country": "China",
+    "Rating": 2.29
+  },
+  {
+    "ID": 314,
+    "Rank": 450,
+    "Site Name": "Kandy",
+    "Nomination Year": 1988,
+    "Country": "Sri Lanka",
+    "Rating": 3.07
+  },
+  {
+    "ID": 315,
+    "Rank": 451,
+    "Site Name": "Old Town of Galle",
+    "Nomination Year": 1988,
+    "Country": "Sri Lanka",
+    "Rating": 3.17
+  },
+  {
+    "ID": 316,
+    "Rank": 452,
+    "Site Name": "Sundarbans National Park",
+    "Nomination Year": 1987,
+    "Country": "India",
+    "Rating": 3.11
+  },
+  {
+    "ID": 317,
+    "Rank": 454,
+    "Site Name": "Mount Athos",
+    "Nomination Year": 1988,
+    "Country": "Greece",
+    "Rating": 3.66
+  },
+  {
+    "ID": 318,
+    "Rank": 455,
+    "Site Name": "Meteora",
+    "Nomination Year": 1988,
+    "Country": "Greece",
+    "Rating": 4.4
+  },
+  {
+    "ID": 319,
+    "Rank": 456,
+    "Site Name": "Thessalonika",
+    "Nomination Year": 1988,
+    "Country": "Greece",
+    "Rating": 3.03
+  },
+  {
+    "ID": 320,
+    "Rank": 460,
+    "Site Name": "Trinidad and the Valley de los Ingenios",
+    "Nomination Year": 1988,
+    "Country": "Cuba",
+    "Rating": 3.64
+  },
+  {
+    "ID": 321,
+    "Rank": 474,
+    "Site Name": "Hortobágy",
+    "Nomination Year": 1999,
+    "Country": "Hungary",
+    "Rating": 2.29
+  },
+  {
+    "ID": 322,
+    "Rank": 475,
+    "Site Name": "Manovo-Gounda St. Floris",
+    "Nomination Year": 1988,
+    "Country": "Central African Republic",
+    "Rating": 0
+  },
+  {
+    "ID": 323,
+    "Rank": 476,
+    "Site Name": "Chongoni Rock Art",
+    "Nomination Year": 2006,
+    "Country": "Malawi",
+    "Rating": 1.57
+  },
+  {
+    "ID": 324,
+    "Rank": 479,
+    "Site Name": "Luang Prabang",
+    "Nomination Year": 1995,
+    "Country": "Laos",
+    "Rating": 3.72
+  },
+  {
+    "ID": 325,
+    "Rank": 481,
+    "Site Name": "Vat Phou",
+    "Nomination Year": 2001,
+    "Country": "Laos",
+    "Rating": 3.06
+  },
+  {
+    "ID": 326,
+    "Rank": 482,
+    "Site Name": "Guanajuato",
+    "Nomination Year": 1988,
+    "Country": "Mexico",
+    "Rating": 4.04
+  },
+  {
+    "ID": 327,
+    "Rank": 483,
+    "Site Name": "Chichen-Itza",
+    "Nomination Year": 1988,
+    "Country": "Mexico",
+    "Rating": 4.24
+  },
+  {
+    "ID": 328,
+    "Rank": 484,
+    "Site Name": "Xanthos-Letoon",
+    "Nomination Year": 1988,
+    "Country": "Turkiye",
+    "Rating": 2.82
+  },
+  {
+    "ID": 329,
+    "Rank": 485,
+    "Site Name": "Hierapolis-Pamukkale",
+    "Nomination Year": 1988,
+    "Country": "Turkiye",
+    "Rating": 4.14
+  },
+  {
+    "ID": 330,
+    "Rank": 486,
+    "Site Name": "Wet Tropics of Queensland",
+    "Nomination Year": 1988,
+    "Country": "Australia",
+    "Rating": 3.58
+  },
+  {
+    "ID": 331,
+    "Rank": 487,
+    "Site Name": "Henderson Island",
+    "Nomination Year": 1988,
+    "Country": "United Kingdom",
+    "Rating": 2.88
+  },
+  {
+    "ID": 332,
+    "Rank": 488,
+    "Site Name": "Tower of London",
+    "Nomination Year": 1988,
+    "Country": "United Kingdom",
+    "Rating": 3.41
+  },
+  {
+    "ID": 333,
+    "Rank": 491,
+    "Site Name": "Epidaurus",
+    "Nomination Year": 1988,
+    "Country": "Greece",
+    "Rating": 3.46
+  },
+  {
+    "ID": 334,
+    "Rank": 492,
+    "Site Name": "Taos Pueblo",
+    "Nomination Year": 1992,
+    "Country": "United States of America",
+    "Rating": 3.35
+  },
+  {
+    "ID": 335,
+    "Rank": 493,
+    "Site Name": "Rhodes",
+    "Nomination Year": 1988,
+    "Country": "Greece",
+    "Rating": 3.78
+  },
+  {
+    "ID": 336,
+    "Rank": 494,
+    "Site Name": "Andrefana Dry Forests",
+    "Nomination Year": 1990,
+    "Country": "Madagascar",
+    "Rating": 4.33
+  },
+  {
+    "ID": 337,
+    "Rank": 495,
+    "Site Name": "Strasbourg",
+    "Nomination Year": 1988,
+    "Country": "France",
+    "Rating": 3.52
+  },
+  {
+    "ID": 338,
+    "Rank": 496,
+    "Site Name": "Canterbury",
+    "Nomination Year": 1988,
+    "Country": "United Kingdom",
+    "Rating": 3.41
+  },
+  {
+    "ID": 339,
+    "Rank": 498,
+    "Site Name": "Medina of Sousse",
+    "Nomination Year": 1988,
+    "Country": "Tunisia",
+    "Rating": 2.95
+  },
+  {
+    "ID": 340,
+    "Rank": 499,
+    "Site Name": "Kairouan",
+    "Nomination Year": 1988,
+    "Country": "Tunisia",
+    "Rating": 3.15
+  },
+  {
+    "ID": 341,
+    "Rank": 500,
+    "Site Name": "Lima",
+    "Nomination Year": 1988,
+    "Country": "Peru",
+    "Rating": 2.9
+  },
+  {
+    "ID": 342,
+    "Rank": 502,
+    "Site Name": "Vigan",
+    "Nomination Year": 1999,
+    "Country": "Philippines",
+    "Rating": 3.24
+  },
+  {
+    "ID": 343,
+    "Rank": 505,
+    "Site Name": "Monastery of Alcobaça",
+    "Nomination Year": 1989,
+    "Country": "Portugal",
+    "Rating": 3.31
+  },
+  {
+    "ID": 344,
+    "Rank": 506,
+    "Site Name": "Banc d'Arguin",
+    "Nomination Year": 1989,
+    "Country": "Mauritania",
+    "Rating": 2.4
+  },
+  {
+    "ID": 345,
+    "Rank": 509,
+    "Site Name": "Victoria Falls",
+    "Nomination Year": 1989,
+    "Country": "Zambia",
+    "Rating": 4.68
+  },
+  {
+    "ID": 346,
+    "Rank": 511,
+    "Site Name": "Mystras",
+    "Nomination Year": 1989,
+    "Country": "Greece",
+    "Rating": 3.68
+  },
+  {
+    "ID": 347,
+    "Rank": 514,
+    "Site Name": "Neolithic Orkney",
+    "Nomination Year": 1999,
+    "Country": "United Kingdom",
+    "Rating": 3.97
+  },
+  {
+    "ID": 348,
+    "Rank": 515,
+    "Site Name": "Abbey and Altenmünster of Lorsch",
+    "Nomination Year": 1991,
+    "Country": "Germany",
+    "Rating": 2.34
+  },
+  {
+    "ID": 349,
+    "Rank": 516,
+    "Site Name": "Cliff of Bandiagara",
+    "Nomination Year": 1989,
+    "Country": "Mali",
+    "Rating": 3.8
+  },
+  {
+    "ID": 350,
+    "Rank": 517,
+    "Site Name": "Olympia",
+    "Nomination Year": 1989,
+    "Country": "Greece",
+    "Rating": 3.79
+  },
+  {
+    "ID": 351,
+    "Rank": 518,
+    "Site Name": "Poblet Monastery",
+    "Nomination Year": 1991,
+    "Country": "Spain",
+    "Rating": 3.1
+  },
+  {
+    "ID": 352,
+    "Rank": 522,
+    "Site Name": "Úbeda and Baeza",
+    "Nomination Year": 2003,
+    "Country": "Spain",
+    "Rating": 2.85
+  },
+  {
+    "ID": 353,
+    "Rank": 524,
+    "Site Name": "Sanchi",
+    "Nomination Year": 1989,
+    "Country": "India",
+    "Rating": 3.76
+  },
+  {
+    "ID": 354,
+    "Rank": 526,
+    "Site Name": "Santo Domingo",
+    "Nomination Year": 1990,
+    "Country": "Dominican Republic",
+    "Rating": 3.32
+  },
+  {
+    "ID": 355,
+    "Rank": 527,
+    "Site Name": "Kyiv Cathedral and Lavra",
+    "Nomination Year": 1990,
+    "Country": "Ukraine",
+    "Rating": 3.63
+  },
+  {
+    "ID": 356,
+    "Rank": 529,
+    "Site Name": "Jesuit Missions of the Chiquitos",
+    "Nomination Year": 1990,
+    "Country": "Bolivia",
+    "Rating": 3.11
+  },
+  {
+    "ID": 357,
+    "Rank": 530,
+    "Site Name": "Delos",
+    "Nomination Year": 1990,
+    "Country": "Greece",
+    "Rating": 3.54
+  },
+  {
+    "ID": 358,
+    "Rank": 532,
+    "Site Name": "Potsdam",
+    "Nomination Year": 1990,
+    "Country": "Germany",
+    "Rating": 3.56
+  },
+  {
+    "ID": 359,
+    "Rank": 534,
+    "Site Name": "Garden Kingdom of Dessau-Wörlitz",
+    "Nomination Year": 2000,
+    "Country": "Germany",
+    "Rating": 2.51
+  },
+  {
+    "ID": 360,
+    "Rank": 535,
+    "Site Name": "Quedlinburg",
+    "Nomination Year": 1994,
+    "Country": "Germany",
+    "Rating": 3.32
+  },
+  {
+    "ID": 361,
+    "Rank": 537,
+    "Site Name": "Daphni, Hosios Loukas and Nea Moni of Chios",
+    "Nomination Year": 1990,
+    "Country": "Greece",
+    "Rating": 3.09
+  },
+  {
+    "ID": 362,
+    "Rank": 540,
+    "Site Name": "St. Petersburg",
+    "Nomination Year": 1990,
+    "Country": "Russia",
+    "Rating": 4.44
+  },
+  {
+    "ID": 363,
+    "Rank": 541,
+    "Site Name": "Vilnius",
+    "Nomination Year": 1994,
+    "Country": "Lithuania",
+    "Rating": 3.44
+  },
+  {
+    "ID": 364,
+    "Rank": 543,
+    "Site Name": "Itchan Kala",
+    "Nomination Year": 1990,
+    "Country": "Uzbekistan",
+    "Rating": 3.96
+  },
+  {
+    "ID": 365,
+    "Rank": 544,
+    "Site Name": "Kizhi Pogost",
+    "Nomination Year": 1990,
+    "Country": "Russia",
+    "Rating": 3.94
+  },
+  {
+    "ID": 366,
+    "Rank": 545,
+    "Site Name": "Kremlin and Red Square",
+    "Nomination Year": 1990,
+    "Country": "Russia",
+    "Rating": 4.23
+  },
+  {
+    "ID": 367,
+    "Rank": 546,
+    "Site Name": "Maulbronn Monastery",
+    "Nomination Year": 1993,
+    "Country": "Germany",
+    "Rating": 3.23
+  },
+  {
+    "ID": 368,
+    "Rank": 547,
+    "Site Name": "Huangshan",
+    "Nomination Year": 1990,
+    "Country": "China",
+    "Rating": 4.07
+  },
+  {
+    "ID": 369,
+    "Rank": 548,
+    "Site Name": "Rio Abiseo National Park",
+    "Nomination Year": 1990,
+    "Country": "Peru",
+    "Rating": 3.3
+  },
+  {
+    "ID": 370,
+    "Rank": 549,
+    "Site Name": "Royal Palace at Caserta",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 3.27
+  },
+  {
+    "ID": 371,
+    "Rank": 550,
+    "Site Name": "San Gimignano",
+    "Nomination Year": 1990,
+    "Country": "Italy",
+    "Rating": 3.75
+  },
+  {
+    "ID": 372,
+    "Rank": 551,
+    "Site Name": "Te Wahipounamu",
+    "Nomination Year": 1986,
+    "Country": "New Zealand",
+    "Rating": 4.33
+  },
+  {
+    "ID": 373,
+    "Rank": 554,
+    "Site Name": "Whale Sanctuary of El Vizcaino",
+    "Nomination Year": 1993,
+    "Country": "Mexico",
+    "Rating": 3.98
+  },
+  {
+    "ID": 374,
+    "Rank": 555,
+    "Site Name": "Birka and Hovgarden",
+    "Nomination Year": 1993,
+    "Country": "Sweden",
+    "Rating": 2.3
+  },
+  {
+    "ID": 375,
+    "Rank": 556,
+    "Site Name": "Engelsberg Ironworks",
+    "Nomination Year": 1993,
+    "Country": "Sweden",
+    "Rating": 2.49
+  },
+  {
+    "ID": 376,
+    "Rank": 557,
+    "Site Name": "Rock Carvings in Tanum",
+    "Nomination Year": 1994,
+    "Country": "Sweden",
+    "Rating": 3.02
+  },
+  {
+    "ID": 377,
+    "Rank": 558,
+    "Site Name": "Skogskyrkogarden",
+    "Nomination Year": 1994,
+    "Country": "Sweden",
+    "Rating": 2.48
+  },
+  {
+    "ID": 378,
+    "Rank": 559,
+    "Site Name": "Drottningholm",
+    "Nomination Year": 1991,
+    "Country": "Sweden",
+    "Rating": 2.83
+  },
+  {
+    "ID": 379,
+    "Rank": 560,
+    "Site Name": "Paquimé",
+    "Nomination Year": 1998,
+    "Country": "Mexico",
+    "Rating": 2.98
+  },
+  {
+    "ID": 380,
+    "Rank": 561,
+    "Site Name": "Rangiri Dambulla Cave Temple",
+    "Nomination Year": 1991,
+    "Country": "Sri Lanka",
+    "Rating": 3.41
+  },
+  {
+    "ID": 381,
+    "Rank": 564,
+    "Site Name": "Zamość",
+    "Nomination Year": 1992,
+    "Country": "Poland",
+    "Rating": 3.1
+  },
+  {
+    "ID": 382,
+    "Rank": 565,
+    "Site Name": "Kasbah of Algiers",
+    "Nomination Year": 1992,
+    "Country": "Algeria",
+    "Rating": 2.65
+  },
+  {
+    "ID": 383,
+    "Rank": 566,
+    "Site Name": "Sucre",
+    "Nomination Year": 1991,
+    "Country": "Bolivia",
+    "Rating": 3.02
+  },
+  {
+    "ID": 384,
+    "Rank": 567,
+    "Site Name": "Tiwanaku",
+    "Nomination Year": 2000,
+    "Country": "Bolivia",
+    "Rating": 3.27
+  },
+  {
+    "ID": 385,
+    "Rank": 569,
+    "Site Name": "Berat and Gjirokastra",
+    "Nomination Year": 2005,
+    "Country": "Albania",
+    "Rating": 3.67
+  },
+  {
+    "ID": 386,
+    "Rank": 570,
+    "Site Name": "Butrint",
+    "Nomination Year": 1992,
+    "Country": "Albania",
+    "Rating": 3.49
+  },
+  {
+    "ID": 387,
+    "Rank": 573,
+    "Site Name": "Air and Téneré",
+    "Nomination Year": 1991,
+    "Country": "Niger",
+    "Rating": 3.57
+  },
+  {
+    "ID": 388,
+    "Rank": 574,
+    "Site Name": "Sukhothai",
+    "Nomination Year": 1991,
+    "Country": "Thailand",
+    "Rating": 3.79
+  },
+  {
+    "ID": 389,
+    "Rank": 575,
+    "Site Name": "Ban Chiang",
+    "Nomination Year": 1992,
+    "Country": "Thailand",
+    "Rating": 2.5
+  },
+  {
+    "ID": 390,
+    "Rank": 576,
+    "Site Name": "Ayutthaya",
+    "Nomination Year": 1991,
+    "Country": "Thailand",
+    "Rating": 3.59
+  },
+  {
+    "ID": 391,
+    "Rank": 577,
+    "Site Name": "Heard and McDonald Islands",
+    "Nomination Year": 1997,
+    "Country": "Australia",
+    "Rating": 3.5
+  },
+  {
+    "ID": 392,
+    "Rank": 578,
+    "Site Name": "Shark Bay",
+    "Nomination Year": 1991,
+    "Country": "Australia",
+    "Rating": 3.91
+  },
+  {
+    "ID": 393,
+    "Rank": 579,
+    "Site Name": "Sammallahdenmäki",
+    "Nomination Year": 1999,
+    "Country": "Finland",
+    "Rating": 2.22
+  },
+  {
+    "ID": 394,
+    "Rank": 582,
+    "Site Name": "Old Rauma",
+    "Nomination Year": 1991,
+    "Country": "Finland",
+    "Rating": 2.65
+  },
+  {
+    "ID": 395,
+    "Rank": 583,
+    "Site Name": "Fortress of Suomenlinna",
+    "Nomination Year": 1991,
+    "Country": "Finland",
+    "Rating": 2.82
+  },
+  {
+    "ID": 396,
+    "Rank": 584,
+    "Site Name": "Petäjävesi Old Church",
+    "Nomination Year": 1994,
+    "Country": "Finland",
+    "Rating": 3.02
+  },
+  {
+    "ID": 397,
+    "Rank": 585,
+    "Site Name": "Morelia",
+    "Nomination Year": 1991,
+    "Country": "Mexico",
+    "Rating": 2.91
+  },
+  {
+    "ID": 398,
+    "Rank": 586,
+    "Site Name": "Rohtas Fort",
+    "Nomination Year": 1997,
+    "Country": "Pakistan",
+    "Rating": 3.17
+  },
+  {
+    "ID": 399,
+    "Rank": 588,
+    "Site Name": "Danube Delta",
+    "Nomination Year": 1991,
+    "Country": "Romania",
+    "Rating": 3.39
+  },
+  {
+    "ID": 400,
+    "Rank": 590,
+    "Site Name": "Dong Phayayen",
+    "Nomination Year": 2005,
+    "Country": "Thailand",
+    "Rating": 3.04
+  },
+  {
+    "ID": 401,
+    "Rank": 591,
+    "Site Name": "Thungyai-Huai Kha Khaeng",
+    "Nomination Year": 1991,
+    "Country": "Thailand",
+    "Rating": 2.47
+  },
+  {
+    "ID": 402,
+    "Rank": 592,
+    "Site Name": "Borobudur",
+    "Nomination Year": 1991,
+    "Country": "Indonesia",
+    "Rating": 4.48
+  },
+  {
+    "ID": 403,
+    "Rank": 593,
+    "Site Name": "Sangiran Early Man Site",
+    "Nomination Year": 1996,
+    "Country": "Indonesia",
+    "Rating": 1.93
+  },
+  {
+    "ID": 404,
+    "Rank": 595,
+    "Site Name": "Pythagoreion and Heraion of Samos",
+    "Nomination Year": 1992,
+    "Country": "Greece",
+    "Rating": 2.52
+  },
+  {
+    "ID": 405,
+    "Rank": 596,
+    "Site Name": "Villages with Fortified Churches",
+    "Nomination Year": 1993,
+    "Country": "Romania",
+    "Rating": 3.55
+  },
+  {
+    "ID": 406,
+    "Rank": 597,
+    "Site Name": "Monastery of Horezu",
+    "Nomination Year": 1993,
+    "Country": "Romania",
+    "Rating": 3.17
+  },
+  {
+    "ID": 407,
+    "Rank": 598,
+    "Site Name": "Churches of Moldavia",
+    "Nomination Year": 1993,
+    "Country": "Romania",
+    "Rating": 4.06
+  },
+  {
+    "ID": 408,
+    "Rank": 599,
+    "Site Name": "Island of Mozambique",
+    "Nomination Year": 1991,
+    "Country": "Mozambique",
+    "Rating": 3.71
+  },
+  {
+    "ID": 409,
+    "Rank": 600,
+    "Site Name": "Paris, Banks of the Seine",
+    "Nomination Year": 1991,
+    "Country": "France",
+    "Rating": 4.25
+  },
+  {
+    "ID": 410,
+    "Rank": 601,
+    "Site Name": "Reims",
+    "Nomination Year": 1991,
+    "Country": "France",
+    "Rating": 3.49
+  },
+  {
+    "ID": 411,
+    "Rank": 602,
+    "Site Name": "Bukhara",
+    "Nomination Year": 1993,
+    "Country": "Uzbekistan",
+    "Rating": 4.2
+  },
+  {
+    "ID": 412,
+    "Rank": 603,
+    "Site Name": "Samarkand",
+    "Nomination Year": 2001,
+    "Country": "Uzbekistan",
+    "Rating": 4.58
+  },
+  {
+    "ID": 413,
+    "Rank": 604,
+    "Site Name": "Novgorod",
+    "Nomination Year": 1992,
+    "Country": "Russia",
+    "Rating": 3.22
+  },
+  {
+    "ID": 414,
+    "Rank": 606,
+    "Site Name": "Serra da Capivara",
+    "Nomination Year": 1991,
+    "Country": "Brazil",
+    "Rating": 3.54
+  },
+  {
+    "ID": 415,
+    "Rank": 608,
+    "Site Name": "Ujung Kulon National Park",
+    "Nomination Year": 1991,
+    "Country": "Indonesia",
+    "Rating": 3.85
+  },
+  {
+    "ID": 416,
+    "Rank": 609,
+    "Site Name": "Komodo National Park",
+    "Nomination Year": 1991,
+    "Country": "Indonesia",
+    "Rating": 4.07
+  },
+  {
+    "ID": 417,
+    "Rank": 611,
+    "Site Name": "Zabid",
+    "Nomination Year": 1993,
+    "Country": "Yemen",
+    "Rating": 2.67
+  },
+  {
+    "ID": 418,
+    "Rank": 613,
+    "Site Name": "Ruins of León Viejo",
+    "Nomination Year": 2000,
+    "Country": "Nicaragua",
+    "Rating": 2.5
+  },
+  {
+    "ID": 419,
+    "Rank": 614,
+    "Site Name": "Safranbolu",
+    "Nomination Year": 1994,
+    "Country": "Turkiye",
+    "Rating": 3.25
+  },
+  {
+    "ID": 420,
+    "Rank": 616,
+    "Site Name": "Prague",
+    "Nomination Year": 1992,
+    "Country": "Czechia",
+    "Rating": 4.33
+  },
+  {
+    "ID": 421,
+    "Rank": 617,
+    "Site Name": "Cesky Krumlov",
+    "Nomination Year": 1992,
+    "Country": "Czechia",
+    "Rating": 4.01
+  },
+  {
+    "ID": 422,
+    "Rank": 618,
+    "Site Name": "Banska Stiavnica",
+    "Nomination Year": 1993,
+    "Country": "Slovakia",
+    "Rating": 3.03
+  },
+  {
+    "ID": 423,
+    "Rank": 620,
+    "Site Name": "Spissky Hrad and Levoca",
+    "Nomination Year": 1993,
+    "Country": "Slovakia",
+    "Rating": 3.31
+  },
+  {
+    "ID": 424,
+    "Rank": 621,
+    "Site Name": "Telc",
+    "Nomination Year": 1992,
+    "Country": "Czechia",
+    "Rating": 3.21
+  },
+  {
+    "ID": 425,
+    "Rank": 622,
+    "Site Name": "Vlkolinec",
+    "Nomination Year": 1993,
+    "Country": "Slovakia",
+    "Rating": 2.85
+  },
+  {
+    "ID": 426,
+    "Rank": 623,
+    "Site Name": "Rammelsberg and Goslar",
+    "Nomination Year": 1992,
+    "Country": "Germany",
+    "Rating": 3.24
+  },
+  {
+    "ID": 427,
+    "Rank": 624,
+    "Site Name": "Bamberg",
+    "Nomination Year": 1993,
+    "Country": "Germany",
+    "Rating": 3.5
+  },
+  {
+    "ID": 428,
+    "Rank": 625,
+    "Site Name": "Mir Castle",
+    "Nomination Year": 2000,
+    "Country": "Belarus",
+    "Rating": 2.34
+  },
+  {
+    "ID": 429,
+    "Rank": 629,
+    "Site Name": "Macquarie Island",
+    "Nomination Year": 1997,
+    "Country": "Australia",
+    "Rating": 4.58
+  },
+  {
+    "ID": 430,
+    "Rank": 630,
+    "Site Name": "Fraser Island",
+    "Nomination Year": 1992,
+    "Country": "Australia",
+    "Rating": 4.22
+  },
+  {
+    "ID": 431,
+    "Rank": 631,
+    "Site Name": "El Tajin",
+    "Nomination Year": 1992,
+    "Country": "Mexico",
+    "Rating": 3.77
+  },
+  {
+    "ID": 432,
+    "Rank": 632,
+    "Site Name": "Solovetsky Islands",
+    "Nomination Year": 1992,
+    "Country": "Russia",
+    "Rating": 3.73
+  },
+  {
+    "ID": 433,
+    "Rank": 633,
+    "Site Name": "White Monuments of Vladimir and Suzdal",
+    "Nomination Year": 1992,
+    "Country": "Russia",
+    "Rating": 3.58
+  },
+  {
+    "ID": 434,
+    "Rank": 634,
+    "Site Name": "Church of the Ascension, Kolomenskoye",
+    "Nomination Year": 1994,
+    "Country": "Russia",
+    "Rating": 2.44
+  },
+  {
+    "ID": 435,
+    "Rank": 635,
+    "Site Name": "Bourges Cathedral",
+    "Nomination Year": 1992,
+    "Country": "France",
+    "Rating": 3.6
+  },
+  {
+    "ID": 436,
+    "Rank": 637,
+    "Site Name": "Jiuzhaigou Valley",
+    "Nomination Year": 1992,
+    "Country": "China",
+    "Rating": 4.43
+  },
+  {
+    "ID": 437,
+    "Rank": 638,
+    "Site Name": "Huanglong",
+    "Nomination Year": 1992,
+    "Country": "China",
+    "Rating": 4.19
+  },
+  {
+    "ID": 438,
+    "Rank": 640,
+    "Site Name": "Wulingyuan",
+    "Nomination Year": 1992,
+    "Country": "China",
+    "Rating": 4.26
+  },
+  {
+    "ID": 439,
+    "Rank": 642,
+    "Site Name": "Prambanan",
+    "Nomination Year": 1991,
+    "Country": "Indonesia",
+    "Rating": 3.94
+  },
+  {
+    "ID": 440,
+    "Rank": 648,
+    "Site Name": "Jesuit Missions of Trinidad and Jesus",
+    "Nomination Year": 1993,
+    "Country": "Paraguay",
+    "Rating": 3.18
+  },
+  {
+    "ID": 441,
+    "Rank": 652,
+    "Site Name": "Puerto-Princesa Subterranean River",
+    "Nomination Year": 1999,
+    "Country": "Philippines",
+    "Rating": 3.42
+  },
+  {
+    "ID": 442,
+    "Rank": 653,
+    "Site Name": "Tubbataha Reefs",
+    "Nomination Year": 1993,
+    "Country": "Philippines",
+    "Rating": 3.14
+  },
+  {
+    "ID": 443,
+    "Rank": 657,
+    "Site Name": "Trinity Sergius Lavra",
+    "Nomination Year": 1993,
+    "Country": "Russia",
+    "Rating": 3.28
+  },
+  {
+    "ID": 444,
+    "Rank": 658,
+    "Site Name": "Coro and its Port",
+    "Nomination Year": 1993,
+    "Country": "Venezuela",
+    "Rating": 2.83
+  },
+  {
+    "ID": 445,
+    "Rank": 659,
+    "Site Name": "Brú na Bóinne",
+    "Nomination Year": 1993,
+    "Country": "Ireland",
+    "Rating": 3.76
+  },
+  {
+    "ID": 446,
+    "Rank": 660,
+    "Site Name": "Horyu-ji Area",
+    "Nomination Year": 1993,
+    "Country": "Japan",
+    "Rating": 3.39
+  },
+  {
+    "ID": 447,
+    "Rank": 661,
+    "Site Name": "Himeji-jo",
+    "Nomination Year": 1993,
+    "Country": "Japan",
+    "Rating": 3.62
+  },
+  {
+    "ID": 448,
+    "Rank": 662,
+    "Site Name": "Yakushima",
+    "Nomination Year": 1993,
+    "Country": "Japan",
+    "Rating": 4.13
+  },
+  {
+    "ID": 449,
+    "Rank": 663,
+    "Site Name": "Shirakami-Sanchi",
+    "Nomination Year": 1993,
+    "Country": "Japan",
+    "Rating": 3.41
+  },
+  {
+    "ID": 450,
+    "Rank": 664,
+    "Site Name": "Mérida",
+    "Nomination Year": 1993,
+    "Country": "Spain",
+    "Rating": 3.34
+  },
+  {
+    "ID": 451,
+    "Rank": 665,
+    "Site Name": "Santa Maria de Guadalupe",
+    "Nomination Year": 1993,
+    "Country": "Spain",
+    "Rating": 3.05
+  },
+  {
+    "ID": 452,
+    "Rank": 666,
+    "Site Name": "Lumbini",
+    "Nomination Year": 1997,
+    "Country": "Nepal",
+    "Rating": 2.7
+  },
+  {
+    "ID": 453,
+    "Rank": 668,
+    "Site Name": "Angkor",
+    "Nomination Year": 1992,
+    "Country": "Cambodia",
+    "Rating": 4.84
+  },
+  {
+    "ID": 454,
+    "Rank": 669,
+    "Site Name": "Route of Santiago de Compostela",
+    "Nomination Year": 1993,
+    "Country": "Spain",
+    "Rating": 3.48
+  },
+  {
+    "ID": 455,
+    "Rank": 670,
+    "Site Name": "Matera",
+    "Nomination Year": 1993,
+    "Country": "Italy",
+    "Rating": 3.94
+  },
+  {
+    "ID": 456,
+    "Rank": 672,
+    "Site Name": "Ha Long Bay – Cat Ba Archipelago",
+    "Nomination Year": 1994,
+    "Country": "Viet Nam",
+    "Rating": 4.07
+  },
+  {
+    "ID": 457,
+    "Rank": 675,
+    "Site Name": "Joya de Ceren",
+    "Nomination Year": 1993,
+    "Country": "El Salvador",
+    "Rating": 2.97
+  },
+  {
+    "ID": 458,
+    "Rank": 676,
+    "Site Name": "Zacatecas",
+    "Nomination Year": 1993,
+    "Country": "Mexico",
+    "Rating": 3.27
+  },
+  {
+    "ID": 459,
+    "Rank": 677,
+    "Site Name": "Baroque Churches",
+    "Nomination Year": 1993,
+    "Country": "Philippines",
+    "Rating": 2.87
+  },
+  {
+    "ID": 460,
+    "Rank": 678,
+    "Site Name": "Hué",
+    "Nomination Year": 1993,
+    "Country": "Viet Nam",
+    "Rating": 3.39
+  },
+  {
+    "ID": 461,
+    "Rank": 682,
+    "Site Name": "Bwindi Impenetrable National Park",
+    "Nomination Year": 1994,
+    "Country": "Uganda",
+    "Rating": 4.38
+  },
+  {
+    "ID": 462,
+    "Rank": 684,
+    "Site Name": "Rwenzori Mountains",
+    "Nomination Year": 1994,
+    "Country": "Uganda",
+    "Rating": 3.67
+  },
+  {
+    "ID": 463,
+    "Rank": 685,
+    "Site Name": "Donana National Park",
+    "Nomination Year": 1994,
+    "Country": "Spain",
+    "Rating": 2.87
+  },
+  {
+    "ID": 464,
+    "Rank": 686,
+    "Site Name": "Miguasha National Park",
+    "Nomination Year": 1999,
+    "Country": "Canada",
+    "Rating": 2.6
+  },
+  {
+    "ID": 465,
+    "Rank": 687,
+    "Site Name": "Völklingen Ironworks",
+    "Nomination Year": 1994,
+    "Country": "Germany",
+    "Rating": 3.16
+  },
+  {
+    "ID": 466,
+    "Rank": 688,
+    "Site Name": "Ancient Kyoto",
+    "Nomination Year": 1994,
+    "Country": "Japan",
+    "Rating": 4.55
+  },
+  {
+    "ID": 467,
+    "Rank": 689,
+    "Site Name": "As-Salt",
+    "Nomination Year": 2021,
+    "Country": "Jordan",
+    "Rating": 2.06
+  },
+  {
+    "ID": 468,
+    "Rank": 690,
+    "Site Name": "Pilgrimage Church of St. John of Nepomuk",
+    "Nomination Year": 1994,
+    "Country": "Czechia",
+    "Rating": 2.86
+  },
+  {
+    "ID": 469,
+    "Rank": 692,
+    "Site Name": "Odzala-Kokoua",
+    "Nomination Year": 2023,
+    "Country": "Congo (Republic)",
+    "Rating": 0
+  },
+  {
+    "ID": 470,
+    "Rank": 695,
+    "Site Name": "Roskilde Cathedral",
+    "Nomination Year": 1995,
+    "Country": "Denmark",
+    "Rating": 2.83
+  },
+  {
+    "ID": 471,
+    "Rank": 696,
+    "Site Name": "Kronborg Castle",
+    "Nomination Year": 2000,
+    "Country": "Denmark",
+    "Rating": 3.01
+  },
+  {
+    "ID": 472,
+    "Rank": 697,
+    "Site Name": "Jelling",
+    "Nomination Year": 1994,
+    "Country": "Denmark",
+    "Rating": 2.43
+  },
+  {
+    "ID": 473,
+    "Rank": 698,
+    "Site Name": "Australian Fossil Mammal Sites",
+    "Nomination Year": 1994,
+    "Country": "Australia",
+    "Rating": 3
+  },
+  {
+    "ID": 474,
+    "Rank": 699,
+    "Site Name": "City of Luxembourg",
+    "Nomination Year": 1994,
+    "Country": "Luxembourg",
+    "Rating": 3.14
+  },
+  {
+    "ID": 475,
+    "Rank": 700,
+    "Site Name": "Nasca Lines",
+    "Nomination Year": 1994,
+    "Country": "Peru",
+    "Rating": 4.02
+  },
+  {
+    "ID": 476,
+    "Rank": 701,
+    "Site Name": "Canaima National Park",
+    "Nomination Year": 1994,
+    "Country": "Venezuela",
+    "Rating": 4.07
+  },
+  {
+    "ID": 477,
+    "Rank": 702,
+    "Site Name": "Popocatepetl monasteries",
+    "Nomination Year": 1994,
+    "Country": "Mexico",
+    "Rating": 2.78
+  },
+  {
+    "ID": 478,
+    "Rank": 703,
+    "Site Name": "Mountain Resort, Chengde",
+    "Nomination Year": 1994,
+    "Country": "China",
+    "Rating": 3.75
+  },
+  {
+    "ID": 479,
+    "Rank": 704,
+    "Site Name": "Temple, Mansion and Cemetery of Confucius",
+    "Nomination Year": 1994,
+    "Country": "China",
+    "Rating": 3.57
+  },
+  {
+    "ID": 480,
+    "Rank": 705,
+    "Site Name": "Wudang Mountains",
+    "Nomination Year": 1994,
+    "Country": "China",
+    "Rating": 3.73
+  },
+  {
+    "ID": 481,
+    "Rank": 707,
+    "Site Name": "Potala Palace",
+    "Nomination Year": 1994,
+    "Country": "China",
+    "Rating": 4.37
+  },
+  {
+    "ID": 482,
+    "Rank": 708,
+    "Site Name": "Mtskheta",
+    "Nomination Year": 1994,
+    "Country": "Georgia",
+    "Rating": 3.3
+  },
+  {
+    "ID": 483,
+    "Rank": 709,
+    "Site Name": "Upper Svaneti",
+    "Nomination Year": 1996,
+    "Country": "Georgia",
+    "Rating": 4.14
+  },
+  {
+    "ID": 484,
+    "Rank": 710,
+    "Site Name": "Gelati Monastery",
+    "Nomination Year": 1994,
+    "Country": "Georgia",
+    "Rating": 3.36
+  },
+  {
+    "ID": 485,
+    "Rank": 711,
+    "Site Name": "Los Katios National Park",
+    "Nomination Year": 1994,
+    "Country": "Colombia",
+    "Rating": 3.93
+  },
+  {
+    "ID": 486,
+    "Rank": 712,
+    "Site Name": "Vicenza and the Palladian Villas",
+    "Nomination Year": 1994,
+    "Country": "Italy",
+    "Rating": 3.33
+  },
+  {
+    "ID": 487,
+    "Rank": 714,
+    "Site Name": "Rock Paintings of the Sierra de San Francisco",
+    "Nomination Year": 1993,
+    "Country": "Mexico",
+    "Rating": 3.08
+  },
+  {
+    "ID": 488,
+    "Rank": 715,
+    "Site Name": "Rapa Nui",
+    "Nomination Year": 1995,
+    "Country": "Chile",
+    "Rating": 4.84
+  },
+  {
+    "ID": 489,
+    "Rank": 717,
+    "Site Name": "Siena",
+    "Nomination Year": 1995,
+    "Country": "Italy",
+    "Rating": 4.13
+  },
+  {
+    "ID": 490,
+    "Rank": 718,
+    "Site Name": "Okapi Wildlife Reserve",
+    "Nomination Year": 1996,
+    "Country": "Congo (Democratic Republic)",
+    "Rating": 0
+  },
+  {
+    "ID": 491,
+    "Rank": 719,
+    "Site Name": "Virgin Komi Forests",
+    "Nomination Year": 1995,
+    "Country": "Russia",
+    "Rating": 2.89
+  },
+  {
+    "ID": 492,
+    "Rank": 720,
+    "Site Name": "Messel Pit",
+    "Nomination Year": 1995,
+    "Country": "Germany",
+    "Rating": 2.18
+  },
+  {
+    "ID": 493,
+    "Rank": 721,
+    "Site Name": "Carlsbad Caverns",
+    "Nomination Year": 1995,
+    "Country": "United States of America",
+    "Rating": 3.51
+  },
+  {
+    "ID": 494,
+    "Rank": 722,
+    "Site Name": "Rice Terraces of the Philippine Cordilleras",
+    "Nomination Year": 1995,
+    "Country": "Philippines",
+    "Rating": 4.02
+  },
+  {
+    "ID": 495,
+    "Rank": 723,
+    "Site Name": "Sintra",
+    "Nomination Year": 1995,
+    "Country": "Portugal",
+    "Rating": 3.91
+  },
+  {
+    "ID": 496,
+    "Rank": 724,
+    "Site Name": "Medieval Monuments in Kosovo",
+    "Nomination Year": 2004,
+    "Country": "Serbia",
+    "Rating": 3.19
+  },
+  {
+    "ID": 497,
+    "Rank": 725,
+    "Site Name": "Aggtelek and Slovak Karst",
+    "Nomination Year": 1995,
+    "Country": "Hungary",
+    "Rating": 3.15
+  },
+  {
+    "ID": 498,
+    "Rank": 726,
+    "Site Name": "Naples",
+    "Nomination Year": 1995,
+    "Country": "Italy",
+    "Rating": 3.47
+  },
+  {
+    "ID": 499,
+    "Rank": 728,
+    "Site Name": "Edinburgh",
+    "Nomination Year": 1995,
+    "Country": "United Kingdom",
+    "Rating": 4.05
+  },
+  {
+    "ID": 500,
+    "Rank": 729,
+    "Site Name": "Bauhaus Sites",
+    "Nomination Year": 1996,
+    "Country": "Germany",
+    "Rating": 2.84
+  },
+  {
+    "ID": 501,
+    "Rank": 730,
+    "Site Name": "Crespi d'Adda",
+    "Nomination Year": 1995,
+    "Country": "Italy",
+    "Rating": 2.33
+  },
+  {
+    "ID": 502,
+    "Rank": 731,
+    "Site Name": "Visby",
+    "Nomination Year": 1995,
+    "Country": "Sweden",
+    "Rating": 3.53
+  },
+  {
+    "ID": 503,
+    "Rank": 732,
+    "Site Name": "Kutna Hora",
+    "Nomination Year": 1995,
+    "Country": "Czechia",
+    "Rating": 3.33
+  },
+  {
+    "ID": 504,
+    "Rank": 733,
+    "Site Name": "Ferrara",
+    "Nomination Year": 1995,
+    "Country": "Italy",
+    "Rating": 3.26
+  },
+  {
+    "ID": 505,
+    "Rank": 734,
+    "Site Name": "Shirakawa-go and Gokayama",
+    "Nomination Year": 1995,
+    "Country": "Japan",
+    "Rating": 3.77
+  },
+  {
+    "ID": 506,
+    "Rank": 736,
+    "Site Name": "Seokguram Grotto and Bulguksa Temple",
+    "Nomination Year": 1995,
+    "Country": "Republic of Korea",
+    "Rating": 3.36
+  },
+  {
+    "ID": 507,
+    "Rank": 737,
+    "Site Name": "Haeinsa Temple",
+    "Nomination Year": 1995,
+    "Country": "Republic of Korea",
+    "Rating": 3.67
+  },
+  {
+    "ID": 508,
+    "Rank": 738,
+    "Site Name": "Jongmyo Shrine",
+    "Nomination Year": 1995,
+    "Country": "Republic of Korea",
+    "Rating": 2.66
+  },
+  {
+    "ID": 509,
+    "Rank": 739,
+    "Site Name": "Schokland",
+    "Nomination Year": 1995,
+    "Country": "Netherlands",
+    "Rating": 1.85
+  },
+  {
+    "ID": 510,
+    "Rank": 740,
+    "Site Name": "Gough and Inaccessible Islands",
+    "Nomination Year": 1995,
+    "Country": "United Kingdom",
+    "Rating": 2.9
+  },
+  {
+    "ID": 511,
+    "Rank": 741,
+    "Site Name": "Old Town Lunenburg",
+    "Nomination Year": 1995,
+    "Country": "Canada",
+    "Rating": 3.26
+  },
+  {
+    "ID": 512,
+    "Rank": 742,
+    "Site Name": "Santa Cruz de Mompox",
+    "Nomination Year": 1995,
+    "Country": "Colombia",
+    "Rating": 3.05
+  },
+  {
+    "ID": 513,
+    "Rank": 743,
+    "Site Name": "Tierradentro",
+    "Nomination Year": 1995,
+    "Country": "Colombia",
+    "Rating": 3.32
+  },
+  {
+    "ID": 514,
+    "Rank": 744,
+    "Site Name": "San Agustín",
+    "Nomination Year": 1995,
+    "Country": "Colombia",
+    "Rating": 3.47
+  },
+  {
+    "ID": 515,
+    "Rank": 747,
+    "Site Name": "Colonia del Sacramento",
+    "Nomination Year": 1995,
+    "Country": "Uruguay",
+    "Rating": 2.77
+  },
+  {
+    "ID": 516,
+    "Rank": 749,
+    "Site Name": "W-Arly-Pendjari Complex",
+    "Nomination Year": 1996,
+    "Country": "Niger",
+    "Rating": 2.21
+  },
+  {
+    "ID": 517,
+    "Rank": 750,
+    "Site Name": "Ancient ksours",
+    "Nomination Year": 1996,
+    "Country": "Mauritania",
+    "Rating": 3.42
+  },
+  {
+    "ID": 518,
+    "Rank": 751,
+    "Site Name": "Verla Groundwood and Board Mill",
+    "Nomination Year": 1996,
+    "Country": "Finland",
+    "Rating": 2.6
+  },
+  {
+    "ID": 519,
+    "Rank": 753,
+    "Site Name": "Medina of Essaouira",
+    "Nomination Year": 2001,
+    "Country": "Morocco",
+    "Rating": 3.26
+  },
+  {
+    "ID": 520,
+    "Rank": 754,
+    "Site Name": "Lake Baikal",
+    "Nomination Year": 1996,
+    "Country": "Russia",
+    "Rating": 3.84
+  },
+  {
+    "ID": 521,
+    "Rank": 755,
+    "Site Name": "Oporto",
+    "Nomination Year": 1996,
+    "Country": "Portugal",
+    "Rating": 3.91
+  },
+  {
+    "ID": 522,
+    "Rank": 757,
+    "Site Name": "Sceilg Mhichíl",
+    "Nomination Year": 1996,
+    "Country": "Ireland",
+    "Rating": 4
+  },
+  {
+    "ID": 523,
+    "Rank": 758,
+    "Site Name": "Pannonhalma",
+    "Nomination Year": 1996,
+    "Country": "Hungary",
+    "Rating": 2.69
+  },
+  {
+    "ID": 524,
+    "Rank": 759,
+    "Site Name": "Dutch Water Defence Lines",
+    "Nomination Year": 1996,
+    "Country": "Netherlands",
+    "Rating": 2.44
+  },
+  {
+    "ID": 525,
+    "Rank": 761,
+    "Site Name": "Kunta Kinteh Island",
+    "Nomination Year": 2003,
+    "Country": "Gambia",
+    "Rating": 2.34
+  },
+  {
+    "ID": 526,
+    "Rank": 762,
+    "Site Name": "Gammelstad",
+    "Nomination Year": 1996,
+    "Country": "Sweden",
+    "Rating": 3.06
+  },
+  {
+    "ID": 527,
+    "Rank": 763,
+    "Site Name": "Lednice-Valtice Cultural Landscape",
+    "Nomination Year": 1996,
+    "Country": "Czechia",
+    "Rating": 2.89
+  },
+  {
+    "ID": 528,
+    "Rank": 764,
+    "Site Name": "Belize Barrier Reef",
+    "Nomination Year": 1996,
+    "Country": "Belize",
+    "Rating": 3.62
+  },
+  {
+    "ID": 529,
+    "Rank": 765,
+    "Site Name": "Volcanoes of Kamchatka",
+    "Nomination Year": 1996,
+    "Country": "Russia",
+    "Rating": 4.71
+  },
+  {
+    "ID": 530,
+    "Rank": 766,
+    "Site Name": "Central Sikhote-Alin",
+    "Nomination Year": 2001,
+    "Country": "Russia",
+    "Rating": 3.39
+  },
+  {
+    "ID": 531,
+    "Rank": 768,
+    "Site Name": "Golden Mountains of Altai",
+    "Nomination Year": 1998,
+    "Country": "Russia",
+    "Rating": 3.67
+  },
+  {
+    "ID": 532,
+    "Rank": 769,
+    "Site Name": "Uvs Nuur Basin",
+    "Nomination Year": 2003,
+    "Country": "Russia",
+    "Rating": 2.91
+  },
+  {
+    "ID": 533,
+    "Rank": 770,
+    "Site Name": "Canal du Midi",
+    "Nomination Year": 1996,
+    "Country": "France",
+    "Rating": 2.64
+  },
+  {
+    "ID": 534,
+    "Rank": 772,
+    "Site Name": "Fertö/Neusiedlersee",
+    "Nomination Year": 2001,
+    "Country": "Austria",
+    "Rating": 2.33
+  },
+  {
+    "ID": 535,
+    "Rank": 773,
+    "Site Name": "Pyrénées - Mont Perdu",
+    "Nomination Year": 1997,
+    "Country": "Spain",
+    "Rating": 3.69
+  },
+  {
+    "ID": 536,
+    "Rank": 774,
+    "Site Name": "Laponian Area",
+    "Nomination Year": 1996,
+    "Country": "Sweden",
+    "Rating": 3.52
+  },
+  {
+    "ID": 537,
+    "Rank": 775,
+    "Site Name": "Genbaku Dome",
+    "Nomination Year": 1996,
+    "Country": "Japan",
+    "Rating": 3.26
+  },
+  {
+    "ID": 538,
+    "Rank": 776,
+    "Site Name": "Itsukushima Shrine",
+    "Nomination Year": 1996,
+    "Country": "Japan",
+    "Rating": 3.71
+  },
+  {
+    "ID": 539,
+    "Rank": 777,
+    "Site Name": "Haghpat and Sanahin",
+    "Nomination Year": 1996,
+    "Country": "Armenia",
+    "Rating": 3.66
+  },
+  {
+    "ID": 540,
+    "Rank": 778,
+    "Site Name": "Lushan National Park",
+    "Nomination Year": 1996,
+    "Country": "China",
+    "Rating": 3.07
+  },
+  {
+    "ID": 541,
+    "Rank": 779,
+    "Site Name": "Mount Emei, including Leshan Giant Buddha",
+    "Nomination Year": 1996,
+    "Country": "China",
+    "Rating": 3.94
+  },
+  {
+    "ID": 542,
+    "Rank": 780,
+    "Site Name": "Archaeological Site of Aigai",
+    "Nomination Year": 1996,
+    "Country": "Greece",
+    "Rating": 3.55
+  },
+  {
+    "ID": 543,
+    "Rank": 781,
+    "Site Name": "Cuenca",
+    "Nomination Year": 1996,
+    "Country": "Spain",
+    "Rating": 3.22
+  },
+  {
+    "ID": 544,
+    "Rank": 782,
+    "Site Name": "La Lonja de la Seda",
+    "Nomination Year": 1996,
+    "Country": "Spain",
+    "Rating": 2.77
+  },
+  {
+    "ID": 545,
+    "Rank": 783,
+    "Site Name": "Luther Memorials",
+    "Nomination Year": 1996,
+    "Country": "Germany",
+    "Rating": 2.6
+  },
+  {
+    "ID": 546,
+    "Rank": 784,
+    "Site Name": "Salzburg",
+    "Nomination Year": 1996,
+    "Country": "Austria",
+    "Rating": 3.8
+  },
+  {
+    "ID": 547,
+    "Rank": 785,
+    "Site Name": "Semmering Railway",
+    "Nomination Year": 1998,
+    "Country": "Austria",
+    "Rating": 2.55
+  },
+  {
+    "ID": 548,
+    "Rank": 786,
+    "Site Name": "Schönbrunn",
+    "Nomination Year": 1996,
+    "Country": "Austria",
+    "Rating": 3.51
+  },
+  {
+    "ID": 549,
+    "Rank": 787,
+    "Site Name": "The trulli of Alberobello",
+    "Nomination Year": 1996,
+    "Country": "Italy",
+    "Rating": 3.44
+  },
+  {
+    "ID": 550,
+    "Rank": 788,
+    "Site Name": "Ravenna",
+    "Nomination Year": 1996,
+    "Country": "Italy",
+    "Rating": 4.2
+  },
+  {
+    "ID": 551,
+    "Rank": 789,
+    "Site Name": "Pienza",
+    "Nomination Year": 1996,
+    "Country": "Italy",
+    "Rating": 3.11
+  },
+  {
+    "ID": 552,
+    "Rank": 790,
+    "Site Name": "Panamá",
+    "Nomination Year": 1997,
+    "Country": "Panama",
+    "Rating": 3.02
+  },
+  {
+    "ID": 553,
+    "Rank": 791,
+    "Site Name": "Uxmal",
+    "Nomination Year": 1996,
+    "Country": "Mexico",
+    "Rating": 4.08
+  },
+  {
+    "ID": 554,
+    "Rank": 792,
+    "Site Name": "Querétaro",
+    "Nomination Year": 1996,
+    "Country": "Mexico",
+    "Rating": 3.03
+  },
+  {
+    "ID": 555,
+    "Rank": 793,
+    "Site Name": "Meknes",
+    "Nomination Year": 1996,
+    "Country": "Morocco",
+    "Rating": 3.05
+  },
+  {
+    "ID": 556,
+    "Rank": 794,
+    "Site Name": "Dougga/Thugga",
+    "Nomination Year": 1997,
+    "Country": "Tunisia",
+    "Rating": 3.94
+  },
+  {
+    "ID": 557,
+    "Rank": 795,
+    "Site Name": "Maritime Greenwich",
+    "Nomination Year": 1997,
+    "Country": "United Kingdom",
+    "Rating": 3.12
+  },
+  {
+    "ID": 558,
+    "Rank": 797,
+    "Site Name": "Verona",
+    "Nomination Year": 2000,
+    "Country": "Italy",
+    "Rating": 3.55
+  },
+  {
+    "ID": 559,
+    "Rank": 798,
+    "Site Name": "The Sundarbans",
+    "Nomination Year": 1997,
+    "Country": "Bangladesh",
+    "Rating": 3.08
+  },
+  {
+    "ID": 560,
+    "Rank": 800,
+    "Site Name": "Mount Kenya",
+    "Nomination Year": 1997,
+    "Country": "Kenya",
+    "Rating": 3.16
+  },
+  {
+    "ID": 561,
+    "Rank": 801,
+    "Site Name": "Lake Turkana",
+    "Nomination Year": 1997,
+    "Country": "Kenya",
+    "Rating": 3.01
+  },
+  {
+    "ID": 562,
+    "Rank": 803,
+    "Site Name": "Las Medulas",
+    "Nomination Year": 1997,
+    "Country": "Spain",
+    "Rating": 3.4
+  },
+  {
+    "ID": 563,
+    "Rank": 804,
+    "Site Name": "Palau de la Musica Catalana & Hospital de Sant Pau",
+    "Nomination Year": 1997,
+    "Country": "Spain",
+    "Rating": 3.54
+  },
+  {
+    "ID": 564,
+    "Rank": 805,
+    "Site Name": "Yuso and Suso Monasteries",
+    "Nomination Year": 1997,
+    "Country": "Spain",
+    "Rating": 3.1
+  },
+  {
+    "ID": 565,
+    "Rank": 806,
+    "Site Name": "Hallstatt-Dachstein",
+    "Nomination Year": 1997,
+    "Country": "Austria",
+    "Rating": 3.67
+  },
+  {
+    "ID": 566,
+    "Rank": 809,
+    "Site Name": "Euphrasian Basilica in Porec",
+    "Nomination Year": 1997,
+    "Country": "Croatia",
+    "Rating": 3.07
+  },
+  {
+    "ID": 567,
+    "Rank": 810,
+    "Site Name": "Trogir",
+    "Nomination Year": 1997,
+    "Country": "Croatia",
+    "Rating": 3
+  },
+  {
+    "ID": 568,
+    "Rank": 811,
+    "Site Name": "Old Town of Lijiang",
+    "Nomination Year": 1997,
+    "Country": "China",
+    "Rating": 3.62
+  },
+  {
+    "ID": 569,
+    "Rank": 812,
+    "Site Name": "Ping Yao",
+    "Nomination Year": 1997,
+    "Country": "China",
+    "Rating": 3.66
+  },
+  {
+    "ID": 570,
+    "Rank": 813,
+    "Site Name": "Classical Gardens of Suzhou",
+    "Nomination Year": 1997,
+    "Country": "China",
+    "Rating": 3.77
+  },
+  {
+    "ID": 571,
+    "Rank": 814,
+    "Site Name": "Morne Trois Pitons",
+    "Nomination Year": 1997,
+    "Country": "Dominica",
+    "Rating": 3.34
+  },
+  {
+    "ID": 572,
+    "Rank": 815,
+    "Site Name": "Hospicio Cabañas",
+    "Nomination Year": 1997,
+    "Country": "Mexico",
+    "Rating": 2.59
+  },
+  {
+    "ID": 573,
+    "Rank": 816,
+    "Site Name": "Changdeokgung Palace Complex",
+    "Nomination Year": 1997,
+    "Country": "Republic of Korea",
+    "Rating": 3.25
+  },
+  {
+    "ID": 574,
+    "Rank": 817,
+    "Site Name": "Hwaseong Fortress",
+    "Nomination Year": 1997,
+    "Country": "Republic of Korea",
+    "Rating": 3.03
+  },
+  {
+    "ID": 575,
+    "Rank": 818,
+    "Site Name": "Kinderdijk",
+    "Nomination Year": 1997,
+    "Country": "Netherlands",
+    "Rating": 3.52
+  },
+  {
+    "ID": 576,
+    "Rank": 819,
+    "Site Name": "Willemstad",
+    "Nomination Year": 1997,
+    "Country": "Netherlands",
+    "Rating": 3.18
+  },
+  {
+    "ID": 577,
+    "Rank": 820,
+    "Site Name": "Cocos Island",
+    "Nomination Year": 1997,
+    "Country": "Costa Rica",
+    "Rating": 4.26
+  },
+  {
+    "ID": 578,
+    "Rank": 821,
+    "Site Name": "São Luis",
+    "Nomination Year": 1997,
+    "Country": "Brazil",
+    "Rating": 2.98
+  },
+  {
+    "ID": 579,
+    "Rank": 822,
+    "Site Name": "Tallinn",
+    "Nomination Year": 1997,
+    "Country": "Estonia",
+    "Rating": 3.73
+  },
+  {
+    "ID": 580,
+    "Rank": 823,
+    "Site Name": "Residences of the Royal House of Savoy",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 3.04
+  },
+  {
+    "ID": 581,
+    "Rank": 824,
+    "Site Name": "Botanical Garden, Padua",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 2.7
+  },
+  {
+    "ID": 582,
+    "Rank": 825,
+    "Site Name": "Aquileia",
+    "Nomination Year": 1998,
+    "Country": "Italy",
+    "Rating": 3.28
+  },
+  {
+    "ID": 583,
+    "Rank": 826,
+    "Site Name": "Portovenere, Cinque Terre, and the Islands",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 4.02
+  },
+  {
+    "ID": 584,
+    "Rank": 827,
+    "Site Name": "Modena",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 3
+  },
+  {
+    "ID": 585,
+    "Rank": 828,
+    "Site Name": "Urbino",
+    "Nomination Year": 1998,
+    "Country": "Italy",
+    "Rating": 3.38
+  },
+  {
+    "ID": 586,
+    "Rank": 829,
+    "Site Name": "Pompei",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 4.46
+  },
+  {
+    "ID": 587,
+    "Rank": 830,
+    "Site Name": "Costiera Amalfitana",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 3.97
+  },
+  {
+    "ID": 588,
+    "Rank": 831,
+    "Site Name": "Agrigento",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 3.88
+  },
+  {
+    "ID": 589,
+    "Rank": 832,
+    "Site Name": "Villa Romana del Casale",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 3.91
+  },
+  {
+    "ID": 590,
+    "Rank": 833,
+    "Site Name": "Su Nuraxi di Barumini",
+    "Nomination Year": 1997,
+    "Country": "Italy",
+    "Rating": 3.37
+  },
+  {
+    "ID": 591,
+    "Rank": 835,
+    "Site Name": "Torun",
+    "Nomination Year": 1997,
+    "Country": "Poland",
+    "Rating": 3.33
+  },
+  {
+    "ID": 592,
+    "Rank": 836,
+    "Site Name": "Volubilis",
+    "Nomination Year": 1997,
+    "Country": "Morocco",
+    "Rating": 3.51
+  },
+  {
+    "ID": 593,
+    "Rank": 837,
+    "Site Name": "Medina of Tétouan",
+    "Nomination Year": 1997,
+    "Country": "Morocco",
+    "Rating": 3.05
+  },
+  {
+    "ID": 594,
+    "Rank": 839,
+    "Site Name": "Alejandro de Humboldt National Park",
+    "Nomination Year": 2001,
+    "Country": "Cuba",
+    "Rating": 3.48
+  },
+  {
+    "ID": 595,
+    "Rank": 840,
+    "Site Name": "Viñales Valley",
+    "Nomination Year": 1999,
+    "Country": "Cuba",
+    "Rating": 3.26
+  },
+  {
+    "ID": 596,
+    "Rank": 841,
+    "Site Name": "San Pedro de la Roca Castle",
+    "Nomination Year": 1997,
+    "Country": "Cuba",
+    "Rating": 2.97
+  },
+  {
+    "ID": 597,
+    "Rank": 842,
+    "Site Name": "Cilento and Vallo di Diano",
+    "Nomination Year": 1998,
+    "Country": "Italy",
+    "Rating": 3.48
+  },
+  {
+    "ID": 598,
+    "Rank": 846,
+    "Site Name": "Classical Weimar",
+    "Nomination Year": 1998,
+    "Country": "Germany",
+    "Rating": 3.05
+  },
+  {
+    "ID": 599,
+    "Rank": 847,
+    "Site Name": "Malbork Castle",
+    "Nomination Year": 1997,
+    "Country": "Poland",
+    "Rating": 3.69
+  },
+  {
+    "ID": 600,
+    "Rank": 848,
+    "Site Name": "Choirokoitia",
+    "Nomination Year": 1998,
+    "Country": "Cyprus",
+    "Rating": 2.57
+  },
+  {
+    "ID": 601,
+    "Rank": 849,
+    "Site Name": "Troy",
+    "Nomination Year": 1998,
+    "Country": "Turkiye",
+    "Rating": 2.96
+  },
+  {
+    "ID": 602,
+    "Rank": 850,
+    "Site Name": "Qadisha Valley",
+    "Nomination Year": 1998,
+    "Country": "Lebanon",
+    "Rating": 3.51
+  },
+  {
+    "ID": 603,
+    "Rank": 852,
+    "Site Name": "Riga",
+    "Nomination Year": 1997,
+    "Country": "Latvia",
+    "Rating": 3.54
+  },
+  {
+    "ID": 604,
+    "Rank": 853,
+    "Site Name": "Early Christian Necropolis of Pécs",
+    "Nomination Year": 2000,
+    "Country": "Hungary",
+    "Rating": 2.8
+  },
+  {
+    "ID": 605,
+    "Rank": 854,
+    "Site Name": "East Rennell",
+    "Nomination Year": 1998,
+    "Country": "Solomon Islands",
+    "Rating": 3.57
+  },
+  {
+    "ID": 606,
+    "Rank": 855,
+    "Site Name": "Flemish Béguinages",
+    "Nomination Year": 1998,
+    "Country": "Belgium",
+    "Rating": 2.78
+  },
+  {
+    "ID": 607,
+    "Rank": 856,
+    "Site Name": "The Four Lifts",
+    "Nomination Year": 1998,
+    "Country": "Belgium",
+    "Rating": 2.99
+  },
+  {
+    "ID": 608,
+    "Rank": 857,
+    "Site Name": "Grand Place, Brussels",
+    "Nomination Year": 1998,
+    "Country": "Belgium",
+    "Rating": 3.53
+  },
+  {
+    "ID": 609,
+    "Rank": 859,
+    "Site Name": "Holy Trinity Column",
+    "Nomination Year": 2000,
+    "Country": "Czechia",
+    "Rating": 2.52
+  },
+  {
+    "ID": 610,
+    "Rank": 860,
+    "Site Name": "Gardens and Castle at Kromeríz",
+    "Nomination Year": 1998,
+    "Country": "Czechia",
+    "Rating": 2.76
+  },
+  {
+    "ID": 611,
+    "Rank": 861,
+    "Site Name": "Holasovice",
+    "Nomination Year": 1998,
+    "Country": "Czechia",
+    "Rating": 2.14
+  },
+  {
+    "ID": 612,
+    "Rank": 862,
+    "Site Name": "Tlacotalpan",
+    "Nomination Year": 1998,
+    "Country": "Mexico",
+    "Rating": 2.61
+  },
+  {
+    "ID": 613,
+    "Rank": 863,
+    "Site Name": "Santa Ana de los Rios de Cuenca",
+    "Nomination Year": 1999,
+    "Country": "Ecuador",
+    "Rating": 3.16
+  },
+  {
+    "ID": 614,
+    "Rank": 865,
+    "Site Name": "L'viv",
+    "Nomination Year": 1998,
+    "Country": "Ukraine",
+    "Rating": 3.68
+  },
+  {
+    "ID": 615,
+    "Rank": 866,
+    "Site Name": "Coa Valley and Siega Verde",
+    "Nomination Year": 1998,
+    "Country": "Portugal",
+    "Rating": 3.03
+  },
+  {
+    "ID": 616,
+    "Rank": 867,
+    "Site Name": "Ir. D.F. Woudagemaal",
+    "Nomination Year": 1998,
+    "Country": "Netherlands",
+    "Rating": 2.64
+  },
+  {
+    "ID": 617,
+    "Rank": 868,
+    "Site Name": "Routes of Santiago de Compostela in France",
+    "Nomination Year": 1998,
+    "Country": "France",
+    "Rating": 2.87
+  },
+  {
+    "ID": 618,
+    "Rank": 870,
+    "Site Name": "Ancient Nara",
+    "Nomination Year": 1998,
+    "Country": "Japan",
+    "Rating": 4
+  },
+  {
+    "ID": 619,
+    "Rank": 871,
+    "Site Name": "Karlskrona",
+    "Nomination Year": 1998,
+    "Country": "Sweden",
+    "Rating": 2.17
+  },
+  {
+    "ID": 620,
+    "Rank": 872,
+    "Site Name": "Lyon",
+    "Nomination Year": 1998,
+    "Country": "France",
+    "Rating": 3.38
+  },
+  {
+    "ID": 621,
+    "Rank": 873,
+    "Site Name": "Provins",
+    "Nomination Year": 2001,
+    "Country": "France",
+    "Rating": 2.98
+  },
+  {
+    "ID": 622,
+    "Rank": 874,
+    "Site Name": "Rock Art of the Mediterranean Basin",
+    "Nomination Year": 1998,
+    "Country": "Spain",
+    "Rating": 2.14
+  },
+  {
+    "ID": 623,
+    "Rank": 875,
+    "Site Name": "Tarraco",
+    "Nomination Year": 2000,
+    "Country": "Spain",
+    "Rating": 2.94
+  },
+  {
+    "ID": 624,
+    "Rank": 876,
+    "Site Name": "Alcala de Henares",
+    "Nomination Year": 1998,
+    "Country": "Spain",
+    "Rating": 2.61
+  },
+  {
+    "ID": 625,
+    "Rank": 877,
+    "Site Name": "Sub-Antarctic Islands",
+    "Nomination Year": 1998,
+    "Country": "New Zealand",
+    "Rating": 4.57
+  },
+  {
+    "ID": 626,
+    "Rank": 880,
+    "Site Name": "Summer Palace",
+    "Nomination Year": 1998,
+    "Country": "China",
+    "Rating": 3.93
+  },
+  {
+    "ID": 627,
+    "Rank": 881,
+    "Site Name": "Temple of Heaven",
+    "Nomination Year": 1998,
+    "Country": "China",
+    "Rating": 3.8
+  },
+  {
+    "ID": 628,
+    "Rank": 883,
+    "Site Name": "El Fuerte de Samaipata",
+    "Nomination Year": 1998,
+    "Country": "Bolivia",
+    "Rating": 3.27
+  },
+  {
+    "ID": 629,
+    "Rank": 884,
+    "Site Name": "Bellinzone",
+    "Nomination Year": 2000,
+    "Country": "Switzerland",
+    "Rating": 3.16
+  },
+  {
+    "ID": 630,
+    "Rank": 885,
+    "Site Name": "Shakhrisyabz",
+    "Nomination Year": 2000,
+    "Country": "Uzbekistan",
+    "Rating": 2.74
+  },
+  {
+    "ID": 631,
+    "Rank": 886,
+    "Site Name": "Ancient Merv",
+    "Nomination Year": 1999,
+    "Country": "Turkmenistan",
+    "Rating": 3.11
+  },
+  {
+    "ID": 632,
+    "Rank": 887,
+    "Site Name": "Kuk",
+    "Nomination Year": 2008,
+    "Country": "Papua New Guinea",
+    "Rating": 0.87
+  },
+  {
+    "ID": 633,
+    "Rank": 889,
+    "Site Name": "Desembarco del Granma National Park",
+    "Nomination Year": 1999,
+    "Country": "Cuba",
+    "Rating": 3.18
+  },
+  {
+    "ID": 634,
+    "Rank": 890,
+    "Site Name": "Diamantina",
+    "Nomination Year": 1999,
+    "Country": "Brazil",
+    "Rating": 2.98
+  },
+  {
+    "ID": 635,
+    "Rank": 892,
+    "Site Name": "Discovery Coast",
+    "Nomination Year": 1999,
+    "Country": "Brazil",
+    "Rating": 2.29
+  },
+  {
+    "ID": 636,
+    "Rank": 893,
+    "Site Name": "Atlantic Forest South-East",
+    "Nomination Year": 1999,
+    "Country": "Brazil",
+    "Rating": 3.18
+  },
+  {
+    "ID": 637,
+    "Rank": 895,
+    "Site Name": "Campeche",
+    "Nomination Year": 1999,
+    "Country": "Mexico",
+    "Rating": 2.75
+  },
+  {
+    "ID": 638,
+    "Rank": 896,
+    "Site Name": "Museumsinsel (Museum Island)",
+    "Nomination Year": 1999,
+    "Country": "Germany",
+    "Rating": 3.47
+  },
+  {
+    "ID": 639,
+    "Rank": 897,
+    "Site Name": "Wartburg Castle",
+    "Nomination Year": 1999,
+    "Country": "Germany",
+    "Rating": 3.22
+  },
+  {
+    "ID": 640,
+    "Rank": 898,
+    "Site Name": "High Coast / Kvarken Archipelago",
+    "Nomination Year": 2000,
+    "Country": "Finland",
+    "Rating": 2.85
+  },
+  {
+    "ID": 641,
+    "Rank": 899,
+    "Site Name": "Beemster Polder",
+    "Nomination Year": 1999,
+    "Country": "Netherlands",
+    "Rating": 1.95
+  },
+  {
+    "ID": 642,
+    "Rank": 900,
+    "Site Name": "Western Caucasus",
+    "Nomination Year": 1999,
+    "Country": "Russia",
+    "Rating": 3.58
+  },
+  {
+    "ID": 643,
+    "Rank": 901,
+    "Site Name": "Litomysl Castle",
+    "Nomination Year": 1999,
+    "Country": "Czechia",
+    "Rating": 2.86
+  },
+  {
+    "ID": 644,
+    "Rank": 902,
+    "Site Name": "Sighisoara",
+    "Nomination Year": 1999,
+    "Country": "Romania",
+    "Rating": 3.35
+  },
+  {
+    "ID": 645,
+    "Rank": 904,
+    "Site Name": "Wooden Churches of Maramures",
+    "Nomination Year": 1999,
+    "Country": "Romania",
+    "Rating": 3.61
+  },
+  {
+    "ID": 646,
+    "Rank": 905,
+    "Site Name": "Kalwaria Zebrzydowska",
+    "Nomination Year": 1999,
+    "Country": "Poland",
+    "Rating": 2.52
+  },
+  {
+    "ID": 647,
+    "Rank": 906,
+    "Site Name": "Dacian Fortresses",
+    "Nomination Year": 1999,
+    "Country": "Romania",
+    "Rating": 2.96
+  },
+  {
+    "ID": 648,
+    "Rank": 907,
+    "Site Name": "Villa Adriana (Tivoli)",
+    "Nomination Year": 1999,
+    "Country": "Italy",
+    "Rating": 3.43
+  },
+  {
+    "ID": 649,
+    "Rank": 908,
+    "Site Name": "Isole Eolie",
+    "Nomination Year": 2000,
+    "Country": "Italy",
+    "Rating": 3.76
+  },
+  {
+    "ID": 650,
+    "Rank": 910,
+    "Site Name": "Brimstone Hill Fortress",
+    "Nomination Year": 1999,
+    "Country": "Saint Kitts and Nevis",
+    "Rating": 3.02
+  },
+  {
+    "ID": 651,
+    "Rank": 911,
+    "Site Name": "Mount Wuyi",
+    "Nomination Year": 1999,
+    "Country": "China",
+    "Rating": 3.59
+  },
+  {
+    "ID": 652,
+    "Rank": 912,
+    "Site Name": "Dazu Rock Carvings",
+    "Nomination Year": 1999,
+    "Country": "China",
+    "Rating": 3.94
+  },
+  {
+    "ID": 653,
+    "Rank": 913,
+    "Site Name": "Nikko",
+    "Nomination Year": 1999,
+    "Country": "Japan",
+    "Rating": 3.83
+  },
+  {
+    "ID": 654,
+    "Rank": 914,
+    "Site Name": "iSimangaliso Wetland Park",
+    "Nomination Year": 1999,
+    "Country": "South Africa",
+    "Rating": 3.61
+  },
+  {
+    "ID": 655,
+    "Rank": 915,
+    "Site Name": "Fossil Hominid Sites",
+    "Nomination Year": 1999,
+    "Country": "South Africa",
+    "Rating": 2.51
+  },
+  {
+    "ID": 656,
+    "Rank": 916,
+    "Site Name": "Robben Island",
+    "Nomination Year": 1999,
+    "Country": "South Africa",
+    "Rating": 2.77
+  },
+  {
+    "ID": 657,
+    "Rank": 917,
+    "Site Name": "Greater Blue Mountains",
+    "Nomination Year": 2000,
+    "Country": "Australia",
+    "Rating": 3.17
+  },
+  {
+    "ID": 658,
+    "Rank": 922,
+    "Site Name": "Rani-ki-Vav",
+    "Nomination Year": 2014,
+    "Country": "India",
+    "Rating": 3.82
+  },
+  {
+    "ID": 659,
+    "Rank": 925,
+    "Site Name": "Rock Shelters of Bhimbetka",
+    "Nomination Year": 2003,
+    "Country": "India",
+    "Rating": 3.09
+  },
+  {
+    "ID": 660,
+    "Rank": 928,
+    "Site Name": "Guanacaste",
+    "Nomination Year": 1999,
+    "Country": "Costa Rica",
+    "Rating": 3.34
+  },
+  {
+    "ID": 661,
+    "Rank": 929,
+    "Site Name": "San Cristobal de La Laguna",
+    "Nomination Year": 1999,
+    "Country": "Spain",
+    "Rating": 2.68
+  },
+  {
+    "ID": 662,
+    "Rank": 930,
+    "Site Name": "Palmeral of Elche",
+    "Nomination Year": 2000,
+    "Country": "Spain",
+    "Rating": 2.51
+  },
+  {
+    "ID": 663,
+    "Rank": 931,
+    "Site Name": "Graz",
+    "Nomination Year": 1999,
+    "Country": "Austria",
+    "Rating": 2.97
+  },
+  {
+    "ID": 664,
+    "Rank": 932,
+    "Site Name": "Saint-Emilion",
+    "Nomination Year": 1999,
+    "Country": "France",
+    "Rating": 3.07
+  },
+  {
+    "ID": 665,
+    "Rank": 933,
+    "Site Name": "Loire Valley",
+    "Nomination Year": 2000,
+    "Country": "France",
+    "Rating": 4.15
+  },
+  {
+    "ID": 666,
+    "Rank": 934,
+    "Site Name": "Laurisilva of Madeira",
+    "Nomination Year": 1999,
+    "Country": "Portugal",
+    "Rating": 3.45
+  },
+  {
+    "ID": 667,
+    "Rank": 936,
+    "Site Name": "Cueva de las Manos",
+    "Nomination Year": 1999,
+    "Country": "Argentina",
+    "Rating": 3.82
+  },
+  {
+    "ID": 668,
+    "Rank": 937,
+    "Site Name": "Peninsula Valdes",
+    "Nomination Year": 1999,
+    "Country": "Argentina",
+    "Rating": 3.85
+  },
+  {
+    "ID": 669,
+    "Rank": 938,
+    "Site Name": "Sukur",
+    "Nomination Year": 1999,
+    "Country": "Nigeria",
+    "Rating": 0
+  },
+  {
+    "ID": 670,
+    "Rank": 939,
+    "Site Name": "Xochicalco",
+    "Nomination Year": 1999,
+    "Country": "Mexico",
+    "Rating": 3.54
+  },
+  {
+    "ID": 671,
+    "Rank": 940,
+    "Site Name": "Paramaribo",
+    "Nomination Year": 2002,
+    "Country": "Suriname",
+    "Rating": 2.62
+  },
+  {
+    "ID": 672,
+    "Rank": 941,
+    "Site Name": "Mycenae and Tiryns",
+    "Nomination Year": 1999,
+    "Country": "Greece",
+    "Rating": 3.67
+  },
+  {
+    "ID": 673,
+    "Rank": 942,
+    "Site Name": "Island of Patmos",
+    "Nomination Year": 1999,
+    "Country": "Greece",
+    "Rating": 3.4
+  },
+  {
+    "ID": 674,
+    "Rank": 943,
+    "Site Name": "Belfries",
+    "Nomination Year": 1999,
+    "Country": "Belgium",
+    "Rating": 2.97
+  },
+  {
+    "ID": 675,
+    "Rank": 944,
+    "Site Name": "Mountain Railways of India",
+    "Nomination Year": 1999,
+    "Country": "India",
+    "Rating": 3.68
+  },
+  {
+    "ID": 676,
+    "Rank": 945,
+    "Site Name": "Chhatrapati Shivaji Terminus",
+    "Nomination Year": 2004,
+    "Country": "India",
+    "Rating": 3.09
+  },
+  {
+    "ID": 677,
+    "Rank": 946,
+    "Site Name": "Mostar",
+    "Nomination Year": 2005,
+    "Country": "Bosnia Herzegovina",
+    "Rating": 3.54
+  },
+  {
+    "ID": 678,
+    "Rank": 948,
+    "Site Name": "Hoi An",
+    "Nomination Year": 1999,
+    "Country": "Viet Nam",
+    "Rating": 3.62
+  },
+  {
+    "ID": 679,
+    "Rank": 949,
+    "Site Name": "My Son",
+    "Nomination Year": 1999,
+    "Country": "Viet Nam",
+    "Rating": 3.06
+  },
+  {
+    "ID": 680,
+    "Rank": 950,
+    "Site Name": "Ambohimanga",
+    "Nomination Year": 2001,
+    "Country": "Madagascar",
+    "Rating": 2.82
+  },
+  {
+    "ID": 681,
+    "Rank": 951,
+    "Site Name": "Phong Nha - Ke Bang",
+    "Nomination Year": 2003,
+    "Country": "Viet Nam",
+    "Rating": 3.69
+  },
+  {
+    "ID": 682,
+    "Rank": 954,
+    "Site Name": "Saint Catherine Area",
+    "Nomination Year": 2002,
+    "Country": "Egypt",
+    "Rating": 3.65
+  },
+  {
+    "ID": 683,
+    "Rank": 955,
+    "Site Name": "Lorentz National Park",
+    "Nomination Year": 1999,
+    "Country": "Indonesia",
+    "Rating": 3.8
+  },
+  {
+    "ID": 684,
+    "Rank": 956,
+    "Site Name": "Island of Saint-Louis",
+    "Nomination Year": 2000,
+    "Country": "Senegal",
+    "Rating": 2.28
+  },
+  {
+    "ID": 685,
+    "Rank": 958,
+    "Site Name": "Walled City of Baku",
+    "Nomination Year": 2000,
+    "Country": "Azerbaijan",
+    "Rating": 3.06
+  },
+  {
+    "ID": 686,
+    "Rank": 959,
+    "Site Name": "Valparaiso",
+    "Nomination Year": 2003,
+    "Country": "Chile",
+    "Rating": 3.32
+  },
+  {
+    "ID": 687,
+    "Rank": 960,
+    "Site Name": "Monastery of Geghard",
+    "Nomination Year": 2000,
+    "Country": "Armenia",
+    "Rating": 3.61
+  },
+  {
+    "ID": 688,
+    "Rank": 963,
+    "Site Name": "Cathedral of St. James in Sibenik",
+    "Nomination Year": 2000,
+    "Country": "Croatia",
+    "Rating": 2.81
+  },
+  {
+    "ID": 689,
+    "Rank": 965,
+    "Site Name": "Rietveld Schröderhuis",
+    "Nomination Year": 2000,
+    "Country": "Netherlands",
+    "Rating": 3.21
+  },
+  {
+    "ID": 690,
+    "Rank": 966,
+    "Site Name": "Ischigualasto / Talampaya",
+    "Nomination Year": 2000,
+    "Country": "Argentina",
+    "Rating": 3.8
+  },
+  {
+    "ID": 691,
+    "Rank": 967,
+    "Site Name": "Noel Kempff Mercado National Park",
+    "Nomination Year": 2000,
+    "Country": "Bolivia",
+    "Rating": 3.34
+  },
+  {
+    "ID": 692,
+    "Rank": 968,
+    "Site Name": "Southern Öland",
+    "Nomination Year": 2000,
+    "Country": "Sweden",
+    "Rating": 2.57
+  },
+  {
+    "ID": 693,
+    "Rank": 970,
+    "Site Name": "Wachau Cultural Landscape",
+    "Nomination Year": 2000,
+    "Country": "Austria",
+    "Rating": 3.59
+  },
+  {
+    "ID": 694,
+    "Rank": 971,
+    "Site Name": "Churches of Chiloé",
+    "Nomination Year": 2000,
+    "Country": "Chile",
+    "Rating": 3.38
+  },
+  {
+    "ID": 695,
+    "Rank": 972,
+    "Site Name": "Gusuku of Ryukyu",
+    "Nomination Year": 2000,
+    "Country": "Japan",
+    "Rating": 3.03
+  },
+  {
+    "ID": 696,
+    "Rank": 973,
+    "Site Name": "Bardejov Town",
+    "Nomination Year": 2000,
+    "Country": "Slovakia",
+    "Rating": 2.91
+  },
+  {
+    "ID": 697,
+    "Rank": 974,
+    "Site Name": "Reichenau",
+    "Nomination Year": 2000,
+    "Country": "Germany",
+    "Rating": 2.6
+  },
+  {
+    "ID": 698,
+    "Rank": 975,
+    "Site Name": "Zollverein",
+    "Nomination Year": 2001,
+    "Country": "Germany",
+    "Rating": 2.99
+  },
+  {
+    "ID": 699,
+    "Rank": 976,
+    "Site Name": "Gyeongju",
+    "Nomination Year": 2000,
+    "Country": "Republic of Korea",
+    "Rating": 3.32
+  },
+  {
+    "ID": 700,
+    "Rank": 977,
+    "Site Name": "Gochang, Hwasun, and Ganghwa Dolmen",
+    "Nomination Year": 2000,
+    "Country": "Republic of Korea",
+    "Rating": 2.28
+  },
+  {
+    "ID": 701,
+    "Rank": 978,
+    "Site Name": "Corfu",
+    "Nomination Year": 2007,
+    "Country": "Greece",
+    "Rating": 3.1
+  },
+  {
+    "ID": 702,
+    "Rank": 980,
+    "Site Name": "Kazan Kremlin",
+    "Nomination Year": 2000,
+    "Country": "Russia",
+    "Rating": 3
+  },
+  {
+    "ID": 703,
+    "Rank": 981,
+    "Site Name": "Bolgar",
+    "Nomination Year": 2014,
+    "Country": "Russia",
+    "Rating": 2.52
+  },
+  {
+    "ID": 704,
+    "Rank": 982,
+    "Site Name": "Ferapontov Monastery",
+    "Nomination Year": 2000,
+    "Country": "Russia",
+    "Rating": 3.24
+  },
+  {
+    "ID": 705,
+    "Rank": 983,
+    "Site Name": "St. George, Bermuda",
+    "Nomination Year": 2000,
+    "Country": "United Kingdom",
+    "Rating": 2.76
+  },
+  {
+    "ID": 706,
+    "Rank": 984,
+    "Site Name": "Blaenavon Industrial Landscape",
+    "Nomination Year": 2000,
+    "Country": "United Kingdom",
+    "Rating": 2.66
+  },
+  {
+    "ID": 707,
+    "Rank": 985,
+    "Site Name": "Maloti-Drakensberg Park",
+    "Nomination Year": 2000,
+    "Country": "Lesotho",
+    "Rating": 3.53
+  },
+  {
+    "ID": 708,
+    "Rank": 986,
+    "Site Name": "Ciudad Universitaria de Caracas",
+    "Nomination Year": 2000,
+    "Country": "Venezuela",
+    "Rating": 2.61
+  },
+  {
+    "ID": 709,
+    "Rank": 987,
+    "Site Name": "Roman Walls of Lugo",
+    "Nomination Year": 2000,
+    "Country": "Spain",
+    "Rating": 2.91
+  },
+  {
+    "ID": 710,
+    "Rank": 988,
+    "Site Name": "Vall de Boi",
+    "Nomination Year": 2000,
+    "Country": "Spain",
+    "Rating": 3.46
+  },
+  {
+    "ID": 711,
+    "Rank": 989,
+    "Site Name": "Atapuerca",
+    "Nomination Year": 2000,
+    "Country": "Spain",
+    "Rating": 2.33
+  },
+  {
+    "ID": 712,
+    "Rank": 990,
+    "Site Name": "Assisi",
+    "Nomination Year": 2000,
+    "Country": "Italy",
+    "Rating": 3.91
+  },
+  {
+    "ID": 713,
+    "Rank": 993,
+    "Site Name": "Goias",
+    "Nomination Year": 2001,
+    "Country": "Brazil",
+    "Rating": 2.55
+  },
+  {
+    "ID": 714,
+    "Rank": 994,
+    "Site Name": "Curonian Spit",
+    "Nomination Year": 2000,
+    "Country": "Russia",
+    "Rating": 3.39
+  },
+  {
+    "ID": 715,
+    "Rank": 995,
+    "Site Name": "Jesuit Block and Estancias of Córdoba",
+    "Nomination Year": 2000,
+    "Country": "Argentina",
+    "Rating": 2.66
+  },
+  {
+    "ID": 716,
+    "Rank": 996,
+    "Site Name": "Brugge",
+    "Nomination Year": 2000,
+    "Country": "Belgium",
+    "Rating": 4.02
+  },
+  {
+    "ID": 717,
+    "Rank": 998,
+    "Site Name": "Central Amazon Conservation Complex",
+    "Nomination Year": 2000,
+    "Country": "Brazil",
+    "Rating": 3.77
+  },
+  {
+    "ID": 718,
+    "Rank": 999,
+    "Site Name": "Pantanal",
+    "Nomination Year": 2000,
+    "Country": "Brazil",
+    "Rating": 4.09
+  },
+  {
+    "ID": 719,
+    "Rank": 1000,
+    "Site Name": "Brazilian Atlantic Islands",
+    "Nomination Year": 2001,
+    "Country": "Brazil",
+    "Rating": 3.51
+  },
+  {
+    "ID": 720,
+    "Rank": 1001,
+    "Site Name": "Mount Qingcheng and Dujiangyan",
+    "Nomination Year": 2000,
+    "Country": "China",
+    "Rating": 3.52
+  },
+  {
+    "ID": 721,
+    "Rank": 1002,
+    "Site Name": "Xidi and Hongcun",
+    "Nomination Year": 2000,
+    "Country": "China",
+    "Rating": 3.65
+  },
+  {
+    "ID": 722,
+    "Rank": 1003,
+    "Site Name": "Longmen Grottoes",
+    "Nomination Year": 2000,
+    "Country": "China",
+    "Rating": 4
+  },
+  {
+    "ID": 723,
+    "Rank": 1004,
+    "Site Name": "Imperial Tombs",
+    "Nomination Year": 2000,
+    "Country": "China",
+    "Rating": 3.29
+  },
+  {
+    "ID": 724,
+    "Rank": 1005,
+    "Site Name": "Major Town Houses",
+    "Nomination Year": 2000,
+    "Country": "Belgium",
+    "Rating": 2.9
+  },
+  {
+    "ID": 725,
+    "Rank": 1006,
+    "Site Name": "Neolithic Flint Mines at Spiennes",
+    "Nomination Year": 2000,
+    "Country": "Belgium",
+    "Rating": 2.42
+  },
+  {
+    "ID": 726,
+    "Rank": 1007,
+    "Site Name": "Cape Floral Region",
+    "Nomination Year": 2004,
+    "Country": "South Africa",
+    "Rating": 3.54
+  },
+  {
+    "ID": 727,
+    "Rank": 1008,
+    "Site Name": "First Coffee Plantations",
+    "Nomination Year": 2000,
+    "Country": "Cuba",
+    "Rating": 2.68
+  },
+  {
+    "ID": 728,
+    "Rank": 1009,
+    "Site Name": "Notre-Dame Cathedral in Tournai",
+    "Nomination Year": 2000,
+    "Country": "Belgium",
+    "Rating": 2.69
+  },
+  {
+    "ID": 729,
+    "Rank": 1010,
+    "Site Name": "Land of Frankincense",
+    "Nomination Year": 2000,
+    "Country": "Oman",
+    "Rating": 2.99
+  },
+  {
+    "ID": 730,
+    "Rank": 1011,
+    "Site Name": "Echmiatsin and Zvartnots",
+    "Nomination Year": 2000,
+    "Country": "Armenia",
+    "Rating": 3.18
+  },
+  {
+    "ID": 731,
+    "Rank": 1012,
+    "Site Name": "Kinabalu Park",
+    "Nomination Year": 2000,
+    "Country": "Malaysia",
+    "Rating": 3.45
+  },
+  {
+    "ID": 732,
+    "Rank": 1013,
+    "Site Name": "Gunung Mulu",
+    "Nomination Year": 2000,
+    "Country": "Malaysia",
+    "Rating": 4.4
+  },
+  {
+    "ID": 733,
+    "Rank": 1014,
+    "Site Name": "Niah Caves",
+    "Nomination Year": 2024,
+    "Country": "Malaysia",
+    "Rating": 2.88
+  },
+  {
+    "ID": 734,
+    "Rank": 1016,
+    "Site Name": "Arequipa",
+    "Nomination Year": 2000,
+    "Country": "Peru",
+    "Rating": 3.39
+  },
+  {
+    "ID": 735,
+    "Rank": 1017,
+    "Site Name": "Central Suriname Nature Reserve",
+    "Nomination Year": 2000,
+    "Country": "Suriname",
+    "Rating": 2.89
+  },
+  {
+    "ID": 736,
+    "Rank": 1018,
+    "Site Name": "Ephesus",
+    "Nomination Year": 2015,
+    "Country": "Turkiye",
+    "Rating": 4.22
+  },
+  {
+    "ID": 737,
+    "Rank": 1021,
+    "Site Name": "Tsodilo",
+    "Nomination Year": 2001,
+    "Country": "Botswana",
+    "Rating": 3.23
+  },
+  {
+    "ID": 738,
+    "Rank": 1022,
+    "Site Name": "Tombs of Buganda Kings",
+    "Nomination Year": 2001,
+    "Country": "Uganda",
+    "Rating": 2.14
+  },
+  {
+    "ID": 739,
+    "Rank": 1023,
+    "Site Name": "Wrangel Island",
+    "Nomination Year": 2004,
+    "Country": "Russia",
+    "Rating": 2.88
+  },
+  {
+    "ID": 740,
+    "Rank": 1024,
+    "Site Name": "Val di Noto",
+    "Nomination Year": 2002,
+    "Country": "Italy",
+    "Rating": 3.41
+  },
+  {
+    "ID": 741,
+    "Rank": 1025,
+    "Site Name": "Villa d'Este",
+    "Nomination Year": 2001,
+    "Country": "Italy",
+    "Rating": 3.37
+  },
+  {
+    "ID": 742,
+    "Rank": 1026,
+    "Site Name": "Val d'Orcia",
+    "Nomination Year": 2004,
+    "Country": "Italy",
+    "Rating": 3.26
+  },
+  {
+    "ID": 743,
+    "Rank": 1027,
+    "Site Name": "Falun Great Copper Mountain",
+    "Nomination Year": 2001,
+    "Country": "Sweden",
+    "Rating": 2.96
+  },
+  {
+    "ID": 744,
+    "Rank": 1028,
+    "Site Name": "Saltaire",
+    "Nomination Year": 2001,
+    "Country": "United Kingdom",
+    "Rating": 2.25
+  },
+  {
+    "ID": 745,
+    "Rank": 1029,
+    "Site Name": "Dorset and East Devon Coast",
+    "Nomination Year": 2001,
+    "Country": "United Kingdom",
+    "Rating": 3.38
+  },
+  {
+    "ID": 746,
+    "Rank": 1030,
+    "Site Name": "Derwent Valley Mills",
+    "Nomination Year": 2001,
+    "Country": "United Kingdom",
+    "Rating": 2.42
+  },
+  {
+    "ID": 747,
+    "Rank": 1031,
+    "Site Name": "Guimarães",
+    "Nomination Year": 2001,
+    "Country": "Portugal",
+    "Rating": 3.09
+  },
+  {
+    "ID": 748,
+    "Rank": 1033,
+    "Site Name": "Vienna",
+    "Nomination Year": 2001,
+    "Country": "Austria",
+    "Rating": 4.08
+  },
+  {
+    "ID": 749,
+    "Rank": 1035,
+    "Site Name": "Cerrado Protected Areas",
+    "Nomination Year": 2001,
+    "Country": "Brazil",
+    "Rating": 3.51
+  },
+  {
+    "ID": 750,
+    "Rank": 1037,
+    "Site Name": "Swiss Alps Jungfrau-Aletsch",
+    "Nomination Year": 2001,
+    "Country": "Switzerland",
+    "Rating": 4.12
+  },
+  {
+    "ID": 751,
+    "Rank": 1039,
+    "Site Name": "Yungang Grottoes",
+    "Nomination Year": 2001,
+    "Country": "China",
+    "Rating": 4.17
+  },
+  {
+    "ID": 752,
+    "Rank": 1040,
+    "Site Name": "Masada",
+    "Nomination Year": 2001,
+    "Country": "Israel",
+    "Rating": 3.94
+  },
+  {
+    "ID": 753,
+    "Rank": 1042,
+    "Site Name": "Old City of Acre",
+    "Nomination Year": 2001,
+    "Country": "Israel",
+    "Rating": 3.38
+  },
+  {
+    "ID": 754,
+    "Rank": 1044,
+    "Site Name": "Aranjuez",
+    "Nomination Year": 2001,
+    "Country": "Spain",
+    "Rating": 2.66
+  },
+  {
+    "ID": 755,
+    "Rank": 1046,
+    "Site Name": "Alto Douro",
+    "Nomination Year": 2001,
+    "Country": "Portugal",
+    "Rating": 3.35
+  },
+  {
+    "ID": 756,
+    "Rank": 1052,
+    "Site Name": "Tugendhat Villa",
+    "Nomination Year": 2001,
+    "Country": "Czechia",
+    "Rating": 2.97
+  },
+  {
+    "ID": 757,
+    "Rank": 1053,
+    "Site Name": "Wooden Churches of Southern Malopolska",
+    "Nomination Year": 2003,
+    "Country": "Poland",
+    "Rating": 3.27
+  },
+  {
+    "ID": 758,
+    "Rank": 1054,
+    "Site Name": "Churches of Peace",
+    "Nomination Year": 2001,
+    "Country": "Poland",
+    "Rating": 3.51
+  },
+  {
+    "ID": 759,
+    "Rank": 1055,
+    "Site Name": "Lamu Old Town",
+    "Nomination Year": 2001,
+    "Country": "Kenya",
+    "Rating": 3.45
+  },
+  {
+    "ID": 760,
+    "Rank": 1056,
+    "Site Name": "Mahabodhi Temple Complex",
+    "Nomination Year": 2002,
+    "Country": "India",
+    "Rating": 3.25
+  },
+  {
+    "ID": 761,
+    "Rank": 1058,
+    "Site Name": "Mazagan",
+    "Nomination Year": 2004,
+    "Country": "Morocco",
+    "Rating": 2.54
+  },
+  {
+    "ID": 762,
+    "Rank": 1060,
+    "Site Name": "Kenya Lake System",
+    "Nomination Year": 2011,
+    "Country": "Kenya",
+    "Rating": 3.48
+  },
+  {
+    "ID": 763,
+    "Rank": 1061,
+    "Site Name": "Calakmul",
+    "Nomination Year": 2002,
+    "Country": "Mexico",
+    "Rating": 4.25
+  },
+  {
+    "ID": 764,
+    "Rank": 1063,
+    "Site Name": "Tokaji Wine Region",
+    "Nomination Year": 2002,
+    "Country": "Hungary",
+    "Rating": 2.53
+  },
+  {
+    "ID": 765,
+    "Rank": 1066,
+    "Site Name": "Upper Middle Rhine Valley",
+    "Nomination Year": 2002,
+    "Country": "Germany",
+    "Rating": 3.67
+  },
+  {
+    "ID": 766,
+    "Rank": 1067,
+    "Site Name": "Stralsund and Wismar",
+    "Nomination Year": 2002,
+    "Country": "Germany",
+    "Rating": 2.84
+  },
+  {
+    "ID": 767,
+    "Rank": 1068,
+    "Site Name": "Sacri Monti of Piedmont and Lombardy",
+    "Nomination Year": 2003,
+    "Country": "Italy",
+    "Rating": 2.97
+  },
+  {
+    "ID": 768,
+    "Rank": 1070,
+    "Site Name": "Derbent",
+    "Nomination Year": 2003,
+    "Country": "Russia",
+    "Rating": 3.28
+  },
+  {
+    "ID": 769,
+    "Rank": 1073,
+    "Site Name": "Gebel Barkal",
+    "Nomination Year": 2003,
+    "Country": "Sudan",
+    "Rating": 3.5
+  },
+  {
+    "ID": 770,
+    "Rank": 1076,
+    "Site Name": "Gobustan Rock Art",
+    "Nomination Year": 2007,
+    "Country": "Azerbaijan",
+    "Rating": 2.82
+  },
+  {
+    "ID": 771,
+    "Rank": 1077,
+    "Site Name": "Takht-e Soleyman",
+    "Nomination Year": 2003,
+    "Country": "Iran",
+    "Rating": 3.44
+  },
+  {
+    "ID": 772,
+    "Rank": 1078,
+    "Site Name": "Trebic",
+    "Nomination Year": 2003,
+    "Country": "Czechia",
+    "Rating": 2.65
+  },
+  {
+    "ID": 773,
+    "Rank": 1079,
+    "Site Name": "Franciscan Missions in the Sierra Gorda",
+    "Nomination Year": 2003,
+    "Country": "Mexico",
+    "Rating": 3.14
+  },
+  {
+    "ID": 774,
+    "Rank": 1081,
+    "Site Name": "Orkhon Valley",
+    "Nomination Year": 2004,
+    "Country": "Mongolia",
+    "Rating": 2.77
+  },
+  {
+    "ID": 775,
+    "Rank": 1083,
+    "Site Name": "Three parallel rivers of Yunnan",
+    "Nomination Year": 2003,
+    "Country": "China",
+    "Rating": 3.6
+  },
+  {
+    "ID": 776,
+    "Rank": 1084,
+    "Site Name": "Kew Gardens",
+    "Nomination Year": 2003,
+    "Country": "United Kingdom",
+    "Rating": 3.33
+  },
+  {
+    "ID": 777,
+    "Rank": 1087,
+    "Site Name": "Town Hall and Roland, Bremen",
+    "Nomination Year": 2004,
+    "Country": "Germany",
+    "Rating": 2.77
+  },
+  {
+    "ID": 778,
+    "Rank": 1090,
+    "Site Name": "Monte San Giorgio",
+    "Nomination Year": 2003,
+    "Country": "Italy",
+    "Rating": 2.29
+  },
+  {
+    "ID": 779,
+    "Rank": 1091,
+    "Site Name": "Koguryo Tombs",
+    "Nomination Year": 2004,
+    "Country": "Korea (DPR)",
+    "Rating": 3.1
+  },
+  {
+    "ID": 780,
+    "Rank": 1093,
+    "Site Name": "Um er-Rasas",
+    "Nomination Year": 2004,
+    "Country": "Jordan",
+    "Rating": 2.81
+  },
+  {
+    "ID": 781,
+    "Rank": 1094,
+    "Site Name": "Purnululu National Park",
+    "Nomination Year": 2003,
+    "Country": "Australia",
+    "Rating": 4.17
+  },
+  {
+    "ID": 782,
+    "Rank": 1096,
+    "Site Name": "White City of Tel-Aviv",
+    "Nomination Year": 2003,
+    "Country": "Israel",
+    "Rating": 2.45
+  },
+  {
+    "ID": 783,
+    "Rank": 1097,
+    "Site Name": "Novodevichy Convent",
+    "Nomination Year": 2004,
+    "Country": "Russia",
+    "Rating": 2.89
+  },
+  {
+    "ID": 784,
+    "Rank": 1099,
+    "Site Name": "Mapungubwe",
+    "Nomination Year": 2003,
+    "Country": "South Africa",
+    "Rating": 3.28
+  },
+  {
+    "ID": 785,
+    "Rank": 1100,
+    "Site Name": "Rio de Janeiro",
+    "Nomination Year": 2012,
+    "Country": "Brazil",
+    "Rating": 3.77
+  },
+  {
+    "ID": 786,
+    "Rank": 1101,
+    "Site Name": "Champaner-Pavagadh",
+    "Nomination Year": 2004,
+    "Country": "India",
+    "Rating": 2.97
+  },
+  {
+    "ID": 787,
+    "Rank": 1102,
+    "Site Name": "Saryarka",
+    "Nomination Year": 2008,
+    "Country": "Kazakhstan",
+    "Rating": 2.24
+  },
+  {
+    "ID": 788,
+    "Rank": 1103,
+    "Site Name": "Mausoleum of Khoja Ahmed Yasawi",
+    "Nomination Year": 2003,
+    "Country": "Kazakhstan",
+    "Rating": 3.53
+  },
+  {
+    "ID": 789,
+    "Rank": 1106,
+    "Site Name": "Pasargadae",
+    "Nomination Year": 2004,
+    "Country": "Iran",
+    "Rating": 2.71
+  },
+  {
+    "ID": 790,
+    "Rank": 1107,
+    "Site Name": "Incense Route of the Negev",
+    "Nomination Year": 2005,
+    "Country": "Israel",
+    "Rating": 3.14
+  },
+  {
+    "ID": 791,
+    "Rank": 1108,
+    "Site Name": "Biblical Tells",
+    "Nomination Year": 2005,
+    "Country": "Israel",
+    "Rating": 3.19
+  },
+  {
+    "ID": 792,
+    "Rank": 1110,
+    "Site Name": "Macao",
+    "Nomination Year": 2005,
+    "Country": "China",
+    "Rating": 3.19
+  },
+  {
+    "ID": 793,
+    "Rank": 1111,
+    "Site Name": "Hani Rice Terraces",
+    "Nomination Year": 2013,
+    "Country": "China",
+    "Rating": 3.91
+  },
+  {
+    "ID": 794,
+    "Rank": 1112,
+    "Site Name": "Kaiping Diaolou",
+    "Nomination Year": 2007,
+    "Country": "China",
+    "Rating": 3.37
+  },
+  {
+    "ID": 795,
+    "Rank": 1113,
+    "Site Name": "Fujian Tulou",
+    "Nomination Year": 2008,
+    "Country": "China",
+    "Rating": 3.84
+  },
+  {
+    "ID": 796,
+    "Rank": 1114,
+    "Site Name": "Yin Xu",
+    "Nomination Year": 2006,
+    "Country": "China",
+    "Rating": 3.42
+  },
+  {
+    "ID": 797,
+    "Rank": 1115,
+    "Site Name": "Lagoons of New Caledonia",
+    "Nomination Year": 2008,
+    "Country": "France",
+    "Rating": 3.88
+  },
+  {
+    "ID": 798,
+    "Rank": 1116,
+    "Site Name": "Quebrada de Humahuaca",
+    "Nomination Year": 2003,
+    "Country": "Argentina",
+    "Rating": 3.42
+  },
+  {
+    "ID": 799,
+    "Rank": 1117,
+    "Site Name": "Pico Island",
+    "Nomination Year": 2004,
+    "Country": "Portugal",
+    "Rating": 3.59
+  },
+  {
+    "ID": 800,
+    "Rank": 1118,
+    "Site Name": "Osun-Osogbo",
+    "Nomination Year": 2005,
+    "Country": "Nigeria",
+    "Rating": 2.62
+  },
+  {
+    "ID": 801,
+    "Rank": 1121,
+    "Site Name": "Coffee Cultural Landscape",
+    "Nomination Year": 2011,
+    "Country": "Colombia",
+    "Rating": 3.1
+  },
+  {
+    "ID": 802,
+    "Rank": 1127,
+    "Site Name": "Muskauer Park",
+    "Nomination Year": 2004,
+    "Country": "Germany",
+    "Rating": 2.65
+  },
+  {
+    "ID": 803,
+    "Rank": 1130,
+    "Site Name": "Ashur",
+    "Nomination Year": 2003,
+    "Country": "Iraq",
+    "Rating": 2.93
+  },
+  {
+    "ID": 804,
+    "Rank": 1131,
+    "Site Name": "Royal Exhibition Building",
+    "Nomination Year": 2004,
+    "Country": "Australia",
+    "Rating": 2.24
+  },
+  {
+    "ID": 805,
+    "Rank": 1133,
+    "Site Name": "Primeval Beech Forests",
+    "Nomination Year": 2007,
+    "Country": "Slovakia",
+    "Rating": 2.69
+  },
+  {
+    "ID": 806,
+    "Rank": 1134,
+    "Site Name": "Grimeton Radio Station",
+    "Nomination Year": 2004,
+    "Country": "Sweden",
+    "Rating": 2.63
+  },
+  {
+    "ID": 807,
+    "Rank": 1135,
+    "Site Name": "Koguryo Kingdom",
+    "Nomination Year": 2004,
+    "Country": "China",
+    "Rating": 3.11
+  },
+  {
+    "ID": 808,
+    "Rank": 1136,
+    "Site Name": "Luis Barragán House and Studio",
+    "Nomination Year": 2004,
+    "Country": "Mexico",
+    "Rating": 2.93
+  },
+  {
+    "ID": 809,
+    "Rank": 1137,
+    "Site Name": "Kernavė",
+    "Nomination Year": 2004,
+    "Country": "Lithuania",
+    "Rating": 2.32
+  },
+  {
+    "ID": 810,
+    "Rank": 1138,
+    "Site Name": "Coiba National Park",
+    "Nomination Year": 2005,
+    "Country": "Panama",
+    "Rating": 3.26
+  },
+  {
+    "ID": 811,
+    "Rank": 1139,
+    "Site Name": "Tomb of Askia",
+    "Nomination Year": 2004,
+    "Country": "Mali",
+    "Rating": 2.52
+  },
+  {
+    "ID": 812,
+    "Rank": 1140,
+    "Site Name": "Koutammakou",
+    "Nomination Year": 2004,
+    "Country": "Togo",
+    "Rating": 3.13
+  },
+  {
+    "ID": 813,
+    "Rank": 1141,
+    "Site Name": "Sarazm",
+    "Nomination Year": 2010,
+    "Country": "Tajikistan",
+    "Rating": 2.06
+  },
+  {
+    "ID": 814,
+    "Rank": 1142,
+    "Site Name": "Kii Mountain Range",
+    "Nomination Year": 2004,
+    "Country": "Japan",
+    "Rating": 3.72
+  },
+  {
+    "ID": 815,
+    "Rank": 1143,
+    "Site Name": "Vegaøyan",
+    "Nomination Year": 2004,
+    "Country": "Norway",
+    "Rating": 2.69
+  },
+  {
+    "ID": 816,
+    "Rank": 1145,
+    "Site Name": "Tanbaly",
+    "Nomination Year": 2004,
+    "Country": "Kazakhstan",
+    "Rating": 3.41
+  },
+  {
+    "ID": 817,
+    "Rank": 1147,
+    "Site Name": "Lopé-Okanda",
+    "Nomination Year": 2007,
+    "Country": "Gabon",
+    "Rating": 2.22
+  },
+  {
+    "ID": 818,
+    "Rank": 1149,
+    "Site Name": "Ilulissat Icefjord",
+    "Nomination Year": 2004,
+    "Country": "Denmark",
+    "Rating": 4.52
+  },
+  {
+    "ID": 819,
+    "Rank": 1152,
+    "Site Name": "Thingvellir",
+    "Nomination Year": 2004,
+    "Country": "Iceland",
+    "Rating": 3.52
+  },
+  {
+    "ID": 820,
+    "Rank": 1153,
+    "Site Name": "Causses and Cévennes",
+    "Nomination Year": 2011,
+    "Country": "France",
+    "Rating": 3.28
+  },
+  {
+    "ID": 821,
+    "Rank": 1155,
+    "Site Name": "Regensburg",
+    "Nomination Year": 2006,
+    "Country": "Germany",
+    "Rating": 3
+  },
+  {
+    "ID": 822,
+    "Rank": 1158,
+    "Site Name": "Etruscan Necropolises",
+    "Nomination Year": 2004,
+    "Country": "Italy",
+    "Rating": 3.65
+  },
+  {
+    "ID": 823,
+    "Rank": 1160,
+    "Site Name": "Madriu-Perafita-Claror Valley",
+    "Nomination Year": 2004,
+    "Country": "Andorra",
+    "Rating": 2.73
+  },
+  {
+    "ID": 824,
+    "Rank": 1161,
+    "Site Name": "Pitons Management Area",
+    "Nomination Year": 2004,
+    "Country": "Saint Lucia",
+    "Rating": 3.06
+  },
+  {
+    "ID": 825,
+    "Rank": 1162,
+    "Site Name": "Vredefort Dome",
+    "Nomination Year": 2005,
+    "Country": "South Africa",
+    "Rating": 2.23
+  },
+  {
+    "ID": 826,
+    "Rank": 1165,
+    "Site Name": "Centennial Hall",
+    "Nomination Year": 2006,
+    "Country": "Poland",
+    "Rating": 2.44
+  },
+  {
+    "ID": 827,
+    "Rank": 1167,
+    "Site Name": "Tropical Rainforest Sumatra",
+    "Nomination Year": 2004,
+    "Country": "Indonesia",
+    "Rating": 3.91
+  },
+  {
+    "ID": 828,
+    "Rank": 1170,
+    "Site Name": "Yaroslavl",
+    "Nomination Year": 2005,
+    "Country": "Russia",
+    "Rating": 2.88
+  },
+  {
+    "ID": 829,
+    "Rank": 1174,
+    "Site Name": "Chiribiquete National Park",
+    "Nomination Year": 2018,
+    "Country": "Colombia",
+    "Rating": 3.05
+  },
+  {
+    "ID": 830,
+    "Rank": 1178,
+    "Site Name": "Humberstone and Santa Laura Saltpeter Works",
+    "Nomination Year": 2005,
+    "Country": "Chile",
+    "Rating": 3.46
+  },
+  {
+    "ID": 831,
+    "Rank": 1179,
+    "Site Name": "Swiss Tectonic Arena Sardona",
+    "Nomination Year": 2008,
+    "Country": "Switzerland",
+    "Rating": 3
+  },
+  {
+    "ID": 832,
+    "Rank": 1181,
+    "Site Name": "Le Havre",
+    "Nomination Year": 2005,
+    "Country": "France",
+    "Rating": 2.75
+  },
+  {
+    "ID": 833,
+    "Rank": 1182,
+    "Site Name": "Gulf of California",
+    "Nomination Year": 2005,
+    "Country": "Mexico",
+    "Rating": 3.74
+  },
+  {
+    "ID": 834,
+    "Rank": 1183,
+    "Site Name": "Kondoa",
+    "Nomination Year": 2006,
+    "Country": "Tanzania",
+    "Rating": 2.72
+  },
+  {
+    "ID": 835,
+    "Rank": 1185,
+    "Site Name": "Plantin-Moretus Museum",
+    "Nomination Year": 2005,
+    "Country": "Belgium",
+    "Rating": 3.36
+  },
+  {
+    "ID": 836,
+    "Rank": 1186,
+    "Site Name": "Wadi Al-Hitan",
+    "Nomination Year": 2005,
+    "Country": "Egypt",
+    "Rating": 3.59
+  },
+  {
+    "ID": 837,
+    "Rank": 1187,
+    "Site Name": "Struve Geodetic Arc",
+    "Nomination Year": 2005,
+    "Country": "Norway",
+    "Rating": 1.85
+  },
+  {
+    "ID": 838,
+    "Rank": 1188,
+    "Site Name": "Soltaniyeh",
+    "Nomination Year": 2005,
+    "Country": "Iran",
+    "Rating": 3.01
+  },
+  {
+    "ID": 839,
+    "Rank": 1189,
+    "Site Name": "Harar Jugol",
+    "Nomination Year": 2006,
+    "Country": "Ethiopia",
+    "Rating": 3.04
+  },
+  {
+    "ID": 840,
+    "Rank": 1192,
+    "Site Name": "Qal'at al-Bahrain",
+    "Nomination Year": 2005,
+    "Country": "Bahrain",
+    "Rating": 2.59
+  },
+  {
+    "ID": 841,
+    "Rank": 1193,
+    "Site Name": "Shiretoko",
+    "Nomination Year": 2005,
+    "Country": "Japan",
+    "Rating": 3.89
+  },
+  {
+    "ID": 842,
+    "Rank": 1194,
+    "Site Name": "Bali Subak system",
+    "Nomination Year": 2012,
+    "Country": "Indonesia",
+    "Rating": 3.24
+  },
+  {
+    "ID": 843,
+    "Rank": 1195,
+    "Site Name": "West Norwegian Fjords",
+    "Nomination Year": 2005,
+    "Country": "Norway",
+    "Rating": 4.39
+  },
+  {
+    "ID": 844,
+    "Rank": 1196,
+    "Site Name": "Nesvizh",
+    "Nomination Year": 2005,
+    "Country": "Belarus",
+    "Rating": 2.58
+  },
+  {
+    "ID": 845,
+    "Rank": 1199,
+    "Site Name": "Kunya-Urgench",
+    "Nomination Year": 2005,
+    "Country": "Turkmenistan",
+    "Rating": 2.82
+  },
+  {
+    "ID": 846,
+    "Rank": 1200,
+    "Site Name": "Syracuse",
+    "Nomination Year": 2005,
+    "Country": "Italy",
+    "Rating": 3.65
+  },
+  {
+    "ID": 847,
+    "Rank": 1202,
+    "Site Name": "Cienfuegos",
+    "Nomination Year": 2005,
+    "Country": "Cuba",
+    "Rating": 2.91
+  },
+  {
+    "ID": 848,
+    "Rank": 1203,
+    "Site Name": "Central Highlands",
+    "Nomination Year": 2010,
+    "Country": "Sri Lanka",
+    "Rating": 3.19
+  },
+  {
+    "ID": 849,
+    "Rank": 1207,
+    "Site Name": "Aflaj irrigation system",
+    "Nomination Year": 2006,
+    "Country": "Oman",
+    "Rating": 2.52
+  },
+  {
+    "ID": 850,
+    "Rank": 1208,
+    "Site Name": "Bam Cultural Landscape",
+    "Nomination Year": 2004,
+    "Country": "Iran",
+    "Rating": 3.06
+  },
+  {
+    "ID": 851,
+    "Rank": 1209,
+    "Site Name": "Tequila",
+    "Nomination Year": 2006,
+    "Country": "Mexico",
+    "Rating": 2.85
+  },
+  {
+    "ID": 852,
+    "Rank": 1211,
+    "Site Name": "Genoa",
+    "Nomination Year": 2006,
+    "Country": "Italy",
+    "Rating": 2.98
+  },
+  {
+    "ID": 853,
+    "Rank": 1213,
+    "Site Name": "Sichuan Giant Panda Sanctuaries",
+    "Nomination Year": 2006,
+    "Country": "China",
+    "Rating": 3.5
+  },
+  {
+    "ID": 854,
+    "Rank": 1214,
+    "Site Name": "Sewell Mining Town",
+    "Nomination Year": 2006,
+    "Country": "Chile",
+    "Rating": 2.98
+  },
+  {
+    "ID": 855,
+    "Rank": 1215,
+    "Site Name": "Cornwall and West Devon Mining Landscape",
+    "Nomination Year": 2006,
+    "Country": "United Kingdom",
+    "Rating": 3.16
+  },
+  {
+    "ID": 856,
+    "Rank": 1216,
+    "Site Name": "Malpelo",
+    "Nomination Year": 2006,
+    "Country": "Colombia",
+    "Rating": 2.65
+  },
+  {
+    "ID": 857,
+    "Rank": 1217,
+    "Site Name": "Vizcaya Bridge",
+    "Nomination Year": 2006,
+    "Country": "Spain",
+    "Rating": 2.95
+  },
+  {
+    "ID": 858,
+    "Rank": 1220,
+    "Site Name": "Bahá’i Holy Places",
+    "Nomination Year": 2008,
+    "Country": "Israel",
+    "Rating": 2.72
+  },
+  {
+    "ID": 859,
+    "Rank": 1221,
+    "Site Name": "Rideau Canal",
+    "Nomination Year": 2007,
+    "Country": "Canada",
+    "Rating": 2.74
+  },
+  {
+    "ID": 860,
+    "Rank": 1222,
+    "Site Name": "Bisotun",
+    "Nomination Year": 2006,
+    "Country": "Iran",
+    "Rating": 2.94
+  },
+  {
+    "ID": 861,
+    "Rank": 1223,
+    "Site Name": "Melaka and George Town",
+    "Nomination Year": 2008,
+    "Country": "Malaysia",
+    "Rating": 3.06
+  },
+  {
+    "ID": 862,
+    "Rank": 1224,
+    "Site Name": "Preah Vihear Temple",
+    "Nomination Year": 2008,
+    "Country": "Cambodia",
+    "Rating": 3.72
+  },
+  {
+    "ID": 863,
+    "Rank": 1225,
+    "Site Name": "Ruins of Loropéni",
+    "Nomination Year": 2009,
+    "Country": "Burkina Faso",
+    "Rating": 1.76
+  },
+  {
+    "ID": 864,
+    "Rank": 1226,
+    "Site Name": "Stone Circles of Senegambia",
+    "Nomination Year": 2006,
+    "Country": "Gambia",
+    "Rating": 2.77
+  },
+  {
+    "ID": 865,
+    "Rank": 1227,
+    "Site Name": "Aapravasi Ghat",
+    "Nomination Year": 2006,
+    "Country": "Mauritius",
+    "Rating": 1.85
+  },
+  {
+    "ID": 866,
+    "Rank": 1229,
+    "Site Name": "Crac des Chevaliers",
+    "Nomination Year": 2006,
+    "Country": "Syria",
+    "Rating": 4
+  },
+  {
+    "ID": 867,
+    "Rank": 1230,
+    "Site Name": "Sulaiman-Too",
+    "Nomination Year": 2009,
+    "Country": "Kyrgyzstan",
+    "Rating": 2.32
+  },
+  {
+    "ID": 868,
+    "Rank": 1231,
+    "Site Name": "Mijikenda Kaya Forests",
+    "Nomination Year": 2008,
+    "Country": "Kenya",
+    "Rating": 2.56
+  },
+  {
+    "ID": 869,
+    "Rank": 1234,
+    "Site Name": "Putorana Plateau",
+    "Nomination Year": 2010,
+    "Country": "Russia",
+    "Rating": 3.93
+  },
+  {
+    "ID": 870,
+    "Rank": 1236,
+    "Site Name": "León Cathedral",
+    "Nomination Year": 2011,
+    "Country": "Nicaragua",
+    "Rating": 2.8
+  },
+  {
+    "ID": 871,
+    "Rank": 1237,
+    "Site Name": "Dolomites",
+    "Nomination Year": 2009,
+    "Country": "Italy",
+    "Rating": 4.26
+  },
+  {
+    "ID": 872,
+    "Rank": 1239,
+    "Site Name": "Berlin Modernism Housing Estates",
+    "Nomination Year": 2008,
+    "Country": "Germany",
+    "Rating": 2.06
+  },
+  {
+    "ID": 873,
+    "Rank": 1240,
+    "Site Name": "Stari Grad Plain",
+    "Nomination Year": 2008,
+    "Country": "Croatia",
+    "Rating": 2.24
+  },
+  {
+    "ID": 874,
+    "Rank": 1242,
+    "Site Name": "Nisa",
+    "Nomination Year": 2007,
+    "Country": "Turkmenistan",
+    "Rating": 2.19
+  },
+  {
+    "ID": 875,
+    "Rank": 1243,
+    "Site Name": "Lavaux, Vineyard Terraces",
+    "Nomination Year": 2007,
+    "Country": "Switzerland",
+    "Rating": 3.01
+  },
+  {
+    "ID": 876,
+    "Rank": 1245,
+    "Site Name": "San Marino and Mount Titano",
+    "Nomination Year": 2008,
+    "Country": "San Marino",
+    "Rating": 3.43
+  },
+  {
+    "ID": 877,
+    "Rank": 1246,
+    "Site Name": "Iwami Ginzan Silver Mine",
+    "Nomination Year": 2007,
+    "Country": "Japan",
+    "Rating": 2.64
+  },
+  {
+    "ID": 878,
+    "Rank": 1248,
+    "Site Name": "South China Karst",
+    "Nomination Year": 2007,
+    "Country": "China",
+    "Rating": 4.02
+  },
+  {
+    "ID": 879,
+    "Rank": 1250,
+    "Site Name": "Central University City Campus of the UNAM",
+    "Nomination Year": 2007,
+    "Country": "Mexico",
+    "Rating": 2.77
+  },
+  {
+    "ID": 880,
+    "Rank": 1252,
+    "Site Name": "Tajik National Park",
+    "Nomination Year": 2013,
+    "Country": "Tajikistan",
+    "Rating": 3.88
+  },
+  {
+    "ID": 881,
+    "Rank": 1253,
+    "Site Name": "Gamzigrad-Romuliana",
+    "Nomination Year": 2007,
+    "Country": "Serbia",
+    "Rating": 2.79
+  },
+  {
+    "ID": 882,
+    "Rank": 1255,
+    "Site Name": "Twyfelfontein",
+    "Nomination Year": 2007,
+    "Country": "Namibia",
+    "Rating": 3.55
+  },
+  {
+    "ID": 883,
+    "Rank": 1256,
+    "Site Name": "Bordeaux",
+    "Nomination Year": 2007,
+    "Country": "France",
+    "Rating": 3.36
+  },
+  {
+    "ID": 884,
+    "Rank": 1257,
+    "Site Name": "Rainforests of the Atsinanana",
+    "Nomination Year": 2007,
+    "Country": "Madagascar",
+    "Rating": 3.84
+  },
+  {
+    "ID": 885,
+    "Rank": 1258,
+    "Site Name": "Teide National Park",
+    "Nomination Year": 2007,
+    "Country": "Spain",
+    "Rating": 3.99
+  },
+  {
+    "ID": 886,
+    "Rank": 1259,
+    "Site Name": "Le Morne",
+    "Nomination Year": 2008,
+    "Country": "Mauritius",
+    "Rating": 2.67
+  },
+  {
+    "ID": 887,
+    "Rank": 1260,
+    "Site Name": "Mehmed Paša Sokolović Bridge",
+    "Nomination Year": 2007,
+    "Country": "Bosnia Herzegovina",
+    "Rating": 2.29
+  },
+  {
+    "ID": 888,
+    "Rank": 1262,
+    "Site Name": "Armenian Monastic Ensembles",
+    "Nomination Year": 2008,
+    "Country": "Iran",
+    "Rating": 3.45
+  },
+  {
+    "ID": 889,
+    "Rank": 1263,
+    "Site Name": "Socotra Archipelago",
+    "Nomination Year": 2008,
+    "Country": "Yemen",
+    "Rating": 4.48
+  },
+  {
+    "ID": 890,
+    "Rank": 1264,
+    "Site Name": "Jeju",
+    "Nomination Year": 2007,
+    "Country": "Republic of Korea",
+    "Rating": 3.68
+  },
+  {
+    "ID": 891,
+    "Rank": 1265,
+    "Site Name": "Richtersveld",
+    "Nomination Year": 2007,
+    "Country": "South Africa",
+    "Rating": 3.03
+  },
+  {
+    "ID": 892,
+    "Rank": 1267,
+    "Site Name": "Surtsey",
+    "Nomination Year": 2008,
+    "Country": "Iceland",
+    "Rating": 2.89
+  },
+  {
+    "ID": 893,
+    "Rank": 1268,
+    "Site Name": "Agadez",
+    "Nomination Year": 2013,
+    "Country": "Niger",
+    "Rating": 3.37
+  },
+  {
+    "ID": 894,
+    "Rank": 1269,
+    "Site Name": "Caral-Supe",
+    "Nomination Year": 2009,
+    "Country": "Peru",
+    "Rating": 3.64
+  },
+  {
+    "ID": 895,
+    "Rank": 1270,
+    "Site Name": "Camagüey",
+    "Nomination Year": 2008,
+    "Country": "Cuba",
+    "Rating": 2.44
+  },
+  {
+    "ID": 896,
+    "Rank": 1272,
+    "Site Name": "São Francisco Square",
+    "Nomination Year": 2010,
+    "Country": "Brazil",
+    "Rating": 1.96
+  },
+  {
+    "ID": 897,
+    "Rank": 1273,
+    "Site Name": "Wooden Churches of the Slovak Carpathians",
+    "Nomination Year": 2008,
+    "Country": "Slovakia",
+    "Rating": 3.01
+  },
+  {
+    "ID": 898,
+    "Rank": 1274,
+    "Site Name": "San Miguel de Allende",
+    "Nomination Year": 2008,
+    "Country": "Mexico",
+    "Rating": 3.4
+  },
+  {
+    "ID": 899,
+    "Rank": 1276,
+    "Site Name": "Rhaetian Railway",
+    "Nomination Year": 2008,
+    "Country": "Switzerland",
+    "Rating": 3.22
+  },
+  {
+    "ID": 900,
+    "Rank": 1277,
+    "Site Name": "Hiraizumi",
+    "Nomination Year": 2011,
+    "Country": "Japan",
+    "Rating": 3.15
+  },
+  {
+    "ID": 901,
+    "Rank": 1278,
+    "Site Name": "Kaesong",
+    "Nomination Year": 2013,
+    "Country": "Korea (DPR)",
+    "Rating": 2.55
+  },
+  {
+    "ID": 902,
+    "Rank": 1279,
+    "Site Name": "Mount Wutai",
+    "Nomination Year": 2009,
+    "Country": "China",
+    "Rating": 3.78
+  },
+  {
+    "ID": 903,
+    "Rank": 1280,
+    "Site Name": "Chief Roi Mata's Domain",
+    "Nomination Year": 2008,
+    "Country": "Vanuatu",
+    "Rating": 2.46
+  },
+  {
+    "ID": 904,
+    "Rank": 1282,
+    "Site Name": "Decorated Farmhouses of Hälsingland",
+    "Nomination Year": 2012,
+    "Country": "Sweden",
+    "Rating": 2.49
+  },
+  {
+    "ID": 905,
+    "Rank": 1283,
+    "Site Name": "Fortifications of Vauban",
+    "Nomination Year": 2008,
+    "Country": "France",
+    "Rating": 2.97
+  },
+  {
+    "ID": 906,
+    "Rank": 1285,
+    "Site Name": "Joggins Fossil Cliffs",
+    "Nomination Year": 2008,
+    "Country": "Canada",
+    "Rating": 3.06
+  },
+  {
+    "ID": 907,
+    "Rank": 1287,
+    "Site Name": "Mantua and Sabbioneta",
+    "Nomination Year": 2008,
+    "Country": "Italy",
+    "Rating": 3.27
+  },
+  {
+    "ID": 908,
+    "Rank": 1290,
+    "Site Name": "Monarch Butterfly Biosphere Reserve",
+    "Nomination Year": 2008,
+    "Country": "Mexico",
+    "Rating": 4.22
+  },
+  {
+    "ID": 909,
+    "Rank": 1292,
+    "Site Name": "Mount Sanqingshan",
+    "Nomination Year": 2008,
+    "Country": "China",
+    "Rating": 3.77
+  },
+  {
+    "ID": 910,
+    "Rank": 1293,
+    "Site Name": "Hegra",
+    "Nomination Year": 2008,
+    "Country": "Saudi Arabia",
+    "Rating": 4.22
+  },
+  {
+    "ID": 911,
+    "Rank": 1295,
+    "Site Name": "Fort Jesus",
+    "Nomination Year": 2011,
+    "Country": "Kenya",
+    "Rating": 2.72
+  },
+  {
+    "ID": 912,
+    "Rank": 1298,
+    "Site Name": "Stoclet House",
+    "Nomination Year": 2009,
+    "Country": "Belgium",
+    "Rating": 1.84
+  },
+  {
+    "ID": 913,
+    "Rank": 1299,
+    "Site Name": "Lena Pillars",
+    "Nomination Year": 2012,
+    "Country": "Russia",
+    "Rating": 3.93
+  },
+  {
+    "ID": 914,
+    "Rank": 1302,
+    "Site Name": "La Chaux-de-Fonds / Le Locle",
+    "Nomination Year": 2009,
+    "Country": "Switzerland",
+    "Rating": 1.95
+  },
+  {
+    "ID": 915,
+    "Rank": 1303,
+    "Site Name": "Pontcysyllte Aqueduct and Canal",
+    "Nomination Year": 2009,
+    "Country": "United Kingdom",
+    "Rating": 3.04
+  },
+  {
+    "ID": 916,
+    "Rank": 1305,
+    "Site Name": "Dengfeng",
+    "Nomination Year": 2010,
+    "Country": "China",
+    "Rating": 3.54
+  },
+  {
+    "ID": 917,
+    "Rank": 1306,
+    "Site Name": "Australian Convict Sites",
+    "Nomination Year": 2010,
+    "Country": "Australia",
+    "Rating": 2.68
+  },
+  {
+    "ID": 918,
+    "Rank": 1308,
+    "Site Name": "Paraty and Ilha Grande",
+    "Nomination Year": 2019,
+    "Country": "Brazil",
+    "Rating": 3.54
+  },
+  {
+    "ID": 919,
+    "Rank": 1310,
+    "Site Name": "Cidade Velha",
+    "Nomination Year": 2009,
+    "Country": "Cabo Verde",
+    "Rating": 2.07
+  },
+  {
+    "ID": 920,
+    "Rank": 1312,
+    "Site Name": "Tower of Hercules",
+    "Nomination Year": 2009,
+    "Country": "Spain",
+    "Rating": 2.78
+  },
+  {
+    "ID": 921,
+    "Rank": 1313,
+    "Site Name": "Heritage of Mercury",
+    "Nomination Year": 2012,
+    "Country": "Spain",
+    "Rating": 2.72
+  },
+  {
+    "ID": 922,
+    "Rank": 1314,
+    "Site Name": "Wadden Sea",
+    "Nomination Year": 2009,
+    "Country": "Netherlands",
+    "Rating": 3.08
+  },
+  {
+    "ID": 923,
+    "Rank": 1315,
+    "Site Name": "Shushtar",
+    "Nomination Year": 2009,
+    "Country": "Iran",
+    "Rating": 3.5
+  },
+  {
+    "ID": 924,
+    "Rank": 1317,
+    "Site Name": "Pitons of Reunion",
+    "Nomination Year": 2010,
+    "Country": "France",
+    "Rating": 3.81
+  },
+  {
+    "ID": 925,
+    "Rank": 1318,
+    "Site Name": "Longobards in Italy",
+    "Nomination Year": 2011,
+    "Country": "Italy",
+    "Rating": 2.95
+  },
+  {
+    "ID": 926,
+    "Rank": 1319,
+    "Site Name": "Royal Joseon Tombs",
+    "Nomination Year": 2009,
+    "Country": "Republic of Korea",
+    "Rating": 2.72
+  },
+  {
+    "ID": 927,
+    "Rank": 1321,
+    "Site Name": "The Architectural Work of Le Corbusier",
+    "Nomination Year": 2016,
+    "Country": "France",
+    "Rating": 2.74
+  },
+  {
+    "ID": 928,
+    "Rank": 1322,
+    "Site Name": "Grand-Bassam",
+    "Nomination Year": 2012,
+    "Country": "Côte d'Ivoire",
+    "Rating": 2.64
+  },
+  {
+    "ID": 929,
+    "Rank": 1324,
+    "Site Name": "Hahoe and Yangdong",
+    "Nomination Year": 2010,
+    "Country": "Republic of Korea",
+    "Rating": 2.92
+  },
+  {
+    "ID": 930,
+    "Rank": 1325,
+    "Site Name": "Phoenix Islands",
+    "Nomination Year": 2010,
+    "Country": "Kiribati",
+    "Rating": 1.97
+  },
+  {
+    "ID": 931,
+    "Rank": 1326,
+    "Site Name": "Papahanaumokuakea",
+    "Nomination Year": 2010,
+    "Country": "United States of America",
+    "Rating": 3.54
+  },
+  {
+    "ID": 932,
+    "Rank": 1328,
+    "Site Name": "Thang Long",
+    "Nomination Year": 2010,
+    "Country": "Viet Nam",
+    "Rating": 1.99
+  },
+  {
+    "ID": 933,
+    "Rank": 1329,
+    "Site Name": "Turaif Quarter",
+    "Nomination Year": 2010,
+    "Country": "Saudi Arabia",
+    "Rating": 2.42
+  },
+  {
+    "ID": 934,
+    "Rank": 1330,
+    "Site Name": "Residence of Bukovinian & Dalmatian Metropolitans",
+    "Nomination Year": 2011,
+    "Country": "Ukraine",
+    "Rating": 2.81
+  },
+  {
+    "ID": 935,
+    "Rank": 1333,
+    "Site Name": "Konso",
+    "Nomination Year": 2011,
+    "Country": "Ethiopia",
+    "Rating": 3.13
+  },
+  {
+    "ID": 936,
+    "Rank": 1334,
+    "Site Name": "West Lake",
+    "Nomination Year": 2011,
+    "Country": "China",
+    "Rating": 3.4
+  },
+  {
+    "ID": 937,
+    "Rank": 1335,
+    "Site Name": "China Danxia",
+    "Nomination Year": 2010,
+    "Country": "China",
+    "Rating": 3.32
+  },
+  {
+    "ID": 938,
+    "Rank": 1336,
+    "Site Name": "Meroe",
+    "Nomination Year": 2011,
+    "Country": "Sudan",
+    "Rating": 4.48
+  },
+  {
+    "ID": 939,
+    "Rank": 1337,
+    "Site Name": "Albi",
+    "Nomination Year": 2010,
+    "Country": "France",
+    "Rating": 3.42
+  },
+  {
+    "ID": 940,
+    "Rank": 1338,
+    "Site Name": "Jantar Mantar",
+    "Nomination Year": 2010,
+    "Country": "India",
+    "Rating": 3.21
+  },
+  {
+    "ID": 941,
+    "Rank": 1339,
+    "Site Name": "Bikini Atoll",
+    "Nomination Year": 2010,
+    "Country": "Marshall Islands",
+    "Rating": 0
+  },
+  {
+    "ID": 942,
+    "Rank": 1342,
+    "Site Name": "Western Ghats",
+    "Nomination Year": 2012,
+    "Country": "India",
+    "Rating": 3.22
+  },
+  {
+    "ID": 943,
+    "Rank": 1343,
+    "Site Name": "Al Ain",
+    "Nomination Year": 2011,
+    "Country": "United Arab Emirates",
+    "Rating": 2.7
+  },
+  {
+    "ID": 944,
+    "Rank": 1344,
+    "Site Name": "Mining Sites of Wallonia",
+    "Nomination Year": 2012,
+    "Country": "Belgium",
+    "Rating": 2.23
+  },
+  {
+    "ID": 945,
+    "Rank": 1345,
+    "Site Name": "Safi al-Din Ensemble in Ardabil",
+    "Nomination Year": 2010,
+    "Country": "Iran",
+    "Rating": 3.45
+  },
+  {
+    "ID": 946,
+    "Rank": 1346,
+    "Site Name": "Tabriz Bazaar",
+    "Nomination Year": 2010,
+    "Country": "Iran",
+    "Rating": 2.71
+  },
+  {
+    "ID": 947,
+    "Rank": 1348,
+    "Site Name": "Ancient villages of Northern Syria",
+    "Nomination Year": 2011,
+    "Country": "Syria",
+    "Rating": 3.44
+  },
+  {
+    "ID": 948,
+    "Rank": 1349,
+    "Site Name": "Amsterdam Canal Ring",
+    "Nomination Year": 2010,
+    "Country": "Netherlands",
+    "Rating": 3.86
+  },
+  {
+    "ID": 949,
+    "Rank": 1351,
+    "Site Name": "Camino Real",
+    "Nomination Year": 2010,
+    "Country": "Mexico",
+    "Rating": 2.69
+  },
+  {
+    "ID": 950,
+    "Rank": 1352,
+    "Site Name": "Caves of Yagul and Mitla",
+    "Nomination Year": 2010,
+    "Country": "Mexico",
+    "Rating": 2.82
+  },
+  {
+    "ID": 951,
+    "Rank": 1356,
+    "Site Name": "Blue and John Crow Mountains",
+    "Nomination Year": 2015,
+    "Country": "Jamaica",
+    "Rating": 2.71
+  },
+  {
+    "ID": 952,
+    "Rank": 1358,
+    "Site Name": "Citadel of the Ho Dynasty",
+    "Nomination Year": 2011,
+    "Country": "Viet Nam",
+    "Rating": 2.62
+  },
+  {
+    "ID": 953,
+    "Rank": 1359,
+    "Site Name": "Saloum Delta",
+    "Nomination Year": 2011,
+    "Country": "Senegal",
+    "Rating": 3.13
+  },
+  {
+    "ID": 954,
+    "Rank": 1360,
+    "Site Name": "Nord-Pas de Calais Mining Basin",
+    "Nomination Year": 2012,
+    "Country": "France",
+    "Rating": 2.09
+  },
+  {
+    "ID": 955,
+    "Rank": 1361,
+    "Site Name": "Historic Jeddah",
+    "Nomination Year": 2014,
+    "Country": "Saudi Arabia",
+    "Rating": 2.73
+  },
+  {
+    "ID": 956,
+    "Rank": 1362,
+    "Site Name": "Ogasawara Islands",
+    "Nomination Year": 2011,
+    "Country": "Japan",
+    "Rating": 3.65
+  },
+  {
+    "ID": 957,
+    "Rank": 1363,
+    "Site Name": "Prehistoric Pile Dwellings",
+    "Nomination Year": 2011,
+    "Country": "Switzerland",
+    "Rating": 2.05
+  },
+  {
+    "ID": 958,
+    "Rank": 1364,
+    "Site Name": "Pearling",
+    "Nomination Year": 2012,
+    "Country": "Bahrain",
+    "Rating": 2.21
+  },
+  {
+    "ID": 959,
+    "Rank": 1366,
+    "Site Name": "Selimiye Mosque",
+    "Nomination Year": 2011,
+    "Country": "Turkiye",
+    "Rating": 3.64
+  },
+  {
+    "ID": 960,
+    "Rank": 1367,
+    "Site Name": "Elvas",
+    "Nomination Year": 2012,
+    "Country": "Portugal",
+    "Rating": 3.24
+  },
+  {
+    "ID": 961,
+    "Rank": 1368,
+    "Site Name": "Fagus Factory",
+    "Nomination Year": 2011,
+    "Country": "Germany",
+    "Rating": 2.56
+  },
+  {
+    "ID": 962,
+    "Rank": 1369,
+    "Site Name": "Ningaloo Coast",
+    "Nomination Year": 2011,
+    "Country": "Australia",
+    "Rating": 3.76
+  },
+  {
+    "ID": 963,
+    "Rank": 1370,
+    "Site Name": "Caves of Maresha and Bet Guvrin",
+    "Nomination Year": 2014,
+    "Country": "Israel",
+    "Rating": 3.55
+  },
+  {
+    "ID": 964,
+    "Rank": 1371,
+    "Site Name": "Serra de Tramuntana",
+    "Nomination Year": 2011,
+    "Country": "Spain",
+    "Rating": 2.82
+  },
+  {
+    "ID": 965,
+    "Rank": 1372,
+    "Site Name": "Persian Garden",
+    "Nomination Year": 2011,
+    "Country": "Iran",
+    "Rating": 3.31
+  },
+  {
+    "ID": 966,
+    "Rank": 1375,
+    "Site Name": "Santiniketan",
+    "Nomination Year": 2023,
+    "Country": "India",
+    "Rating": 1.7
+  },
+  {
+    "ID": 967,
+    "Rank": 1376,
+    "Site Name": "Bridgetown",
+    "Nomination Year": 2011,
+    "Country": "Barbados",
+    "Rating": 2.48
+  },
+  {
+    "ID": 968,
+    "Rank": 1377,
+    "Site Name": "Wadi Rum",
+    "Nomination Year": 2011,
+    "Country": "Jordan",
+    "Rating": 4.18
+  },
+  {
+    "ID": 969,
+    "Rank": 1379,
+    "Site Name": "Margravial Opera House",
+    "Nomination Year": 2012,
+    "Country": "Germany",
+    "Rating": 3.19
+  },
+  {
+    "ID": 970,
+    "Rank": 1380,
+    "Site Name": "Sangha Trinational",
+    "Nomination Year": 2012,
+    "Country": "Cameroon",
+    "Rating": 3.46
+  },
+  {
+    "ID": 971,
+    "Rank": 1382,
+    "Site Name": "Petroglyphs of the Mongolian Altai",
+    "Nomination Year": 2011,
+    "Country": "Mongolia",
+    "Rating": 2.37
+  },
+  {
+    "ID": 972,
+    "Rank": 1386,
+    "Site Name": "Rock Islands",
+    "Nomination Year": 2012,
+    "Country": "Palau",
+    "Rating": 4.39
+  },
+  {
+    "ID": 973,
+    "Rank": 1387,
+    "Site Name": "University of Coimbra",
+    "Nomination Year": 2013,
+    "Country": "Portugal",
+    "Rating": 3.29
+  },
+  {
+    "ID": 974,
+    "Rank": 1388,
+    "Site Name": "Chengjiang Fossil Site",
+    "Nomination Year": 2012,
+    "Country": "China",
+    "Rating": 1.78
+  },
+  {
+    "ID": 975,
+    "Rank": 1389,
+    "Site Name": "Site of Xanadu",
+    "Nomination Year": 2012,
+    "Country": "China",
+    "Rating": 2.26
+  },
+  {
+    "ID": 976,
+    "Rank": 1390,
+    "Site Name": "Vineyard Landscape of Piedmont",
+    "Nomination Year": 2014,
+    "Country": "Italy",
+    "Rating": 2.89
+  },
+  {
+    "ID": 977,
+    "Rank": 1393,
+    "Site Name": "Mount Carmel Caves",
+    "Nomination Year": 2012,
+    "Country": "Israel",
+    "Rating": 2.34
+  },
+  {
+    "ID": 978,
+    "Rank": 1396,
+    "Site Name": "Lenggong Valley",
+    "Nomination Year": 2012,
+    "Country": "Malaysia",
+    "Rating": 1.82
+  },
+  {
+    "ID": 979,
+    "Rank": 1397,
+    "Site Name": "Masjed-e Jâme'",
+    "Nomination Year": 2012,
+    "Country": "Iran",
+    "Rating": 3.42
+  },
+  {
+    "ID": 980,
+    "Rank": 1398,
+    "Site Name": "Gonbad-e Qâbus",
+    "Nomination Year": 2012,
+    "Country": "Iran",
+    "Rating": 3.1
+  },
+  {
+    "ID": 981,
+    "Rank": 1399,
+    "Site Name": "Levuka",
+    "Nomination Year": 2013,
+    "Country": "Fiji",
+    "Rating": 2.79
+  },
+  {
+    "ID": 982,
+    "Rank": 1400,
+    "Site Name": "Lakes of Ounianga",
+    "Nomination Year": 2012,
+    "Country": "Chad",
+    "Rating": 4.27
+  },
+  {
+    "ID": 983,
+    "Rank": 1401,
+    "Site Name": "Rabat",
+    "Nomination Year": 2012,
+    "Country": "Morocco",
+    "Rating": 3.24
+  },
+  {
+    "ID": 984,
+    "Rank": 1402,
+    "Site Name": "Al Zubarah",
+    "Nomination Year": 2013,
+    "Country": "Qatar",
+    "Rating": 1.92
+  },
+  {
+    "ID": 985,
+    "Rank": 1403,
+    "Site Name": "Mount Hamiguitan",
+    "Nomination Year": 2014,
+    "Country": "Philippines",
+    "Rating": 3.29
+  },
+  {
+    "ID": 986,
+    "Rank": 1404,
+    "Site Name": "Grand Pré",
+    "Nomination Year": 2012,
+    "Country": "Canada",
+    "Rating": 2.63
+  },
+  {
+    "ID": 987,
+    "Rank": 1405,
+    "Site Name": "Çatalhöyük",
+    "Nomination Year": 2012,
+    "Country": "Turkiye",
+    "Rating": 3.61
+  },
+  {
+    "ID": 988,
+    "Rank": 1406,
+    "Site Name": "Great Himalayan National Park",
+    "Nomination Year": 2014,
+    "Country": "India",
+    "Rating": 3.8
+  },
+  {
+    "ID": 989,
+    "Rank": 1407,
+    "Site Name": "Bassari Country",
+    "Nomination Year": 2012,
+    "Country": "Senegal",
+    "Rating": 3.25
+  },
+  {
+    "ID": 990,
+    "Rank": 1410,
+    "Site Name": "El Pinacate",
+    "Nomination Year": 2013,
+    "Country": "Mexico",
+    "Rating": 3.44
+  },
+  {
+    "ID": 991,
+    "Rank": 1411,
+    "Site Name": "Tauric Chersonese",
+    "Nomination Year": 2013,
+    "Country": "Ukraine",
+    "Rating": 3.1
+  },
+  {
+    "ID": 992,
+    "Rank": 1412,
+    "Site Name": "Red Bay Basque Whaling Station",
+    "Nomination Year": 2013,
+    "Country": "Canada",
+    "Rating": 2.84
+  },
+  {
+    "ID": 993,
+    "Rank": 1413,
+    "Site Name": "Bergpark Wilhelmshöhe",
+    "Nomination Year": 2013,
+    "Country": "Germany",
+    "Rating": 2.96
+  },
+  {
+    "ID": 994,
+    "Rank": 1414,
+    "Site Name": "Xinjiang Tianshan",
+    "Nomination Year": 2013,
+    "Country": "China",
+    "Rating": 3.59
+  },
+  {
+    "ID": 995,
+    "Rank": 1415,
+    "Site Name": "Pimachiowin Aki",
+    "Nomination Year": 2018,
+    "Country": "Canada",
+    "Rating": 3.3
+  },
+  {
+    "ID": 996,
+    "Rank": 1416,
+    "Site Name": "Stevns Klint",
+    "Nomination Year": 2014,
+    "Country": "Denmark",
+    "Rating": 2.51
+  },
+  {
+    "ID": 997,
+    "Rank": 1418,
+    "Site Name": "Fujisan",
+    "Nomination Year": 2013,
+    "Country": "Japan",
+    "Rating": 3.71
+  },
+  {
+    "ID": 998,
+    "Rank": 1422,
+    "Site Name": "Golestan Palace",
+    "Nomination Year": 2013,
+    "Country": "Iran",
+    "Rating": 3.11
+  },
+  {
+    "ID": 999,
+    "Rank": 1423,
+    "Site Name": "Maymand",
+    "Nomination Year": 2015,
+    "Country": "Iran",
+    "Rating": 2.69
+  },
+  {
+    "ID": 1000,
+    "Rank": 1424,
+    "Site Name": "Wooden Tserkvas of the Carpathian Region",
+    "Nomination Year": 2013,
+    "Country": "Poland",
+    "Rating": 3.34
+  },
+  {
+    "ID": 1001,
+    "Rank": 1425,
+    "Site Name": "Burgundy",
+    "Nomination Year": 2015,
+    "Country": "France",
+    "Rating": 3.22
+  },
+  {
+    "ID": 1002,
+    "Rank": 1426,
+    "Site Name": "Decorated cave of Pont d'Arc",
+    "Nomination Year": 2014,
+    "Country": "France",
+    "Rating": 3.59
+  },
+  {
+    "ID": 1003,
+    "Rank": 1427,
+    "Site Name": "Mount Etna",
+    "Nomination Year": 2013,
+    "Country": "Italy",
+    "Rating": 3.58
+  },
+  {
+    "ID": 1004,
+    "Rank": 1430,
+    "Site Name": "Namib Sand Sea",
+    "Nomination Year": 2013,
+    "Country": "Namibia",
+    "Rating": 4.4
+  },
+  {
+    "ID": 1005,
+    "Rank": 1432,
+    "Site Name": "Okavango Delta",
+    "Nomination Year": 2014,
+    "Country": "Botswana",
+    "Rating": 4.38
+  },
+  {
+    "ID": 1006,
+    "Rank": 1433,
+    "Site Name": "Bethlehem",
+    "Nomination Year": 2012,
+    "Country": "Palestine",
+    "Rating": 3.26
+  },
+  {
+    "ID": 1007,
+    "Rank": 1434,
+    "Site Name": "Chaîne des Puys",
+    "Nomination Year": 2018,
+    "Country": "France",
+    "Rating": 2.88
+  },
+  {
+    "ID": 1008,
+    "Rank": 1435,
+    "Site Name": "Poverty Point",
+    "Nomination Year": 2014,
+    "Country": "United States of America",
+    "Rating": 2.44
+  },
+  {
+    "ID": 1009,
+    "Rank": 1437,
+    "Site Name": "Erbil Citadel",
+    "Nomination Year": 2014,
+    "Country": "Iraq",
+    "Rating": 2.62
+  },
+  {
+    "ID": 1010,
+    "Rank": 1438,
+    "Site Name": "Trang An",
+    "Nomination Year": 2014,
+    "Country": "Viet Nam",
+    "Rating": 3.64
+  },
+  {
+    "ID": 1011,
+    "Rank": 1439,
+    "Site Name": "Namhansanseong",
+    "Nomination Year": 2014,
+    "Country": "Republic of Korea",
+    "Rating": 2.66
+  },
+  {
+    "ID": 1012,
+    "Rank": 1440,
+    "Site Name": "Great Burkhan Khaldun Mountain",
+    "Nomination Year": 2015,
+    "Country": "Mongolia",
+    "Rating": 2.43
+  },
+  {
+    "ID": 1013,
+    "Rank": 1441,
+    "Site Name": "Van Nellefabriek",
+    "Nomination Year": 2014,
+    "Country": "Netherlands",
+    "Rating": 2.5
+  },
+  {
+    "ID": 1014,
+    "Rank": 1442,
+    "Site Name": "Silk Roads Chang'an-Tianshan Corridor",
+    "Nomination Year": 2014,
+    "Country": "China",
+    "Rating": 3.15
+  },
+  {
+    "ID": 1015,
+    "Rank": 1443,
+    "Site Name": "Grand Canal",
+    "Nomination Year": 2014,
+    "Country": "China",
+    "Rating": 3.07
+  },
+  {
+    "ID": 1016,
+    "Rank": 1444,
+    "Site Name": "Pyu Ancient Cities",
+    "Nomination Year": 2014,
+    "Country": "Myanmar",
+    "Rating": 2.19
+  },
+  {
+    "ID": 1017,
+    "Rank": 1446,
+    "Site Name": "Baptism Site \"Bethany Beyond the Jordan",
+    "Nomination Year": 2015,
+    "Country": "Jordan",
+    "Rating": 2.32
+  },
+  {
+    "ID": 1018,
+    "Rank": 1447,
+    "Site Name": "Corvey",
+    "Nomination Year": 2014,
+    "Country": "Germany",
+    "Rating": 2.3
+  },
+  {
+    "ID": 1019,
+    "Rank": 1448,
+    "Site Name": "Landscapes of Dauria",
+    "Nomination Year": 2017,
+    "Country": "Mongolia",
+    "Rating": 2.35
+  },
+  {
+    "ID": 1020,
+    "Rank": 1449,
+    "Site Name": "Tomioka Silk Mill",
+    "Nomination Year": 2014,
+    "Country": "Japan",
+    "Rating": 2.79
+  },
+  {
+    "ID": 1021,
+    "Rank": 1450,
+    "Site Name": "Thimlich Ohinga",
+    "Nomination Year": 2018,
+    "Country": "Kenya",
+    "Rating": 1.73
+  },
+  {
+    "ID": 1022,
+    "Rank": 1452,
+    "Site Name": "Bursa and Cumalikizik",
+    "Nomination Year": 2014,
+    "Country": "Turkiye",
+    "Rating": 3.33
+  },
+  {
+    "ID": 1023,
+    "Rank": 1453,
+    "Site Name": "Stone Spheres of the Diquís",
+    "Nomination Year": 2014,
+    "Country": "Costa Rica",
+    "Rating": 2.62
+  },
+  {
+    "ID": 1024,
+    "Rank": 1455,
+    "Site Name": "Susa",
+    "Nomination Year": 2015,
+    "Country": "Iran",
+    "Rating": 2.63
+  },
+  {
+    "ID": 1025,
+    "Rank": 1456,
+    "Site Name": "Shahr-i Sokhta",
+    "Nomination Year": 2014,
+    "Country": "Iran",
+    "Rating": 2.82
+  },
+  {
+    "ID": 1026,
+    "Rank": 1457,
+    "Site Name": "Pergamon",
+    "Nomination Year": 2014,
+    "Country": "Turkiye",
+    "Rating": 3.73
+  },
+  {
+    "ID": 1027,
+    "Rank": 1459,
+    "Site Name": "Qhapaq Ñan",
+    "Nomination Year": 2014,
+    "Country": "Argentina",
+    "Rating": 2.96
+  },
+  {
+    "ID": 1028,
+    "Rank": 1461,
+    "Site Name": "Kaeng Krachan Forest",
+    "Nomination Year": 2021,
+    "Country": "Thailand",
+    "Rating": 2.79
+  },
+  {
+    "ID": 1029,
+    "Rank": 1463,
+    "Site Name": "Aqueduct of Padre Tembleque",
+    "Nomination Year": 2015,
+    "Country": "Mexico",
+    "Rating": 2.52
+  },
+  {
+    "ID": 1030,
+    "Rank": 1464,
+    "Site Name": "Fray Bentos",
+    "Nomination Year": 2015,
+    "Country": "Uruguay",
+    "Rating": 3.02
+  },
+  {
+    "ID": 1031,
+    "Rank": 1465,
+    "Site Name": "Champagne",
+    "Nomination Year": 2015,
+    "Country": "France",
+    "Rating": 3.24
+  },
+  {
+    "ID": 1032,
+    "Rank": 1466,
+    "Site Name": "San Antonio Missions",
+    "Nomination Year": 2015,
+    "Country": "United States of America",
+    "Rating": 3.07
+  },
+  {
+    "ID": 1033,
+    "Rank": 1467,
+    "Site Name": "Speicherstadt and Kontorhaus District",
+    "Nomination Year": 2015,
+    "Country": "Germany",
+    "Rating": 2.99
+  },
+  {
+    "ID": 1034,
+    "Rank": 1468,
+    "Site Name": "Moravian Church Settlements",
+    "Nomination Year": 2015,
+    "Country": "Denmark",
+    "Rating": 1.95
+  },
+  {
+    "ID": 1035,
+    "Rank": 1469,
+    "Site Name": "Par force hunting landscape",
+    "Nomination Year": 2015,
+    "Country": "Denmark",
+    "Rating": 1.9
+  },
+  {
+    "ID": 1036,
+    "Rank": 1470,
+    "Site Name": "Naumburg Cathedral",
+    "Nomination Year": 2018,
+    "Country": "Germany",
+    "Rating": 2.8
+  },
+  {
+    "ID": 1037,
+    "Rank": 1471,
+    "Site Name": "Necropolis of Bet She'arim",
+    "Nomination Year": 2015,
+    "Country": "Israel",
+    "Rating": 3.04
+  },
+  {
+    "ID": 1038,
+    "Rank": 1472,
+    "Site Name": "Rock Art in the Hail Region",
+    "Nomination Year": 2015,
+    "Country": "Saudi Arabia",
+    "Rating": 3.46
+  },
+  {
+    "ID": 1039,
+    "Rank": 1473,
+    "Site Name": "Brâncusi Monumental Ensemble of Târgu Jiu",
+    "Nomination Year": 2024,
+    "Country": "Romania",
+    "Rating": 2.28
+  },
+  {
+    "ID": 1040,
+    "Rank": 1474,
+    "Site Name": "Tusi Sites",
+    "Nomination Year": 2015,
+    "Country": "China",
+    "Rating": 2.83
+  },
+  {
+    "ID": 1041,
+    "Rank": 1475,
+    "Site Name": "Ennedi Massif",
+    "Nomination Year": 2016,
+    "Country": "Chad",
+    "Rating": 4.62
+  },
+  {
+    "ID": 1042,
+    "Rank": 1477,
+    "Site Name": "Baekje Historic Areas",
+    "Nomination Year": 2015,
+    "Country": "Republic of Korea",
+    "Rating": 2.47
+  },
+  {
+    "ID": 1043,
+    "Rank": 1478,
+    "Site Name": "Mining Cultural Landscape Erzgebirge",
+    "Nomination Year": 2019,
+    "Country": "Czechia",
+    "Rating": 2.23
+  },
+  {
+    "ID": 1044,
+    "Rank": 1480,
+    "Site Name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+    "Nomination Year": 2018,
+    "Country": "India",
+    "Rating": 3.14
+  },
+  {
+    "ID": 1045,
+    "Rank": 1481,
+    "Site Name": "Ahwar of Southern Iraq",
+    "Nomination Year": 2016,
+    "Country": "Iraq",
+    "Rating": 3.37
+  },
+  {
+    "ID": 1046,
+    "Rank": 1483,
+    "Site Name": "Singapore Botanic Gardens",
+    "Nomination Year": 2015,
+    "Country": "Singapore",
+    "Rating": 3.13
+  },
+  {
+    "ID": 1047,
+    "Rank": 1484,
+    "Site Name": "Sites of Japan's Meiji Industrial Revolution",
+    "Nomination Year": 2015,
+    "Country": "Japan",
+    "Rating": 2.8
+  },
+  {
+    "ID": 1048,
+    "Rank": 1485,
+    "Site Name": "Forth Bridge",
+    "Nomination Year": 2015,
+    "Country": "United Kingdom",
+    "Rating": 2.96
+  },
+  {
+    "ID": 1049,
+    "Rank": 1486,
+    "Site Name": "Rjukan / Notodden",
+    "Nomination Year": 2015,
+    "Country": "Norway",
+    "Rating": 2.56
+  },
+  {
+    "ID": 1050,
+    "Rank": 1487,
+    "Site Name": "Arab-Norman Palermo",
+    "Nomination Year": 2015,
+    "Country": "Italy",
+    "Rating": 3.87
+  },
+  {
+    "ID": 1051,
+    "Rank": 1488,
+    "Site Name": "Diyarbakir Fortress and Hevsel Gardens",
+    "Nomination Year": 2015,
+    "Country": "Turkiye",
+    "Rating": 2.9
+  },
+  {
+    "ID": 1052,
+    "Rank": 1490,
+    "Site Name": "Western Tien-Shan",
+    "Nomination Year": 2016,
+    "Country": "Kazakhstan",
+    "Rating": 2.63
+  },
+  {
+    "ID": 1053,
+    "Rank": 1492,
+    "Site Name": "Battir",
+    "Nomination Year": 2014,
+    "Country": "Palestine",
+    "Rating": 1.43
+  },
+  {
+    "ID": 1054,
+    "Rank": 1493,
+    "Site Name": "Pampulha",
+    "Nomination Year": 2016,
+    "Country": "Brazil",
+    "Rating": 2.57
+  },
+  {
+    "ID": 1055,
+    "Rank": 1495,
+    "Site Name": "Hidden Christian Sites in the Nagasaki Region",
+    "Nomination Year": 2018,
+    "Country": "Japan",
+    "Rating": 2.75
+  },
+  {
+    "ID": 1056,
+    "Rank": 1496,
+    "Site Name": "Frank Lloyd Wright Buildings",
+    "Nomination Year": 2019,
+    "Country": "United States of America",
+    "Rating": 3.3
+  },
+  {
+    "ID": 1057,
+    "Rank": 1497,
+    "Site Name": "Mistaken Point",
+    "Nomination Year": 2016,
+    "Country": "Canada",
+    "Rating": 3.7
+  },
+  {
+    "ID": 1058,
+    "Rank": 1498,
+    "Site Name": "Seowon, Neo-Confucian Academies",
+    "Nomination Year": 2019,
+    "Country": "Republic of Korea",
+    "Rating": 2.64
+  },
+  {
+    "ID": 1059,
+    "Rank": 1499,
+    "Site Name": "Antigua Naval Dockyard",
+    "Nomination Year": 2016,
+    "Country": "Antigua and Barbuda",
+    "Rating": 2.78
+  },
+  {
+    "ID": 1060,
+    "Rank": 1500,
+    "Site Name": "Gorham's Cave Complex",
+    "Nomination Year": 2016,
+    "Country": "United Kingdom",
+    "Rating": 2.22
+  },
+  {
+    "ID": 1061,
+    "Rank": 1501,
+    "Site Name": "Antequera Dolmens Site",
+    "Nomination Year": 2016,
+    "Country": "Spain",
+    "Rating": 2.87
+  },
+  {
+    "ID": 1062,
+    "Rank": 1502,
+    "Site Name": "Nalanda",
+    "Nomination Year": 2016,
+    "Country": "India",
+    "Rating": 3.11
+  },
+  {
+    "ID": 1063,
+    "Rank": 1503,
+    "Site Name": "Nan Madol",
+    "Nomination Year": 2016,
+    "Country": "Micronesia",
+    "Rating": 3.67
+  },
+  {
+    "ID": 1064,
+    "Rank": 1504,
+    "Site Name": "Stećci",
+    "Nomination Year": 2016,
+    "Country": "Bosnia Herzegovina",
+    "Rating": 2.45
+  },
+  {
+    "ID": 1065,
+    "Rank": 1505,
+    "Site Name": "Lut Desert",
+    "Nomination Year": 2016,
+    "Country": "Iran",
+    "Rating": 3.76
+  },
+  {
+    "ID": 1066,
+    "Rank": 1506,
+    "Site Name": "The Persian Qanat",
+    "Nomination Year": 2016,
+    "Country": "Iran",
+    "Rating": 2.86
+  },
+  {
+    "ID": 1067,
+    "Rank": 1507,
+    "Site Name": "Phu Phrabat",
+    "Nomination Year": 2024,
+    "Country": "Thailand",
+    "Rating": 2.59
+  },
+  {
+    "ID": 1068,
+    "Rank": 1508,
+    "Site Name": "Zuojiang Huashan Rock Art",
+    "Nomination Year": 2016,
+    "Country": "China",
+    "Rating": 2.53
+  },
+  {
+    "ID": 1069,
+    "Rank": 1509,
+    "Site Name": "Hubei Shennongjia",
+    "Nomination Year": 2016,
+    "Country": "China",
+    "Rating": 2.84
+  },
+  {
+    "ID": 1070,
+    "Rank": 1510,
+    "Site Name": "Archipiélago de Revillagigedo",
+    "Nomination Year": 2016,
+    "Country": "Mexico",
+    "Rating": 4.26
+  },
+  {
+    "ID": 1071,
+    "Rank": 1511,
+    "Site Name": "Mbanza Kongo",
+    "Nomination Year": 2017,
+    "Country": "Angola",
+    "Rating": 3.95
+  },
+  {
+    "ID": 1072,
+    "Rank": 1513,
+    "Site Name": "Khangchendzonga National Park",
+    "Nomination Year": 2016,
+    "Country": "India",
+    "Rating": 3.64
+  },
+  {
+    "ID": 1073,
+    "Rank": 1517,
+    "Site Name": "Archaeological site of Philippi",
+    "Nomination Year": 2016,
+    "Country": "Greece",
+    "Rating": 3.1
+  },
+  {
+    "ID": 1074,
+    "Rank": 1518,
+    "Site Name": "Ani",
+    "Nomination Year": 2016,
+    "Country": "Turkiye",
+    "Rating": 3.7
+  },
+  {
+    "ID": 1075,
+    "Rank": 1519,
+    "Site Name": "Aphrodisias",
+    "Nomination Year": 2017,
+    "Country": "Turkiye",
+    "Rating": 3.78
+  },
+  {
+    "ID": 1076,
+    "Rank": 1523,
+    "Site Name": "Churches of the Pskov School of Architecture",
+    "Nomination Year": 2019,
+    "Country": "Russia",
+    "Rating": 2.99
+  },
+  {
+    "ID": 1077,
+    "Rank": 1525,
+    "Site Name": "Sviyazhsk",
+    "Nomination Year": 2017,
+    "Country": "Russia",
+    "Rating": 2.59
+  },
+  {
+    "ID": 1078,
+    "Rank": 1526,
+    "Site Name": "Los Alerces National Park",
+    "Nomination Year": 2017,
+    "Country": "Argentina",
+    "Rating": 3.99
+  },
+  {
+    "ID": 1079,
+    "Rank": 1527,
+    "Site Name": "Caves and Ice Age Art",
+    "Nomination Year": 2017,
+    "Country": "Germany",
+    "Rating": 2.22
+  },
+  {
+    "ID": 1080,
+    "Rank": 1528,
+    "Site Name": "Talayotic Menorca",
+    "Nomination Year": 2023,
+    "Country": "Spain",
+    "Rating": 3.07
+  },
+  {
+    "ID": 1081,
+    "Rank": 1529,
+    "Site Name": "Taputapuātea",
+    "Nomination Year": 2017,
+    "Country": "France",
+    "Rating": 2.35
+  },
+  {
+    "ID": 1082,
+    "Rank": 1532,
+    "Site Name": "Sambor Prei Kuk",
+    "Nomination Year": 2017,
+    "Country": "Cambodia",
+    "Rating": 3.33
+  },
+  {
+    "ID": 1083,
+    "Rank": 1533,
+    "Site Name": "Venetian Works of Defence",
+    "Nomination Year": 2017,
+    "Country": "Montenegro",
+    "Rating": 2.94
+  },
+  {
+    "ID": 1084,
+    "Rank": 1534,
+    "Site Name": "Tehuacán-Cuicatlán Valley",
+    "Nomination Year": 2018,
+    "Country": "Mexico",
+    "Rating": 3.27
+  },
+  {
+    "ID": 1085,
+    "Rank": 1535,
+    "Site Name": "Okinoshima Island",
+    "Nomination Year": 2017,
+    "Country": "Japan",
+    "Rating": 2.45
+  },
+  {
+    "ID": 1086,
+    "Rank": 1536,
+    "Site Name": "Kujataa",
+    "Nomination Year": 2017,
+    "Country": "Denmark",
+    "Rating": 2.42
+  },
+  {
+    "ID": 1087,
+    "Rank": 1537,
+    "Site Name": "Qalhat",
+    "Nomination Year": 2018,
+    "Country": "Oman",
+    "Rating": 1.84
+  },
+  {
+    "ID": 1088,
+    "Rank": 1538,
+    "Site Name": "Ivrea",
+    "Nomination Year": 2018,
+    "Country": "Italy",
+    "Rating": 1.99
+  },
+  {
+    "ID": 1089,
+    "Rank": 1539,
+    "Site Name": "Tarnowskie Góry Lead-Silver-Zinc Mine",
+    "Nomination Year": 2017,
+    "Country": "Poland",
+    "Rating": 2.24
+  },
+  {
+    "ID": 1090,
+    "Rank": 1540,
+    "Site Name": "Qinghai Hoh Xil",
+    "Nomination Year": 2017,
+    "Country": "China",
+    "Rating": 2.94
+  },
+  {
+    "ID": 1091,
+    "Rank": 1541,
+    "Site Name": "Kulangsu",
+    "Nomination Year": 2017,
+    "Country": "China",
+    "Rating": 3.08
+  },
+  {
+    "ID": 1092,
+    "Rank": 1542,
+    "Site Name": "Dilmun Burial Mounds",
+    "Nomination Year": 2019,
+    "Country": "Bahrain",
+    "Rating": 2.17
+  },
+  {
+    "ID": 1093,
+    "Rank": 1544,
+    "Site Name": "Yazd",
+    "Nomination Year": 2017,
+    "Country": "Iran",
+    "Rating": 3.8
+  },
+  {
+    "ID": 1094,
+    "Rank": 1545,
+    "Site Name": "ǂKhomani Cultural Landscape",
+    "Nomination Year": 2017,
+    "Country": "South Africa",
+    "Rating": 2.59
+  },
+  {
+    "ID": 1095,
+    "Rank": 1548,
+    "Site Name": "Valongo Wharf",
+    "Nomination Year": 2017,
+    "Country": "Brazil",
+    "Rating": 1.12
+  },
+  {
+    "ID": 1096,
+    "Rank": 1549,
+    "Site Name": "Sheki",
+    "Nomination Year": 2019,
+    "Country": "Azerbaijan",
+    "Rating": 2.79
+  },
+  {
+    "ID": 1097,
+    "Rank": 1550,
+    "Site Name": "Asmara",
+    "Nomination Year": 2017,
+    "Country": "Eritrea",
+    "Rating": 3.23
+  },
+  {
+    "ID": 1098,
+    "Rank": 1551,
+    "Site Name": "Ahmadabad",
+    "Nomination Year": 2017,
+    "Country": "India",
+    "Rating": 2.71
+  },
+  {
+    "ID": 1099,
+    "Rank": 1552,
+    "Site Name": "Roșia Montană",
+    "Nomination Year": 2021,
+    "Country": "Romania",
+    "Rating": 2.58
+  },
+  {
+    "ID": 1100,
+    "Rank": 1553,
+    "Site Name": "Hedeby and Danevirke",
+    "Nomination Year": 2018,
+    "Country": "Germany",
+    "Rating": 2.23
+  },
+  {
+    "ID": 1101,
+    "Rank": 1555,
+    "Site Name": "Colonies of Benevolence",
+    "Nomination Year": 2021,
+    "Country": "Belgium",
+    "Rating": 2.18
+  },
+  {
+    "ID": 1102,
+    "Rank": 1557,
+    "Site Name": "Aasivissuit - Nipisat",
+    "Nomination Year": 2018,
+    "Country": "Denmark",
+    "Rating": 2.75
+  },
+  {
+    "ID": 1103,
+    "Rank": 1558,
+    "Site Name": "Žatec – Landscape of Hops",
+    "Nomination Year": 2023,
+    "Country": "Czechia",
+    "Rating": 2.05
+  },
+  {
+    "ID": 1104,
+    "Rank": 1559,
+    "Site Name": "Fanjingshan",
+    "Nomination Year": 2018,
+    "Country": "China",
+    "Rating": 3.6
+  },
+  {
+    "ID": 1105,
+    "Rank": 1560,
+    "Site Name": "Medina Azahara",
+    "Nomination Year": 2018,
+    "Country": "Spain",
+    "Rating": 2.87
+  },
+  {
+    "ID": 1106,
+    "Rank": 1561,
+    "Site Name": "Quanzhou",
+    "Nomination Year": 2021,
+    "Country": "China",
+    "Rating": 3.67
+  },
+  {
+    "ID": 1107,
+    "Rank": 1562,
+    "Site Name": "Sansa, Buddhist Mountain Monasteries",
+    "Nomination Year": 2018,
+    "Country": "Republic of Korea",
+    "Rating": 3.1
+  },
+  {
+    "ID": 1108,
+    "Rank": 1563,
+    "Site Name": "Al-Ahsa Oasis",
+    "Nomination Year": 2018,
+    "Country": "Saudi Arabia",
+    "Rating": 2.38
+  },
+  {
+    "ID": 1109,
+    "Rank": 1564,
+    "Site Name": "Tr’ondëk-Klondike",
+    "Nomination Year": 2023,
+    "Country": "Canada",
+    "Rating": 3.22
+  },
+  {
+    "ID": 1110,
+    "Rank": 1565,
+    "Site Name": "Hebron/Al-Khalil Old Town",
+    "Nomination Year": 2017,
+    "Country": "Palestine",
+    "Rating": 3.26
+  },
+  {
+    "ID": 1111,
+    "Rank": 1567,
+    "Site Name": "Funerary and memory sites of the First World War",
+    "Nomination Year": 2023,
+    "Country": "France",
+    "Rating": 2.96
+  },
+  {
+    "ID": 1112,
+    "Rank": 1568,
+    "Site Name": "Sassanid Archaeological Landscape",
+    "Nomination Year": 2018,
+    "Country": "Iran",
+    "Rating": 3.41
+  },
+  {
+    "ID": 1113,
+    "Rank": 1569,
+    "Site Name": "Maison Carrée of Nîmes",
+    "Nomination Year": 2023,
+    "Country": "France",
+    "Rating": 2.77
+  },
+  {
+    "ID": 1114,
+    "Rank": 1570,
+    "Site Name": "Rudreshwara (Ramappa) Temple",
+    "Nomination Year": 2021,
+    "Country": "India",
+    "Rating": 2.94
+  },
+  {
+    "ID": 1115,
+    "Rank": 1571,
+    "Site Name": "The Prosecco Hills",
+    "Nomination Year": 2019,
+    "Country": "Italy",
+    "Rating": 2.15
+  },
+  {
+    "ID": 1116,
+    "Rank": 1572,
+    "Site Name": "Göbekli Tepe",
+    "Nomination Year": 2018,
+    "Country": "Turkiye",
+    "Rating": 3.99
+  },
+  {
+    "ID": 1117,
+    "Rank": 1573,
+    "Site Name": "Mafra",
+    "Nomination Year": 2019,
+    "Country": "Portugal",
+    "Rating": 2.93
+  },
+  {
+    "ID": 1118,
+    "Rank": 1574,
+    "Site Name": "Amami-Oshima Island",
+    "Nomination Year": 2021,
+    "Country": "Japan",
+    "Rating": 3.1
+  },
+  {
+    "ID": 1119,
+    "Rank": 1575,
+    "Site Name": "Barberton Makhonjwa Mountains",
+    "Nomination Year": 2018,
+    "Country": "South Africa",
+    "Rating": 2.57
+  },
+  {
+    "ID": 1120,
+    "Rank": 1577,
+    "Site Name": "Budj Bim Cultural Landscape",
+    "Nomination Year": 2019,
+    "Country": "Australia",
+    "Rating": 2.14
+  },
+  {
+    "ID": 1121,
+    "Rank": 1578,
+    "Site Name": "Risco Caido",
+    "Nomination Year": 2019,
+    "Country": "Spain",
+    "Rating": 2.48
+  },
+  {
+    "ID": 1122,
+    "Rank": 1580,
+    "Site Name": "Water Management System of Augsburg",
+    "Nomination Year": 2019,
+    "Country": "Germany",
+    "Rating": 2.31
+  },
+  {
+    "ID": 1123,
+    "Rank": 1584,
+    "Site Name": "Hyrcanian Forests",
+    "Nomination Year": 2019,
+    "Country": "Azerbaijan",
+    "Rating": 2.28
+  },
+  {
+    "ID": 1124,
+    "Rank": 1585,
+    "Site Name": "Trans-Iranian Railway",
+    "Nomination Year": 2021,
+    "Country": "Iran",
+    "Rating": 1.92
+  },
+  {
+    "ID": 1125,
+    "Rank": 1586,
+    "Site Name": "Memorial Sites of Genocide",
+    "Nomination Year": 2023,
+    "Country": "Rwanda",
+    "Rating": 2.6
+  },
+  {
+    "ID": 1126,
+    "Rank": 1587,
+    "Site Name": "Plain of Jars",
+    "Nomination Year": 2019,
+    "Country": "Laos",
+    "Rating": 3.74
+  },
+  {
+    "ID": 1127,
+    "Rank": 1588,
+    "Site Name": "Bagan",
+    "Nomination Year": 2019,
+    "Country": "Myanmar",
+    "Rating": 4.62
+  },
+  {
+    "ID": 1128,
+    "Rank": 1589,
+    "Site Name": "Kladruby nad Labem",
+    "Nomination Year": 2019,
+    "Country": "Czechia",
+    "Rating": 2.11
+  },
+  {
+    "ID": 1129,
+    "Rank": 1590,
+    "Site Name": "Bom Jesus do Monte",
+    "Nomination Year": 2019,
+    "Country": "Portugal",
+    "Rating": 3.2
+  },
+  {
+    "ID": 1130,
+    "Rank": 1591,
+    "Site Name": "Getbol, Korean Tidal Flat",
+    "Nomination Year": 2021,
+    "Country": "Republic of Korea",
+    "Rating": 2.92
+  },
+  {
+    "ID": 1131,
+    "Rank": 1592,
+    "Site Name": "Liangzhu Archaeological Site",
+    "Nomination Year": 2019,
+    "Country": "China",
+    "Rating": 3.2
+  },
+  {
+    "ID": 1132,
+    "Rank": 1593,
+    "Site Name": "Mozu-Furuichi Kofungun",
+    "Nomination Year": 2019,
+    "Country": "Japan",
+    "Rating": 2.11
+  },
+  {
+    "ID": 1133,
+    "Rank": 1594,
+    "Site Name": "Jodrell Bank Observatory",
+    "Nomination Year": 2019,
+    "Country": "United Kingdom",
+    "Rating": 2.86
+  },
+  {
+    "ID": 1134,
+    "Rank": 1597,
+    "Site Name": "Writing-on-Stone / Áísínai’pi",
+    "Nomination Year": 2019,
+    "Country": "Canada",
+    "Rating": 3.07
+  },
+  {
+    "ID": 1135,
+    "Rank": 1599,
+    "Site Name": "Krzemionki prehistoric flint mines",
+    "Nomination Year": 2019,
+    "Country": "Poland",
+    "Rating": 2.67
+  },
+  {
+    "ID": 1136,
+    "Rank": 1602,
+    "Site Name": "Ancient ferrous metallurgy sites",
+    "Nomination Year": 2019,
+    "Country": "Burkina Faso",
+    "Rating": 2.22
+  },
+  {
+    "ID": 1137,
+    "Rank": 1603,
+    "Site Name": "French Austral Lands and Seas",
+    "Nomination Year": 2019,
+    "Country": "France",
+    "Rating": 0
+  },
+  {
+    "ID": 1138,
+    "Rank": 1604,
+    "Site Name": "Vatnajökull National Park",
+    "Nomination Year": 2019,
+    "Country": "Iceland",
+    "Rating": 4.27
+  },
+  {
+    "ID": 1139,
+    "Rank": 1605,
+    "Site Name": "Jaipur City, Rajasthan",
+    "Nomination Year": 2019,
+    "Country": "India",
+    "Rating": 3.55
+  },
+  {
+    "ID": 1140,
+    "Rank": 1606,
+    "Site Name": "Migratory Bird Sanctuaries China",
+    "Nomination Year": 2019,
+    "Country": "China",
+    "Rating": 2.74
+  },
+  {
+    "ID": 1141,
+    "Rank": 1608,
+    "Site Name": "Danube Limes",
+    "Nomination Year": 2021,
+    "Country": "Austria",
+    "Rating": 2.02
+  },
+  {
+    "ID": 1142,
+    "Rank": 1610,
+    "Site Name": "Ombilin Coal Mining Heritage of Sawahlunto",
+    "Nomination Year": 2019,
+    "Country": "Indonesia",
+    "Rating": 3.24
+  },
+  {
+    "ID": 1143,
+    "Rank": 1611,
+    "Site Name": "Lençóis Maranhenses National Park",
+    "Nomination Year": 2024,
+    "Country": "Brazil",
+    "Rating": 3.8
+  },
+  {
+    "ID": 1144,
+    "Rank": 1612,
+    "Site Name": "Church of Atlántida",
+    "Nomination Year": 2021,
+    "Country": "Uruguay",
+    "Rating": 2.71
+  },
+  {
+    "ID": 1145,
+    "Rank": 1613,
+    "Site Name": "Great Spa Towns of Europe",
+    "Nomination Year": 2021,
+    "Country": "Austria",
+    "Rating": 3.29
+  },
+  {
+    "ID": 1146,
+    "Rank": 1614,
+    "Site Name": "Mathildenhöhe Darmstadt",
+    "Nomination Year": 2021,
+    "Country": "Germany",
+    "Rating": 2.59
+  },
+  {
+    "ID": 1147,
+    "Rank": 1616,
+    "Site Name": "Colchic Rainforests and Wetlands",
+    "Nomination Year": 2021,
+    "Country": "Georgia",
+    "Rating": 2.62
+  },
+  {
+    "ID": 1148,
+    "Rank": 1618,
+    "Site Name": "Paseo del Prado and Buen Retiro",
+    "Nomination Year": 2021,
+    "Country": "Spain",
+    "Rating": 2.87
+  },
+  {
+    "ID": 1149,
+    "Rank": 1619,
+    "Site Name": "Himā Cultural area",
+    "Nomination Year": 2021,
+    "Country": "Saudi Arabia",
+    "Rating": 2.6
+  },
+  {
+    "ID": 1150,
+    "Rank": 1620,
+    "Site Name": "Sítio Roberto Burle Marx",
+    "Nomination Year": 2021,
+    "Country": "Brazil",
+    "Rating": 2.73
+  },
+  {
+    "ID": 1151,
+    "Rank": 1621,
+    "Site Name": "Deer Stone Monuments",
+    "Nomination Year": 2023,
+    "Country": "Mongolia",
+    "Rating": 3.1
+  },
+  {
+    "ID": 1152,
+    "Rank": 1622,
+    "Site Name": "Arslantepe Mound",
+    "Nomination Year": 2021,
+    "Country": "Turkiye",
+    "Rating": 2.64
+  },
+  {
+    "ID": 1153,
+    "Rank": 1623,
+    "Site Name": "Padua’s fourteenth-century fresco cycles",
+    "Nomination Year": 2021,
+    "Country": "Italy",
+    "Rating": 3.99
+  },
+  {
+    "ID": 1154,
+    "Rank": 1624,
+    "Site Name": "Chankillo Archaeoastronomical Complex",
+    "Nomination Year": 2021,
+    "Country": "Peru",
+    "Rating": 2.97
+  },
+  {
+    "ID": 1155,
+    "Rank": 1625,
+    "Site Name": "Cordouan Lighthouse",
+    "Nomination Year": 2021,
+    "Country": "France",
+    "Rating": 3.32
+  },
+  {
+    "ID": 1156,
+    "Rank": 1631,
+    "Site Name": "Lower German Limes",
+    "Nomination Year": 2021,
+    "Country": "Germany",
+    "Rating": 1.72
+  },
+  {
+    "ID": 1157,
+    "Rank": 1632,
+    "Site Name": "Jomon Prehistoric Sites",
+    "Nomination Year": 2021,
+    "Country": "Japan",
+    "Rating": 2.85
+  },
+  {
+    "ID": 1158,
+    "Rank": 1633,
+    "Site Name": "The Slate Landscape of Northwest Wales",
+    "Nomination Year": 2021,
+    "Country": "United Kingdom",
+    "Rating": 2.87
+  },
+  {
+    "ID": 1159,
+    "Rank": 1634,
+    "Site Name": "Chinchorro Culture",
+    "Nomination Year": 2021,
+    "Country": "Chile",
+    "Rating": 2.77
+  },
+  {
+    "ID": 1160,
+    "Rank": 1635,
+    "Site Name": "Nice",
+    "Nomination Year": 2021,
+    "Country": "France",
+    "Rating": 2.75
+  },
+  {
+    "ID": 1161,
+    "Rank": 1636,
+    "Site Name": "ShUM Sites",
+    "Nomination Year": 2021,
+    "Country": "Germany",
+    "Rating": 2.37
+  },
+  {
+    "ID": 1162,
+    "Rank": 1638,
+    "Site Name": "Badain Jaran Desert",
+    "Nomination Year": 2024,
+    "Country": "China",
+    "Rating": 3.05
+  },
+  {
+    "ID": 1163,
+    "Rank": 1640,
+    "Site Name": "Djerba",
+    "Nomination Year": 2023,
+    "Country": "Tunisia",
+    "Rating": 1.68
+  },
+  {
+    "ID": 1164,
+    "Rank": 1641,
+    "Site Name": "Gedeo Cultural landscape",
+    "Nomination Year": 2023,
+    "Country": "Ethiopia",
+    "Rating": 2.63
+  },
+  {
+    "ID": 1165,
+    "Rank": 1643,
+    "Site Name": "Plečnik's Ljubljana",
+    "Nomination Year": 2021,
+    "Country": "Slovenia",
+    "Rating": 2.96
+  },
+  {
+    "ID": 1166,
+    "Rank": 1645,
+    "Site Name": "Dholavira: A Harappan City",
+    "Nomination Year": 2021,
+    "Country": "India",
+    "Rating": 3.3
+  },
+  {
+    "ID": 1167,
+    "Rank": 1647,
+    "Site Name": "Hawraman/Uramanat",
+    "Nomination Year": 2021,
+    "Country": "Iran",
+    "Rating": 2.36
+  },
+  {
+    "ID": 1168,
+    "Rank": 1648,
+    "Site Name": "Sudanese style mosques",
+    "Nomination Year": 2021,
+    "Country": "Côte d'Ivoire",
+    "Rating": 2.68
+  },
+  {
+    "ID": 1169,
+    "Rank": 1650,
+    "Site Name": "The Porticoes of Bologna",
+    "Nomination Year": 2021,
+    "Country": "Italy",
+    "Rating": 2.92
+  },
+  {
+    "ID": 1170,
+    "Rank": 1653,
+    "Site Name": "Ivindo National Park",
+    "Nomination Year": 2021,
+    "Country": "Gabon",
+    "Rating": 0
+  },
+  {
+    "ID": 1171,
+    "Rank": 1654,
+    "Site Name": "Petroglyphs of the Lake Onega and the White Sea",
+    "Nomination Year": 2021,
+    "Country": "Russia",
+    "Rating": 3.52
+  },
+  {
+    "ID": 1172,
+    "Rank": 1656,
+    "Site Name": "Jewish-Medieval heritage of Erfurt",
+    "Nomination Year": 2023,
+    "Country": "Germany",
+    "Rating": 1.63
+  },
+  {
+    "ID": 1173,
+    "Rank": 1657,
+    "Site Name": "Northern Martinique",
+    "Nomination Year": 2023,
+    "Country": "France",
+    "Rating": 3.38
+  },
+  {
+    "ID": 1174,
+    "Rank": 1658,
+    "Site Name": "Kuldiga",
+    "Nomination Year": 2023,
+    "Country": "Latvia",
+    "Rating": 2.53
+  },
+  {
+    "ID": 1175,
+    "Rank": 1660,
+    "Site Name": "Viking Age Ring Fortresses",
+    "Nomination Year": 2023,
+    "Country": "Denmark",
+    "Rating": 2.05
+  },
+  {
+    "ID": 1176,
+    "Rank": 1661,
+    "Site Name": "Modernist Kaunas",
+    "Nomination Year": 2023,
+    "Country": "Lithuania",
+    "Rating": 2.4
+  },
+  {
+    "ID": 1177,
+    "Rank": 1662,
+    "Site Name": "Si Thep",
+    "Nomination Year": 2023,
+    "Country": "Thailand",
+    "Rating": 2.83
+  },
+  {
+    "ID": 1178,
+    "Rank": 1663,
+    "Site Name": "Tak'alik Ab'aj",
+    "Nomination Year": 2023,
+    "Country": "Guatemala",
+    "Rating": 2.47
+  },
+  {
+    "ID": 1179,
+    "Rank": 1665,
+    "Site Name": "Ancient Tea Plantations of Pu'er",
+    "Nomination Year": 2023,
+    "Country": "China",
+    "Rating": 2.7
+  },
+  {
+    "ID": 1180,
+    "Rank": 1666,
+    "Site Name": "Gaya Tumuli",
+    "Nomination Year": 2023,
+    "Country": "Republic of Korea",
+    "Rating": 2.75
+  },
+  {
+    "ID": 1181,
+    "Rank": 1667,
+    "Site Name": "Koh Ker",
+    "Nomination Year": 2023,
+    "Country": "Cambodia",
+    "Rating": 3.54
+  },
+  {
+    "ID": 1182,
+    "Rank": 1668,
+    "Site Name": "Persian Caravanserai",
+    "Nomination Year": 2023,
+    "Country": "Iran",
+    "Rating": 2.7
+  },
+  {
+    "ID": 1183,
+    "Rank": 1669,
+    "Site Name": "Gordion",
+    "Nomination Year": 2023,
+    "Country": "Turkiye",
+    "Rating": 3.06
+  },
+  {
+    "ID": 1184,
+    "Rank": 1670,
+    "Site Name": "Sacred Ensembles of the Hoysala",
+    "Nomination Year": 2023,
+    "Country": "India",
+    "Rating": 3.55
+  },
+  {
+    "ID": 1185,
+    "Rank": 1671,
+    "Site Name": "Yogyakarta",
+    "Nomination Year": 2023,
+    "Country": "Indonesia",
+    "Rating": 3
+  },
+  {
+    "ID": 1186,
+    "Rank": 1673,
+    "Site Name": "Vjetrenica Cave",
+    "Nomination Year": 2024,
+    "Country": "Bosnia Herzegovina",
+    "Rating": 2.71
+  },
+  {
+    "ID": 1187,
+    "Rank": 1675,
+    "Site Name": "Silk Roads: Zarafshan-Karakum Corridor",
+    "Nomination Year": 2023,
+    "Country": "Turkmenistan",
+    "Rating": 2.62
+  },
+  {
+    "ID": 1188,
+    "Rank": 1676,
+    "Site Name": "Nelson Mandela Legacy Sites",
+    "Nomination Year": 2024,
+    "Country": "South Africa",
+    "Rating": 1.8
+  },
+  {
+    "ID": 1189,
+    "Rank": 1678,
+    "Site Name": "Astronomical Observatories of Kazan Federal University",
+    "Nomination Year": 2023,
+    "Country": "Russia",
+    "Rating": 0.72
+  },
+  {
+    "ID": 1190,
+    "Rank": 1680,
+    "Site Name": "Jodensavanne",
+    "Nomination Year": 2023,
+    "Country": "Suriname",
+    "Rating": 1.42
+  },
+  {
+    "ID": 1191,
+    "Rank": 1681,
+    "Site Name": "ESMA Site Museum",
+    "Nomination Year": 2023,
+    "Country": "Argentina",
+    "Rating": 1.98
+  },
+  {
+    "ID": 1192,
+    "Rank": 1683,
+    "Site Name": "Eisinga Planetarium",
+    "Nomination Year": 2023,
+    "Country": "Netherlands",
+    "Rating": 3.53
+  },
+  {
+    "ID": 1193,
+    "Rank": 1685,
+    "Site Name": "Tugay forests",
+    "Nomination Year": 2023,
+    "Country": "Tajikistan",
+    "Rating": 0.43
+  },
+  {
+    "ID": 1194,
+    "Rank": 1686,
+    "Site Name": "Anticosti",
+    "Nomination Year": 2023,
+    "Country": "Canada",
+    "Rating": 2.17
+  },
+  {
+    "ID": 1195,
+    "Rank": 1687,
+    "Site Name": "Ancient Jericho",
+    "Nomination Year": 2023,
+    "Country": "Palestine",
+    "Rating": 2.82
+  },
+  {
+    "ID": 1196,
+    "Rank": 1688,
+    "Site Name": "Cultural Landscape of Kenozero Lake",
+    "Nomination Year": 2024,
+    "Country": "Russia",
+    "Rating": 3.5
+  },
+  {
+    "ID": 1197,
+    "Rank": 1689,
+    "Site Name": "Hopewell",
+    "Nomination Year": 2023,
+    "Country": "United States of America",
+    "Rating": 2.3
+  },
+  {
+    "ID": 1198,
+    "Rank": 1692,
+    "Site Name": "Evaporitic Karst and Caves",
+    "Nomination Year": 2023,
+    "Country": "Italy",
+    "Rating": 2.18
+  },
+  {
+    "ID": 1199,
+    "Rank": 1693,
+    "Site Name": "Cold winter deserts of Turan",
+    "Nomination Year": 2023,
+    "Country": "Turkmenistan",
+    "Rating": 2.66
+  },
+  {
+    "ID": 1200,
+    "Rank": 1694,
+    "Site Name": "Wooden Hypostyle Mosques of Medieval Anatolia",
+    "Nomination Year": 2023,
+    "Country": "Turkiye",
+    "Rating": 2.69
+  },
+  {
+    "ID": 1201,
+    "Rank": 1695,
+    "Site Name": "Zagori Cultural Landscape",
+    "Nomination Year": 2023,
+    "Country": "Greece",
+    "Rating": 3.34
+  },
+  {
+    "ID": 1202,
+    "Rank": 1696,
+    "Site Name": "Khinalig",
+    "Nomination Year": 2023,
+    "Country": "Azerbaijan",
+    "Rating": 2.77
+  },
+  {
+    "ID": 1203,
+    "Rank": 1697,
+    "Site Name": "Nyungwe National Park",
+    "Nomination Year": 2023,
+    "Country": "Rwanda",
+    "Rating": 3.14
+  },
+  {
+    "ID": 1204,
+    "Rank": 1698,
+    "Site Name": "Sado Island Gold Mines",
+    "Nomination Year": 2024,
+    "Country": "Japan",
+    "Rating": 1.97
+  },
+  {
+    "ID": 1205,
+    "Rank": 1699,
+    "Site Name": "'Uruq Bani Ma'arid",
+    "Nomination Year": 2023,
+    "Country": "Saudi Arabia",
+    "Rating": 2.24
+  },
+  {
+    "ID": 1206,
+    "Rank": 1700,
+    "Site Name": "Ancient Kingdom of Saba",
+    "Nomination Year": 2023,
+    "Country": "Yemen",
+    "Rating": 3.11
+  },
+  {
+    "ID": 1207,
+    "Rank": 1702,
+    "Site Name": "Rachid Karami International Fair-Tripoli",
+    "Nomination Year": 2023,
+    "Country": "Lebanon",
+    "Rating": 2.13
+  },
+  {
+    "ID": 1208,
+    "Rank": 1703,
+    "Site Name": "Odesa",
+    "Nomination Year": 2023,
+    "Country": "Ukraine",
+    "Rating": 3.25
+  },
+  {
+    "ID": 1209,
+    "Rank": 1705,
+    "Site Name": "Schwerin Residence Ensemble",
+    "Nomination Year": 2024,
+    "Country": "Germany",
+    "Rating": 2.84
+  },
+  {
+    "ID": 1210,
+    "Rank": 1707,
+    "Site Name": "Marquesas Islands",
+    "Nomination Year": 2024,
+    "Country": "France",
+    "Rating": 0
+  },
+  {
+    "ID": 1211,
+    "Rank": 1708,
+    "Site Name": "Via Appia",
+    "Nomination Year": 2024,
+    "Country": "Italy",
+    "Rating": 3.3
+  },
+  {
+    "ID": 1212,
+    "Rank": 1711,
+    "Site Name": "Moidams",
+    "Nomination Year": 2024,
+    "Country": "India",
+    "Rating": 1.75
+  },
+  {
+    "ID": 1213,
+    "Rank": 1712,
+    "Site Name": "Al-Faw",
+    "Nomination Year": 2024,
+    "Country": "Saudi Arabia",
+    "Rating": 1.47
+  },
+  {
+    "ID": 1214,
+    "Rank": 1713,
+    "Site Name": "The Royal Court of Tiébélé",
+    "Nomination Year": 2024,
+    "Country": "Burkina Faso",
+    "Rating": 3.5
+  },
+  {
+    "ID": 1215,
+    "Rank": 1714,
+    "Site Name": "Beijing Central Axis",
+    "Nomination Year": 2024,
+    "Country": "China",
+    "Rating": 3.03
+  },
+  {
+    "ID": 1216,
+    "Rank": 1716,
+    "Site Name": "Hegmataneh",
+    "Nomination Year": 2024,
+    "Country": "Iran",
+    "Rating": 2.53
+  },
+  {
+    "ID": 1217,
+    "Rank": 1718,
+    "Site Name": "Dacian Limes",
+    "Nomination Year": 2024,
+    "Country": "Romania",
+    "Rating": 1.72
+  },
+  {
+    "ID": 1218,
+    "Rank": 1720,
+    "Site Name": "Gedi",
+    "Nomination Year": 2024,
+    "Country": "Kenya",
+    "Rating": 2.7
+  },
+  {
+    "ID": 1219,
+    "Rank": 1721,
+    "Site Name": "Umm Al-Jimāl",
+    "Nomination Year": 2024,
+    "Country": "Jordan",
+    "Rating": 2.83
+  },
+  {
+    "ID": 1220,
+    "Rank": 1722,
+    "Site Name": "The Flow Country",
+    "Nomination Year": 2024,
+    "Country": "United Kingdom",
+    "Rating": 2.14
+  },
+  {
+    "ID": 1221,
+    "Rank": 1723,
+    "Site Name": "The Pleistocene Occupation Sites of South Africa",
+    "Nomination Year": 2024,
+    "Country": "South Africa",
+    "Rating": 0.99
+  },
+  {
+    "ID": 1222,
+    "Rank": 1749,
+    "Site Name": "Tell Umm Amer",
+    "Nomination Year": 2024,
+    "Country": "Palestine",
+    "Rating": 0
+  }
+]
