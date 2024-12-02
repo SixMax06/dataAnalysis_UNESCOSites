@@ -2,6 +2,7 @@
 
 This project was written in Python on Google Colab and it uses the libraries [MathPlot](https://matplotlib.org/) and [Folium](https://python-visualization.github.io/folium/latest/)
 
+[Colab project link](https://colab.research.google.com/drive/1WghANynHFejoJIftp8GaSmyI9MOyMfRG?usp=sharing)
 ---
 Datasets used:
 
