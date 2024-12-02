@@ -105,7 +105,7 @@
     "key": "BA",
     "latitude": 43.915886,
     "longitude": 17.679076,
-    "name": "Bosnia and Herzegovina"
+    "name": "Bosnia Herzegovina"
   },
   {
     "key": "BB",
@@ -255,7 +255,7 @@
     "key": "CG",
     "latitude": -0.228021,
     "longitude": 15.827659,
-    "name": "Congo [Republic]"
+    "name": "Congo (Republic)"
   },
   {
     "key": "CH",
@@ -339,7 +339,7 @@
     "key": "CZ",
     "latitude": 49.817492,
     "longitude": 15.472962,
-    "name": "Czech Republic"
+    "name": "Czechia"
   },
   {
     "key": "DE",
@@ -735,13 +735,13 @@
     "key": "KP",
     "latitude": 40.339852,
     "longitude": 127.510093,
-    "name": "North Korea"
+    "name": "Korea (DPR)"
   },
   {
     "key": "KR",
     "latitude": 35.907757,
     "longitude": 127.766922,
-    "name": "South Korea"
+    "name": "Republic of Korea"
   },
   {
     "key": "KW",
@@ -873,7 +873,7 @@
     "key": "MK",
     "latitude": 41.608635,
     "longitude": 21.745275,
-    "name": "Macedonia [FYROM]"
+    "name": "North Macedonia"
   },
   {
     "key": "ML",
@@ -885,7 +885,7 @@
     "key": "MM",
     "latitude": 21.913965,
     "longitude": 95.956223,
-    "name": "Myanmar [Burma]"
+    "name": "Myanmar"
   },
   {
     "key": "MN",
@@ -1107,7 +1107,7 @@
     "key": "PS",
     "latitude": 31.952162,
     "longitude": 35.233154,
-    "name": "Palestinian Territories"
+    "name": "Palestine"
   },
   {
     "key": "PT",
@@ -1353,7 +1353,7 @@
     "key": "TR",
     "latitude": 38.963745,
     "longitude": 35.243322,
-    "name": "Turkey"
+    "name": "Turkiye"
   },
   {
     "key": "TT",
